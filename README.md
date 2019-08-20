@@ -1,4 +1,6 @@
 # FEBUS tournament rulebook
+> Regulations for categories: Longsword, Rapier and Dagger
+---
 ## 1. GOALS
 
 The primary motivation for the tournament organization is a practical test of fencing skills in a controlled, athletic-driven environment. The objective of these rules is to limit a fencing match in such a way that fine techniques, functional strategy, tactics and athletic skills would be required to win a duel. Furthermore, they are an essential safety measure.
