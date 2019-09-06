@@ -34,4 +34,4 @@
 
 4. Thrusts aimed at the cloak covered hand or body are considered valid, as long as the thrust hits valid target through the cloak, and satisfies the general requirements of valid attacks.
 
-5. It is forbidden to throw the cloak at the opponent. It must be wrapped around the unarmed hand. Dropping or letting go of the cloak belongs to the first group of offences.
+5. It is forbidden to throw the cloak at the opponent. It must be wrapped around the unarmed hand. Dropping or letting go of the cloak without the opponent’s interaction belongs to the first group of offences.
