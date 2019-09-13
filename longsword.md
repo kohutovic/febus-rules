@@ -67,7 +67,7 @@
 
 5. In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in time in relation to the final movement of a compound attack, the double hit often occurs through the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case, the referee should assign no points. (The fault of the attacker consists of indecision, slowness of execution or the making of feints which are not sufficiently effective. The fault of the defender lies in delay or slowness in making the stop hit.)
 
-6. Any actions executed while holding the weapon with one hand only, can only score if the fencer does not receive any attack or counterattack with a weapon held with two hands, within one period of fencing time. 
+6. Any actions executed while holding the weapon with one hand only, can only score if the fencer does not receive any attack or counterattack with a weapon held with two hands, within one period of fencing time.
 
 7. However if the opponent reacts to the attack with a weapon held in one hand with an attempt to parry, an unsuccessful parry returns the right of initiative to the one-handed hit.
 
