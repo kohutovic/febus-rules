@@ -12,7 +12,7 @@
 
 ## *Vor* (priority)
 
-1. The Referee alone decides as to the validity or the priority (*Vor*) of the hit by applying the following basic rules which are the conventions applicable to longsword fencing:
+1. The Referee alone decides as to the validity or the priority (*Vor*) of the hit by applying the following basic rules which are the conventions applicable to longsword fencing.
 
 2. Any attack properly executed must be parried, or completely avoided, and the phrase must be continuous.
 
@@ -38,6 +38,8 @@
     1. The parry is properly carried out when, before the completion of the attack, it prevents the arrival of that attack by closing the line in which that attack is to finish.
     2. When a parry is properly executed, the attack by the opponent must be declared parried, and judged as such by the Referee, even if, as a result of its flexibility, the tip of the opponent’s weapon makes contact with the target.
 
+10. Detailed examples and descriptions for application of Vor rule are described [Appendix: Vor/Priority](./appendices/priority.md)
+
 ## Close quarter combat
 
 1. Priority ceases to exist when the weapons of the opponents come together at *Stercke* on *Stercke* (including the crossguard), and/or in case of grappling actions. In case the weapons touch *Stercke* on *Stercke*, and a double hit follows immediately, both fencers are called a point against. Otherwise, they may disengage and continue fencing (with priority rules), or enter grappling (with grappling rules).
@@ -46,29 +48,14 @@
 
 1. When during a phrase both fencers are hit within a period of fencing time there is either a simultaneous action or a double hit:
     1. The simultaneous action is due to simultaneous conception and execution of an attack by both fencers; in this case both fencers are called a point against.
-    2. The double hit on the other hand, is the result of a clearly faulty action on the part of one of the fencers, according to the rules. Therefore, when there is not an interval of fencing time between the hits:
+    2. The double hit on the other hand, is the result of a clearly faulty action on the part of one of the fencers, according to the rules. Therefore, when there is not an interval of fencing time between the hits.
 
-2. The fencer who is attacked is alone counted as hit:
-    1. if he makes a counter-attack on his opponent’s simple attack
-    2. if, instead of parrying, he attempts to avoid the hit and does not succeed in doing so
-    3. if, after making a successful parry, he makes a momentary pause (delayed riposte) which gives his opponent the right to renew the attack (redoublement, or remise, or reprise)
-    4. if, during a compound attack, he makes a stop hit without being in time
-    5. if, having his point ‘in line’ and being subjected to a beat or a taking of the blade which deflects his blade, he attacks or places his point in line again instead of parrying a direct hit made by his opponent
+2. When there is a double hit, and if the Referee is unable clearly to judge from which side the fault has come, he must the referee must not assign any points.
 
-3. The fencer who attacks is alone counted as hit:
-    1. If he initiated his attack when his opponent had his point ‘in line’, without deflecting the opponent’s weapon. Referees must ensure that a mere contact of the blades is not considered as sufficient to deflect the opponent’s blade.
-    2. If he attempts to find the blade, does not succeed (due to the opponent's avoiding reaction) and continues the attack.
-    3. If, during a compound attack, he allows his opponent to find the blade, and continues the attack while his opponent ripostes immediately.
-    4. If, during a compound attack, he bends his arm or makes a momentary pause, during which time the opponent makes a stop hit or an attack while the attacker continues his own attack.
-    5. If, during a compound attack, he is stop-hit one period of fencing time before he makes his final movement.
-    6. If he makes a hit by a renewed attack following a parry by his opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
+3. In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in time in relation to the final movement of a compound attack, the double hit often occurs through the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case, the referee should assign no points. (The fault of the attacker consists of indecision, slowness of execution or the making of feints which are not sufficiently effective. The fault of the defender lies in delay or slowness in making the stop hit.)
 
-4. When there is a double hit, and if the Referee is unable clearly to judge from which side the fault has come, he must the referee must not assign any points.
+4. Any actions executed while holding the weapon with one hand only, can only score if the fencer does not receive any attack or counterattack with a weapon held with two hands, within one period of fencing time.
 
-5. In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in time in relation to the final movement of a compound attack, the double hit often occurs through the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case, the referee should assign no points. (The fault of the attacker consists of indecision, slowness of execution or the making of feints which are not sufficiently effective. The fault of the defender lies in delay or slowness in making the stop hit.)
+5. However if the opponent reacts to the attack with a weapon held in one hand with an attempt to parry, an unsuccessful parry returns the right of initiative to the one-handed hit.
 
-6. Any actions executed while holding the weapon with one hand only, can only score if the fencer does not receive any attack or counterattack with a weapon held with two hands, within one period of fencing time.
-
-7. However if the opponent reacts to the attack with a weapon held in one hand with an attempt to parry, an unsuccessful parry returns the right of initiative to the one-handed hit.
-
-8. In cases when both fencers get hit with a weapon held in one hand within time, the judgment of the action follows the regular priority rules.
+6. In cases when both fencers get hit with a weapon held in one hand within time, the judgment of the action follows the regular priority rules.
