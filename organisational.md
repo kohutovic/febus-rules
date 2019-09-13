@@ -1,14 +1,42 @@
-# Organisation of the competitions and classification
+# Organisational Rules
 
-## The round of pools
+1. The competition is open to athletes of 18 years and older.
+
+2. It is prohibited to enter a competition under the influence of alcohol or performance-altering drugs (including recreational drugs and those prescribed by physicians).
+
+## The Refereeing system
+
+### Main referee
+
+1. The referee works with an assistant (side referee) and manages the time and protocol (when necessary, supported by an administrative crew).
+
+2. The referee gives the signals to start, stop, assigns points and describes what happened during the entire assault or at least the last exchange.
+
+3. After stopping the bout, the referee consults with the assistant and proposes a result. If the fencers accept the decision (they say nothing), the fight continues with the proposed score. If they don’t agree with the referee, but they agree with each other, the referee may make a decision according to their wishes. If any of the fencers protests and the fencers disagree with each other, the referee will decide whether to assign a point (being completely sure) or repeat the assault.
+
+4. If the referee is unable to interpret the fencing phrase for some reason, he/she can repeat the exchange but will explain and apologise.
+
+5. The Referee's decisions can not be contested after the bout.
+
+### Side referee (Assistant Referee)
+
+1. An assistant referee helps the main referee in scoring and hit evaluation. His task is to observe a match from a different angle than the main referee.
+
+2. If an assistant observes that a fencer they are to follow received a hit, they should raise their arm. The main referee then may or may not stop the fighting.
+
+3. An assistant referee is not responsible for point assignment nor for the overall match score.
+
+## Organisation of the competitions and classification
+
+### The round of pools
 
 1. In all competitions for which the formula includes a round of pools, these pools will consist of 7 fencers if the number of participants is divisible by 7. Otherwise the pools will be of 7 and 6.
 
 2. In the pools a bout ends when:
-    1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet is the final score of the bout (V3 – Dn, where n = the number of hits scored by the losing fencer).
+    1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet is the final score of the bout (V5 – Dn, where n = the number of hits scored by the losing fencer).
     2. Three minutes of effective fencing time have passed. (There is no warning for the last minute.)
 
-3. When the time limit expires there is a difference of at least one point between the scores of the two fencers, the fencer who has scored the greater number of hits is declared winner. The score registered on the score-sheet is the actual score achieved in the bout (VN – Dn, where N = the number of hits scored by the winning fencer and n = the number of hits scored by the losing fencer).
+3. If when the time limit expires there is a difference of at least one point between the scores of the two fencers, the fencer who has scored the greater number of hits is declared winner. The score registered on the score-sheet is the actual score achieved in the bout (VN – Dn, where N = the number of hits scored by the winning fencer and n = the number of hits scored by the losing fencer).
 
 4. If at the end of regulation time the scores are equal, the fencers fence for a deciding hit, with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots to decide who will be the winner if scores are still equal at the end of the extra minute.
 
@@ -43,14 +71,16 @@
 2. The organisers of a competition publish the direct elimination bout plan. The direct elimination bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest between the two periods, have passed.
 
 3. During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
-The bout ends when:
 
-4. One of the fencers has scored 7 hits; or
-    1. 2 * 3 minutes of effective fencing time have passed.
-    2. The fencer who has scored the greater number of hits is declared the winner.
+4. The bout ends when:
+    1. One of the fencers has scored 7 hits; or
+    2. 2 * 3 minutes of effective fencing time have passed.
 
-5. If at the end of regulation time the scores are equal, the fencers fence for a deciding hit, with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots to decide who will be the winner if scores are still equal at the end of the extra minute. In this case the score recorded on the score-sheet is the real score achieved in the bout.
-6. Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete his bout, his opponent is declared winner of that bout. A fencer who withdraws does not lose his place in the overall classification of the competition.
+5. The fencer who has scored the greater number of hits is declared the winner.
+
+6. If at the end of regulation time the scores are equal, the fencers fence for a deciding hit, with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots to decide who will be the winner if scores are still equal at the end of the extra minute. In this case the score recorded on the score-sheet is the real score achieved in the bout.
+
+7. Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete his bout, his opponent is declared winner of that bout. A fencer who withdraws does not lose his place in the overall classification of the competition.
 
 ## Order of bouts
 
@@ -58,13 +88,11 @@ The bout ends when:
 
 ## Classification
 
-The general classification is obtained as follows:
-
-1. First: the winner of the bout for the first place Second: the loser of the bout for the first place
-
-2. A bout for third and fourth places will be fought between the two losers of the semi-final matches.
-
-3. The remainder are placed, within each round of the direct elimination, in accordance with their classification for the composition of the direct elimination table.
+1. The general classification is obtained as follows:
+    1. First: the winner of the bout for the first place
+    2. Second: the loser of the bout for the first place
+    3. A bout for third and fourth places will be fought between the two losers of the semi-final matches.
+    4. The remainder are placed, within each round of the direct elimination, in accordance with their classification for the composition of the direct elimination table.
 
 ## Tournament Staff
 
