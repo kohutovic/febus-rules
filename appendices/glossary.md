@@ -73,7 +73,7 @@
 3.  *The counter-riposte* is the offensive action made by the fencer who
     has parried the riposte.
 
-4.  *Counter-attack* – is an offensive or offensive-defensive actions
+4. *Counter-attack* – is an offensive or offensive-defensive actions
     made during the offensive action of the opponent.
     1. *Stop-hit* – a counter-attack made into an attack.
     2. *Stop-hit with opposition* – a counter-attack made while closing
@@ -110,7 +110,4 @@
 2. *Evasion* – it is an action of the body when a potential target
    avoids being hit by prolonging the distance or by another movement.
 
-3. The Langort position - a specific position in which the fencer’s
-   sword arm is kept straight and the point of his weapon continually
-   threatens his opponent’s valid target
-
+3. The Langort position - a specific position in which the fencer’s sword arm is kept straight and the point of his weapon continually threatens his opponent’s valid target.

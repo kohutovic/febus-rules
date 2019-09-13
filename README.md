@@ -26,7 +26,6 @@ equal opportunities for every tournament contestant.
   - [Longsword](./equipment.md#longsword)
   - [Rapier](./equipment.md#rapier)
   - [Protection Gear](./equipment.md#protection-gear)
-
 ## Organisation and bout management
 
 - [Organisation](./organisation.md)
@@ -43,6 +42,7 @@ equal opportunities for every tournament contestant.
 
 ## Appendix
 
-- [Glossary](./glossary.md)
-- [Tables of offence and penalties](./penalties.md)
+- [Glossary](./appendices/glossary.md)
+- [Tables of offence and penalties](./appendices/penalties.md)
+- [Vor/Priority examples](./appendices/priority.md)
 

@@ -111,9 +111,9 @@
    they do not agree with them. They must obey any instructions which
    the Referee may deem it necessary to give them.
 
-# The Disciplinary Authorities and their Competence
+## The Disciplinary Authorities and their Competence
 
-## The Referee
+### The Referee
 
 1.  By accepting a position as referee or assistant, the person so
     designated pledges his/her honour to respect the rules and to cause
@@ -168,7 +168,7 @@
    Refereeing Committee are immediately enforceable. No appeal against a
    decision can suspend that decision during the competition.
 
-# Penalties
+## Penalties
 
 1. There are distinct categories of penalty applicable to different
    sorts of offence.
@@ -189,7 +189,7 @@
 2. All these penalties can be applied by the competent authorities at a
    competition — the Referee and the Organising Team.
 
-## Penalties Related to Fencing
+### Penalties Related to Fencing
 
 1. Refusal to award a hit actually made. Although a competitor may in
    fact have hit his opponent on the target, this hit may be disallowed,
@@ -214,7 +214,7 @@
    all the fencers ranked after the disqualified fencer move up one
    place in the results of the competition.
 
-## Disciplinary penalties
+### Disciplinary penalties
 
 1. Exclusion from the Competition. It may also be imposed for a
    disciplinary offence (failure to appear on the arena as required,
@@ -235,7 +235,7 @@
       duration of the competition or tournament. In no circumstances can
       the imposition of this penalty give cause for redress to anyone.
 
-## The types (groups) of penalty
+### The types (groups) of penalty
 
 1.  There are three types of penalty to be applied in the cases
     indicated in the table in Article. If a referee has to penalise a
@@ -277,7 +277,7 @@
     within the competence of the Referee, although the Organising Team
     still retains the right to intervene on its own initiative.
 
-## The First Group of offences
+### The First Group of offences
 
 1. The first infringement in this First Group is penalised by a YELLOW
    CARD (warning). If during the same bout the fencer commits the same
@@ -287,7 +287,7 @@
    in the Second or Third Group, he receives a further RED CARD for his
    first infringement relating to the First Group.
 
-## The Second Group of offences
+### The Second Group of offences
 
 1. Every offence in the Second Group, including the first infringement,
    is penalised by a RED CARD (penalty hit).
@@ -314,11 +314,11 @@
       the arena, the Referee may exclude or expel the person at fault
       immediately.
 
-## The Fourth Group of Offences
+### The Fourth Group of Offences
 
 1. The first infringement in the Fourth Group, is penalised by a BLACK
    CARD (exclusion from the competition.
 
-## Offences and Penalties
+### Offences and Penalties
 
 1. [Table of offences and penalties!]
