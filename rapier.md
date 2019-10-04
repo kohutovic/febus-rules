@@ -1,5 +1,12 @@
 # Rapier and side weapons competitions
 
+## Wrestling
+
+1. All wrestling actions are forbidden in all categories with a weapon
+   using a primary weapon in one hand and a secondary weapon or shield
+   in another one. using primary weapon in one hand and secondary in
+   another one.
+
 ## Rules of hit validity
 
 1.  Rapiers can be used with a parrying dagger or a cloak. The
