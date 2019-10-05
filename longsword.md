@@ -62,9 +62,9 @@
 
 7.  In order to judge as to the correctness of an attack the following
     points must be considered:
-    1. If the attack is initiated when the opponent has his point
+    1. If the attack is initiated when the opponent has their point
        passively in Langort (‘in line’) the attacker must first deflect
-       his opponent’s weapon. Referees must ensure that a mere contact
+       the opponent’s weapon. Referees must ensure that a mere contact
        of the blades is not considered as sufficient to deflect the
        opponent’s blade.
     2. If, when attempting to find the opponent’s blade to deflect it,
@@ -124,7 +124,7 @@
        between the hits.
 
 2.  When there is a double hit, and if the Referee is unable clearly to
-    judge from which side the fault has come, he must the referee must
+    judge from which side the fault has come, the referee must
     not assign any points.
 
 3.  In cases when a stop hit is made and there is doubt as to whether it

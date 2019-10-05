@@ -13,7 +13,7 @@
 3.  An additional equipment check will be performed by the referee
     directly before each round to confirm completeness of safety gear
     and weapons. The Referee has the right to repeat this check any time
-    he/she finds it necessary. Fencers who appear in the arena wearing
+    they  find it necessary. Fencers who appear in the arena wearing
     or using unapproved or incomplete equipment will be penalised
     according to the Rulebook's regulations, and will not be allowed to
     start or continue competing without having the item(s) approved or
@@ -95,7 +95,7 @@
     1. upon the first occasion within a bout, the fencer receives a
        verbal warning
     2. upon each subsequent cases within the bout, a hit will be scored
-       against him (as if he had been hit).
+       against him (as if they had been hit).
 
 17. A competitor who involuntarily crosses one of the boundaries of the
     arena as the result of any accidental cause (such as jostling/being
