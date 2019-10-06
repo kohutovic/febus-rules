@@ -188,7 +188,7 @@
       5. exclusion from events organised by the Federation or the specific Organising Team for a period of time.
 
 2. All these penalties can be applied by the competent authorities at a
-   competition — the Referee and the Organising Team.
+   competition — the Referee, the Head of the Refereeing Committee, and the Organising Team.
 
 ### Penalties Related to Fencing
 
