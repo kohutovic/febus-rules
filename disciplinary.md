@@ -292,7 +292,7 @@
 1. Every offence in the Second Group, including the first infringement,
    is penalised by a RED CARD (penalty hit).
 
-## The Third Group of Offences
+### The Third Group of Offences
 
 1. The first infringement in the Third Group is penalised by a RED CARD
    (penalty hit), even if the fencer at fault has already received a RED
@@ -319,6 +319,3 @@
 1. The first infringement in the Fourth Group, is penalised by a BLACK
    CARD (exclusion from the competition.
 
-### Offences and Penalties
-
-1. [Table of offences and penalties!]

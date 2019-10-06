@@ -141,39 +141,55 @@
     (with widened *ricasso*) or *Spada* sword (with a complex handle
     which protects the hand) are preferred. A sword must consist of a
     blade with two edges, a cross-guard, a handle, and a pommel.
+
 2.  The blade must not bear signs of heavy damage, must not be bent,
     broken or ruptured. The edges must be round and blunt.
+
 3.  A blade may contain a wide ricasso, also known as *Schilt*, which
     must have round and blunt edges.
+
 4.  A complex cross-guard or rings are allowed.
+
 5.  The pommel must be smooth and have no studs.
+
 6.  The flexibility of the blade is measured with a 1 kg heavyweight
     which is attached to the point of the blade with the sword held on
     firm ground (e.g. a table etc.). The allowed flexibility is from
     7-15%, where the individual figures mean the ratio of the deviation
     caused by the weight compared to the length of the blade in cm
     multiplied by 100.
+
 7.  The minimum width of the point is 1cm.
+
 8.  The point of the blade must be either flared or rounded to prevent
     potential penetration.
+
 9.  The point of balance of the sword cannot be more than 9cm away from
     the cross-guard.
+
 10. The point of the sword must be covered by a red/white tape for
     better visibility.
+
 11. The overall length of the sword must be within 70-100cm.
+
 12. The weight of the sword must be between 900 to 1200g.
 
 #### Buckler
 
 1. A buckler is used in tournaments in the category sword and buckler.
+
 2. By the name buckler, it is meant a circular shield that can be
    gripped in a fist.
+
 3. The core of a buckler is made with a shield boss, which protects the
    hand.
+
 4. The body of buckler must be wooden or metallic; it cannot have any
    studs or sharp edges.
+
 5. The weight of the buckler is not limited, but it must have a circular
    shape; so-called *Targa* shield is not allowed in the tournament.
+
 6. The buckler serves a defensive purpose; covering, engaging and
    diverting of the opponent’s weapon is possible.
 
@@ -182,22 +198,29 @@
 1. Historicizing replicas of rapiers with a long blade meant for
    sporting-historical fencing are allowed (in contrast with the blades
    meant just for the sport of fencing).
+
 2. The length of a handle, type of hilt or width of cross-guard is not
    limited. The overall length of the rapier must not exceed 130cm.
+
 3. The cross-guard must be round at both ends.
+
 4. The maximum length of the blade including ricasso is 110cm. The blade
    must be flexible, especially from the middle of the rapier to the
    point in order not to pose a risk in thrust attacks. The flexibility
    of the blade is measured with a 0.5kg weight which is attached to the
    point of the blade and it must be at least 30 degrees to the
    horizontal blade.
+
 5. The weight of the sword must be between 900 to 1300g.
+
 6. The blade must not bear signs of heavy damage, must not be bent,
    broken or ruptured, which may pose a risk of breaking the weapon.
+
 7. The point of the primary weapon must be blunt and rounded. If the tip
    is not rounded, it must be additionally secured by protection such as
    properly fitted plastic or cork end. Adequacy of protection will be
    judged by the main referee or tournament organizer.
+
 8. The point of the primary and side weapon must be covered by reflexive
    tape for better visibility.
 
@@ -206,9 +229,11 @@
 1. In the rapier category, it is possible to use a side weapon, which
    serves defensive purposes. The organizer states the usage of the side
    weapon.
+
 2. The fencer can use one dagger with a straight blade; daggers with
    more blades or with special ricasso meant for intercepting a weapon
    or curved daggers are not allowed in the tournament.
+
 3. The maximum length of the blade is 45cm. The point of dagger must be
    blunt and rounded. If the tip is not rounded, it must be additionally
    secured by protection such as properly fitted plastic or cork end.
@@ -218,9 +243,12 @@
 
 1. In the rapier category, it is possible to use a cloak, which serves
    defensive purposes. The organizer states the usage of the cloak.
+
 2. By the name cloak, it is meant a semicircular or circular piece of
    cloth.
+
 3. The cloak must be from natural materials; synthetic materials are not
    allowed.
+
 4. The cloak cannot contain any metal parts such as weights, However, it
    can be optionally quilted with a fabric or a pattern.
