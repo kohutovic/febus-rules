@@ -14,3 +14,7 @@
     4. If, during a compound attack, he bends his arm or makes a momentary pause, during which time the opponent makes a stop hit or an attack while the attacker continues his own attack.
     5. If, during a compound attack, he is stop-hit one period of fencing time before he makes his final movement.
     6. If he makes a hit by a renewed attack following a parry by his opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
+
+3. Both fencers are counted as hit:
+    1. Similar conception and execution of the same action by both fencers at once, without either of them taking the initiative sooner than the other.
+    2. Similar failure to initiate or execute the appropriate actions, of both fencers at the same time, resulting in the loss of priority gained by previous actions, and without any of the fencers taking the initiative sooner than the other afterwards. 

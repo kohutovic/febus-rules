@@ -2,10 +2,11 @@
 
 ## Wrestling
 
-1. All wrestling actions are forbidden in all categories with a weapon
-   using a primary weapon in one hand and a secondary weapon or shield
-   in another one. using primary weapon in one hand and secondary in
-   another one.
+1. Wrestling actions (arm locks, throws, chokes) are forbidden in all categories with a weapon using a primary weapon in
+   one hand and a secondary weapon or shield in another one. using primary weapon in one hand and secondary in another
+   one. Wrestling actions in these categories belong to first category of offences.
+
+3. Jostling and body contact is not considered as wrestling and therefore allowed.
 
 ## Rules of hit validity
 

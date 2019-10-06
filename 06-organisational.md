@@ -8,42 +8,41 @@
 
 ## The Refereeing system
 
-### Main referee
+### Main Referee
 
-1.  The referee works with an assistant (side referee) and manages the
+1.  The Referee works with an Assistant (side Referee) and manages the
     time and protocol (when necessary, supported by an administrative
     crew).
 
-2.  The referee gives the signals to start, stop, assigns points and
+2.  The Referee gives the signals to start, stop, assigns points and
     describes what happened during the entire assault or at least the
     last exchange.
 
-3.  After stopping the bout, the referee consults with the assistant and
+3.  After stopping the bout, the Referee consults with the Assistant and
     proposes a result. If the fencers accept the decision (they say
     nothing), the fight continues with the proposed score. If they don’t
-    agree with the referee, but they agree with each other, the referee
+    agree with the Referee, but they agree with each other, the Referee
     may make a decision according to their wishes. If any of the fencers
-    protests and the fencers disagree with each other, the referee will
+    protests and the fencers disagree with each other, the Referee will
     decide whether to assign a point (being completely sure) or repeat
     the assault.
 
-4.  If the referee is unable to interpret the fencing phrase for some
-    reason, he/she can repeat the exchange but will explain and
+4.  If the Referee is unable to interpret the fencing phrase for some
+    reason, they can repeat the exchange but will explain and
     apologise.
 
 5.  The Referee's decisions can not be contested after the bout.
 
-### Side referee (Assistant Referee)
+### Side Referee (Assistant Referee)
 
-1. An assistant referee helps the main referee in scoring and hit
-   evaluation. His task is to observe a match from a different angle
-   than the main referee.
+1. An Assistant Referee helps the main Referee in scoring and hit
+   evaluation. Their task is to observe a match from a different angle
+   than the main Referee.
 
-2. If an assistant observes that a fencer they are to follow received a
-   hit, they should raise their arm. The main referee then may or may
-   not stop the fighting.
+2. The Assistant may signal hits made by the fencers to the Referee by
+   raising their arm, even if the Referee does not halt the assault immediately.
 
-3. An assistant referee is not responsible for point assignment nor for
+3. An Assistant Referee is not responsible for point assignment nor for
    the overall match score.
 
 ## Organisation of the competitions and classification
@@ -52,7 +51,7 @@
 
 1.  In all competitions for which the formula includes a round of pools,
     these pools will consist of 7 fencers if the number of participants
-    is divisible by 7. Otherwise the pools will be of 7 and 6.
+    is divisible by 7. Otherwise the pools will be of 7 and 6 fencers.
 
 2.  In the pools a bout ends when:
     1. One of the fencers has scored 5 hits. In this case the score
@@ -90,9 +89,8 @@
        registering any scores, for all of the fencer’s bouts in the
        pool..
 
-6.  Before the competition starts, the Organising Team will decide on
-    and announce the number of fencers who will be eliminated based on
-    the ranking established by the pools (20-30%).
+6.  Before the competition starts, the Organising Team will decide on and announce the number of fencers who will be
+    eliminated based on the ranking established by the pools (0-40%).
 
 7.  After the pools, a single general ranking will be established of all
     the fencers who have taken part in the pools, taking account,
@@ -128,7 +126,7 @@
     included in the calculation of the ranking for the direct
     elimination table.
 
-11. When a fencer withdraws from one pool bout only, he/she is declared
+11. When a fencer withdraws from one pool bout only, they are declared
     as having lost the bout, but the score established before is not
     annulled.
 
@@ -161,8 +159,8 @@
     real score achieved in the bout.
 
 7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or
-    cannot complete his bout, his opponent is declared winner of that
-    bout. A fencer who withdraws does not lose his place in the overall
+    cannot complete their bout, their opponent is declared winner of that
+    bout. A fencer who withdraws does not lose their place in the overall
     classification of the competition.
 
 ## Order of bouts
@@ -187,17 +185,21 @@
 1. Medical/paramedic staff will assess possible injury/illness of the
    participants during/after bouts and advise on immediate management.
 
-2. The head of the organising team is responsible for the overall smooth
-   running of the tournament. The organising team is available for
+2. The head of the Organising Team is responsible for the overall smooth
+   running of the tournament. The Organising Team is available for
    questions, complaints, compliments, and suggestions, before during
    and after the event.
 
-3. The head of the refereeing committee oversees the allocation and
-   performance of the referees and assistants. The refereeing committee
+3. The head of the Refereeing Team oversees the allocation and
+   performance of the Referees and Assistants. The Refereeing committee
    can be approached directly by the participants or their
    representatives, if questions regarding the performance of any of the
-   referees are raised.
+   Referees are raised.
 
-4. The head of equipment inspection performs pre-tournament checks of
-   safety equipment and weapons, stamps passed weapons and keeps a list
+4. The head of Equipment Inspection performs pre-tournament checks of
+   safety equipment and weapons, stamps passed items and keeps a list
    of participants whose safety equipment has been deemed satisfactory.
+
+5. The Technical Team manages the technical infrastructure, including
+   the competition management software, ensuring that the events are
+   recorded, stored, displayed correctly.

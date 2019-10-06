@@ -144,18 +144,18 @@
 
 5.  By reason of the right of jurisdiction which he has over all the
     fencers who participate in, or are present at a competition which he
-    is refereeing, he can also propose to the Directoire Technique the
+    is refereeing, he can also propose to the the
     expulsion from the venue of the competition of the spectators,
     trainers, instructors and other persons who accompany the
     competitors.
 
-6.  Finally, he may recommend to the Directoire Technique all other
+6.  Finally, he may recommend to the Organising Team all other
     penalties which he considers appropriate (exclusion from the whole
     competition, suspension or disqualification). The Head of the
-    Refereeing Committee is the authority competent to deal with appeals
+    Refereeing Team is the authority competent to deal with appeals
     against the decisions of the Referee.
 
-## The Organising Team and the Head of the Refereeing Committee
+## The Organising Team and the Head of the Refereeing Team
 
 1. The organising team and the head of the Refereeing Team have
    jurisdiction over all the fencers who take part in or are present at
@@ -165,7 +165,7 @@
    and may use the penalties specified in the Rules.
 
 2. All the decisions of the Organising team or the Head of the
-   Refereeing Committee are immediately enforceable. No appeal against a
+   Refereeing Team are immediately enforceable. No appeal against a
    decision can suspend that decision during the competition.
 
 ## Penalties
@@ -185,6 +185,7 @@
       2. exclusion from the competition
       3. exclusion from participation in the whole tournament
       4. expulsion from the venue of the competition
+      5. exclusion from events organised by the Federation or the specific Organising Team for a period of time.
 
 2. All these penalties can be applied by the competent authorities at a
    competition — the Referee and the Organising Team.
@@ -245,7 +246,7 @@
 2.  Penalties are cumulative and they are valid for the bout with the
     exception of those indicated by a BLACK CARD, which means exclusion
     from the competition, suspension for the remainder of the
-    tournament.
+    tournament or future events organised by the Federation or the specific Organising Team.
 
 3.  Certain offences can result in the annulment of the hit scored by
     the fencer at fault. During the bout, only hits scored in
@@ -292,7 +293,7 @@
 1. Every offence in the Second Group, including the first infringement,
    is penalised by a RED CARD (penalty hit).
 
-## The Third Group of Offences
+### The Third Group of Offences
 
 1. The first infringement in the Third Group is penalised by a RED CARD
    (penalty hit), even if the fencer at fault has already received a RED
@@ -301,15 +302,14 @@
 2. If during the same bout the fencer commits the same or a different
    offence in this group, he is penalised with a BLACK CARD (exclusion
    from the competition, suspension from the remainder of the
-   tournament.
+   tournament. The fencer keeps the position in the ranking s obtained up to the moment of the disqualification (unless the ranking has not yet been established via the pools).
 
 3. Any person not on the arena who disturbs the good order of the
    competition receives:
    1. On the first infringement, a warning, indicated by a YELLOW CARD,
       valid for the whole of the competition, which must be noted on the
-      bout score-sheet and recorded by the Organising Committee;
-   2. At the second infringement during the same competition a BLACK
-      CARD.
+      bout score-sheet and recorded by the Technical Team;
+   2. At the second infringement during the same competition a BLACK CARD.
    3. In the most serious cases concerning disturbance either on or off
       the arena, the Referee may exclude or expel the person at fault
       immediately.
@@ -318,7 +318,5 @@
 
 1. The first infringement in the Fourth Group, is penalised by a BLACK
    CARD (exclusion from the competition.
+2. The penalized fencer keeps the position in the ranking s obtained up to the moment of the disqualification (unless the ranking has not yet been established via the pools).
 
-### Offences and Penalties
-
-1. [Table of offences and penalties!]
