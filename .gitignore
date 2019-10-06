@@ -1,8 +1,1 @@
-.idea/$CACHE_FILE$
-.idea/.gitignore
-.idea/febus-rules.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/php-inspections-ea-ultimate.xml
-.idea/php.xml
-.idea/vcs.xml
+.idea

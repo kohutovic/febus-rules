@@ -144,18 +144,18 @@
 
 5.  By reason of the right of jurisdiction which he has over all the
     fencers who participate in, or are present at a competition which he
-    is refereeing, he can also propose to the Directoire Technique the
+    is refereeing, he can also propose to the the
     expulsion from the venue of the competition of the spectators,
     trainers, instructors and other persons who accompany the
     competitors.
 
-6.  Finally, he may recommend to the Directoire Technique all other
+6.  Finally, he may recommend to the Organising Team all other
     penalties which he considers appropriate (exclusion from the whole
     competition, suspension or disqualification). The Head of the
-    Refereeing Committee is the authority competent to deal with appeals
+    Refereeing Team is the authority competent to deal with appeals
     against the decisions of the Referee.
 
-## The Organising Team and the Head of the Refereeing Committee
+## The Organising Team and the Head of the Refereeing Team
 
 1. The organising team and the head of the Refereeing Team have
    jurisdiction over all the fencers who take part in or are present at
@@ -165,7 +165,7 @@
    and may use the penalties specified in the Rules.
 
 2. All the decisions of the Organising team or the Head of the
-   Refereeing Committee are immediately enforceable. No appeal against a
+   Refereeing Team are immediately enforceable. No appeal against a
    decision can suspend that decision during the competition.
 
 ## Penalties
@@ -307,9 +307,8 @@
    competition receives:
    1. On the first infringement, a warning, indicated by a YELLOW CARD,
       valid for the whole of the competition, which must be noted on the
-      bout score-sheet and recorded by the Organising Committee;
-   2. At the second infringement during the same competition a BLACK
-      CARD.
+      bout score-sheet and recorded by the Technical Team;
+   2. At the second infringement during the same competition a BLACK CARD.
    3. In the most serious cases concerning disturbance either on or off
       the arena, the Referee may exclude or expel the person at fault
       immediately.

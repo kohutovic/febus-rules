@@ -6,37 +6,40 @@
    This applies mainly to angles of the light and the ground
    slipperiness.
 
-2. The dimensions of a fencing arena must be minimally 6x9 meters or
-   maximally 8x12 meters in a square or rectangular shape. The shape of
-   a fencing arena must be marked by a full line attached or drawn on
-   the ground. The closest obstacle must be at least 1 meter away from
-   the marking line.
+2. The fencing arena is a square or rectangular shape, its dimensions
+   must be between a minimum of 6x9 meters and a maximum of 8x12 meters.
+   The borders of a fencing arena must be marked by a full line attached
+   or drawn on the ground. The closest obstacle must be at least 1 meter
+   away from the marking line.
 
-3. The central point of a fencing arena may be marked optionally.
+3. The center point of a fencing arena may be marked.
 
-4. Contestants start a fight on marks which are at least 2m away from
-   the central point i.e. 4m starting distance of fencers.
+4. The starting position of the fencers must be marked in such a way that
+   start-line is at least 2m away from the center of the arena in opposite
+   directions, setting up at least 4m distance between the fencers at the
+   start of each assault.
 
 ## Equipment standards
 
-1. Every contestant is responsible for their equipment and to enter a
-   tournament is required to use all parts of mandatory equipment. If a
-   piece of equipment is declared unsuitable or unfit and a contestant
-   is unable to get a suitable substitute he/she will prohibited from
-   entering a tournament.
+1. Every contestant is responsible for their equipment, and must use each
+   element of the mandatory equipment, when entering a tournament. If a
+   piece of equipment is declared unsuitable or unfit and the contestant
+   is unable to get a suitable substitute they will be prohibited from
+   entering the tournament.
 
-2. The mandatory equipment is controlled by tournament staff before the
-   competition and an additional check must be done by the referee of
-   each fencing arena. A referee may require a contestant to change or
+2. The mandatory equipment is controlled by the designated tournament staff
+   before the competition and an additional check must be done by the
+   referee of each fencing arena. A referee may require a contestant to change or
    adjust a part of his equipment in a time frame which won’t be longer
    than 5 minutes. If it is not possible for the contestant to comply
    within the set time frame, the contestant will be awarded a black
    card and won’t be able to continue in the respective tournament.
 
-3. If an accident will occur and the sole reason for this accident will
-   be unfit equipment, the responsibility lies on the referee who
-   approved the contestant’s entry. The referee will be subjected to
-   disciplinary proceedings and their license may be revoked.
+3. In case of an accident caused by unfit or inadequate equipment approved
+   negligently by the equipment check staff or the referee, the responsibility lies with the
+   staff or referee, who approved the contestant’s entry.
+   The staff or the referee will be subjected to disciplinary proceedings
+   and their license may be revoked.
 
 4. A referee has the right to forbid a piece or a set of equipment which
    does not comply with the prescribed norm.
@@ -45,14 +48,14 @@
 
 #### Head
 
-1. An undamaged and fit mask which complies with FIE certification with
-   the bib protection of 1600N is mandatory.
-2. Back of the head protection and cervical spine protection is
-   mandatory
+1. An undamaged mask that is approved by the FIE (1600N resistance)
+   is mandatory.
+2. Back of head protection and cervical spine protection is
+   mandatory.
 3. A neck protector with a thick layer protecting the larynx is
-   mandatory
-4. The bib of the mask must not rolled-up.
-5. If a contestant leans their head in every standard angle no
+   mandatory.
+4. The bib of the mask must not be rolled up.
+5. If a contestant leans their head in any standard angle no
    unprotected part or skin must be visible.
 
 #### Hands, arms and torso protection
@@ -71,7 +74,7 @@
     padding...)
 
 4.  Gloves used in a tournament don’t need to have a thickened layer on
-    the inside of the palm but the palm has to be covered at least by a
+    the inside of the palm but the palm must be covered at least by a
     simple glove or textile.
 
 5.  The torso of the body must be protected with an undamaged fencing
@@ -81,10 +84,12 @@
     and the arena referee. A fencing jacket must cover the armpits as
     well.
 
-6.  Additional protection of the arms or elbows is required if the
+6.  Every female contestant must wear solid breast/chest protection.
+
+7.  Additional protection of the arms or elbows is required if the
     jacket does not provide sufficient protection itself.
 
-7.  Every part of the body must be covered. No open space must be left
+8.  Every part of the body must be covered. No open space must be left
     between the gloves and the jacket.
 
 #### Legs
@@ -231,7 +236,7 @@
    weapon.
 
 2. The fencer can use one dagger with a straight blade; daggers with
-   more blades or with special ricasso meant for intercepting a weapon
+   more blades or with a special ricasso meant for intercepting a weapon
    or curved daggers are not allowed in the tournament.
 
 3. The maximum length of the blade is 45cm. The point of dagger must be
