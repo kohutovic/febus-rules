@@ -2,36 +2,41 @@
 
 ## Fencing Arena
 
-1. A fencing arena must provide similar conditions to both contestants. This applies mainly to angles of the light and
-   the ground slipperiness.
+1. A fencing arena must provide similar conditions to both contestants. This applies mainly to
+   angles of the light and the ground slipperiness.
 
-2. The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of 6x9 meters and a
-   maximum of 8x12 meters. The borders of a fencing arena must be marked by a full line attached or drawn on the ground.
-   The closest obstacle must be at least 1 meter away from the marking line.
+2. The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of
+   6x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
+   line attached or drawn on the ground. The closest obstacle must be at least 1 meter away from the
+   marking line.
 
 3. The center point of a fencing arena may be marked.
 
-4. The starting position of the fencers must be marked in such a way that start-line is at least 2m away from the center
-   of the arena in opposite directions, setting up at least 4m distance between the fencers at the start of each
-   assault.
+4. The starting position of the fencers must be marked in such a way that start-line is at least 2m
+   away from the center of the arena in opposite directions, setting up at least 4m distance between
+   the fencers at the start of each assault.
 
 ## Equipment standards
 
-1. Every contestant is responsible for their equipment, and must use each element of the mandatory equipment, when
-   entering a tournament. If a piece of equipment is declared unsuitable or unfit and the contestant is unable to get a
-   suitable substitute they will be prohibited from entering the tournament.
+1. Every contestant is responsible for their equipment, and must use each element of the mandatory
+   equipment, when entering a tournament. If a piece of equipment is declared unsuitable or unfit
+   and the contestant is unable to get a suitable substitute they will be prohibited from entering
+   the tournament.
 
-2. The mandatory equipment is controlled by the designated tournament staff before the competition and an additional
-   check must be done by the referee of each fencing arena. A referee may require a contestant to change or adjust a
-   part of his equipment in a time frame which won’t be longer than 5 minutes. If it is not possible for the contestant
-   to comply within the set time frame, the contestant will be awarded a black card and won’t be able to continue in the
-   respective tournament.
+2. The mandatory equipment is controlled by the designated tournament staff before the competition
+   and an additional check must be done by the referee of each fencing arena. A referee may require
+   a contestant to change or adjust a part of his equipment in a time frame which won’t be longer
+   than 5 minutes. If it is not possible for the contestant to comply within the set time frame, the
+   contestant will be awarded a black card and won’t be able to continue in the respective
+   tournament.
 
-3. In case of an accident caused by unfit or inadequate equipment approved negligently by the equipment check staff or
-   the referee, the responsibility lies with the staff or referee, who approved the contestant’s entry. The staff or the
-   referee will be subjected to disciplinary proceedings and their license may be revoked.
+3. In case of an accident caused by unfit or inadequate equipment approved negligently by the
+   equipment check staff or the referee, the responsibility lies with the staff or referee, who
+   approved the contestant’s entry. The staff or the referee will be subjected to disciplinary
+   proceedings and their license may be revoked.
 
-4. A referee has the right to forbid a piece or a set of equipment which does not comply with the prescribed norm.
+4. A referee has the right to forbid a piece or a set of equipment which does not comply with the
+   prescribed norm.
 
 ### Protection Gear
 
@@ -45,31 +50,37 @@
 
 4.  The bib of the mask must not roll up.
 
-5.  If a contestant leans their head in any standard angle no unprotected part or skin must be visible.
+5.  If a contestant leans their head in any standard angle no unprotected part or skin must be
+    visible.
 
 #### Hands, arms and torso protection
 
-1.  Only special HEMA fencing gloves or gloves which are meeting all requirements of sporting-historical fencing are
-    allowed. It is forbidden to use pieces of metal on any place of the gloves.
+1.  Only special HEMA fencing gloves or gloves which are meeting all requirements of
+    sporting-historical fencing are allowed. It is forbidden to use pieces of metal on any place of
+    the gloves.
 
-2.  Rapier: Fencer with bell guard rapier or sufficiently closed hilt does not need to wear a massive glove with the
-    primary weapon. However, additional hand protection is needed for the protection of the wrist and forearm.
+2.  Rapier: Fencer with bell guard rapier or sufficiently closed hilt does not need to wear a
+    massive glove with the primary weapon. However, additional hand protection is needed for the
+    protection of the wrist and forearm.
 
-3.  Rapier: If a fencer uses a side weapon, this hand needs to be protected with a glove with additional hand protection
-    (e.g. padding...)
+3.  Rapier: If a fencer uses a side weapon, this hand needs to be protected with a glove with
+    additional hand protection (e.g. padding...)
 
-4.  Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but the palm must be
-    covered at least by a simple glove or textile.
+4.  Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but
+    the palm must be covered at least by a simple glove or textile.
 
-5.  The torso of the body must be protected with an undamaged fencing jacket or gambeson which is made of special
-    hardened or thick material which prevents blade penetration and eases the blade impact. The jacket is subjected to
-    control by the tournament staff and the arena referee. A fencing jacket must cover the armpits as well.
+5.  The torso of the body must be protected with an undamaged fencing jacket or gambeson which is
+    made of special hardened or thick material which prevents blade penetration and eases the blade
+    impact. The jacket is subjected to control by the tournament staff and the arena referee. A
+    fencing jacket must cover the armpits as well.
 
 6.  Every female contestant must wear solid breast/chest protection.
 
-7.  Additional protection of the arms or elbows is required if the jacket does not provide sufficient protection itself.
+7.  Additional protection of the arms or elbows is required if the jacket does not provide
+    sufficient protection itself.
 
-8.  Every part of the body must be covered. No open space must be left between the gloves and the jacket.
+8.  Every part of the body must be covered. No open space must be left between the gloves and the
+    jacket.
 
 #### Legs
 
@@ -79,30 +90,32 @@
 
 3. Hips must be protected either with a fencing jacket or with padded pants.
 
-4. Thighs and the upper legs must be protected with an FIE certified pants (350N) or other approved thrust resistant
-   protection.
+4. Thighs and the upper legs must be protected with an FIE certified pants (350N) or other approved
+   thrust resistant protection.
 
 ### Weapons
 
 #### Longsword
 
-1.  Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must consist of a blade
-    with two edges, a cross-guard, a handle, and a pommel. Longswords must be made of proper steel (no aluminium,
-    plastic or wooden swords will be accepted) and comply with certain qualities, see below.
+1.  Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must
+    consist of a blade with two edges, a cross-guard, a handle, and a pommel. Longswords must be
+    made of proper steel (no aluminium, plastic or wooden swords will be accepted) and comply with
+    certain qualities, see below.
 
-2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges must be round and
-    blunt.
+2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
+    must be round and blunt.
 
-3.  A blade may contain a wide blade root, also known as *Schilt*, which must have round and blunt edges.
+3.  A blade may contain a wide blade root, also known as *Schilt*, which must have round and blunt
+    edges.
 
-4.  The cross-guard must be straight and must be round at both ends. Additional protection (e.g. in a form of rings) is
-    not allowed.
+4.  The cross-guard must be straight and must be round at both ends. Additional protection (e.g. in
+    a form of rings) is not allowed.
 
 5.  The pommel must be smooth and have no studs.
 
-6.  The flexibility of the blade is measured by applying pressure on blade point against scales. The blade flexibility
-    is then maximum number in kg shown on scales until the blade gets full bend. Flexibility of longsword blades must be
-    in 8-13kg interval.
+6.  The flexibility of the blade is measured by applying pressure on blade point against scales. The
+    blade flexibility is then maximum number in kg shown on scales until the blade gets full bend.
+    Flexibility of longsword blades must be in 8-13kg interval.
 
 7.  The minimum width of the point is 1cm.
 
@@ -118,12 +131,13 @@
 
 #### One-handed sword
 
-1.  Only straight-bladed, European-type simulators are allowed in the tournament. In modern times the so-called
-    Fechschwert/Feder sword (with widened *ricasso*) or *Spada* sword (with a complex handle which protects the hand)
-    are preferred. A sword must consist of a blade with two edges, a cross-guard, a handle, and a pommel.
+1.  Only straight-bladed, European-type simulators are allowed in the tournament. In modern times
+    the so-called Fechschwert/Feder sword (with widened *ricasso*) or *Spada* sword (with a complex
+    handle which protects the hand) are preferred. A sword must consist of a blade with two edges, a
+    cross-guard, a handle, and a pommel.
 
-2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges must be round and
-    blunt.
+2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
+    must be round and blunt.
 
 3.  A complex cross-guard or rings are allowed.
 
@@ -151,57 +165,59 @@
 
 4.  The body of buckler must be wooden or metallic; it cannot have any studs or sharp edges.
 
-5.  The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa* shield is not allowed
-    in the tournament.
+5.  The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa*
+    shield is not allowed in the tournament.
 
-6.  The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s weapon is possible.
+6.  The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s
+    weapon is possible.
 
 #### Rapier
 
-1.  Historicizing replicas of rapiers with a long blade meant for sporting-historical fencing are allowed (in contrast
-    with the blades meant just for the sport of fencing).
+1.  Historicizing replicas of rapiers with a long blade meant for sporting-historical fencing are
+    allowed (in contrast with the blades meant just for the sport of fencing).
 
-2.  The length of a handle, type of hilt or width of cross-guard is not limited. The overall length of the rapier must
-    not exceed 130cm.
+2.  The length of a handle, type of hilt or width of cross-guard is not limited. The overall length
+    of the rapier must not exceed 130cm.
 
 3.  The cross-guard must be round at both ends.
 
-4.  The maximum length of the blade including ricasso is 110cm. The blade must be flexible, especially from the middle
-    of the rapier to the point in order not to pose a risk in thrust attacks. The flexibility of the blade is measured
-    with a 0.5kg weight which is attached to the point of the blade and it must be at least 30 degrees to the horizontal
-    blade.
+4.  The maximum length of the blade including ricasso is 110cm. The blade must be flexible,
+    especially from the middle of the rapier to the point in order not to pose a risk in thrust
+    attacks. The flexibility of the blade is measured with a 0.5kg weight which is attached to the
+    point of the blade and it must be at least 30 degrees to the horizontal blade.
 
 5.  The weight of the sword must be between 900 to 1300g.
 
-6.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured, which may pose a risk of
-    breaking the weapon.
+6.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured, which may
+    pose a risk of breaking the weapon.
 
-7.  The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be additionally
-    secured by protection such as properly fitted plastic or cork end. Adequacy of protection will be judged by the main
-    referee or tournament organizer.
+7.  The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be
+    additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
+    protection will be judged by the main referee or tournament organizer.
 
-8.  The point of the primary and side weapon must be covered by reflexive tape for better visibility.
+8.  The point of the primary and side weapon must be covered by reflexive tape for better
+    visibility.
 
 #### Side weapon - dagger
 
-1. In the rapier category, it is possible to use a side weapon, which serves defensive purposes. The organizer states
-   the usage of the side weapon.
+1. In the rapier category, it is possible to use a side weapon, which serves defensive purposes. The
+   organizer states the usage of the side weapon.
 
-2. The fencer can use one dagger with a straight blade; daggers with more blades or with a special ricasso meant for
-   intercepting a weapon or curved daggers are not allowed in the tournament.
+2. The fencer can use one dagger with a straight blade; daggers with more blades or with a special
+   ricasso meant for intercepting a weapon or curved daggers are not allowed in the tournament.
 
-3. The maximum length of the blade is 45cm. The point of dagger must be blunt and rounded. If the tip is not rounded, it
-   must be additionally secured by protection such as properly fitted plastic or cork end. The point of side weapon must
-   be covered by reflexive tape.
+3. The maximum length of the blade is 45cm. The point of dagger must be blunt and rounded. If the
+   tip is not rounded, it must be additionally secured by protection such as properly fitted plastic
+   or cork end. The point of side weapon must be covered by reflexive tape.
 
 #### Cloak
 
-1. In the rapier category, it is possible to use a cloak, which serves defensive purposes. The organizer states the
-   usage of the cloak.
+1. In the rapier category, it is possible to use a cloak, which serves defensive purposes. The
+   organizer states the usage of the cloak.
 
 2. By the name cloak, it is meant a semicircular or circular piece of cloth.
 
 3. The cloak must be from natural materials; synthetic materials are not allowed.
 
-4. The cloak cannot contain any metal parts such as weights, However, it can be optionally quilted with a fabric or a
-   pattern.
+4. The cloak cannot contain any metal parts such as weights, However, it can be optionally quilted
+   with a fabric or a pattern.
