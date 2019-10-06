@@ -128,7 +128,7 @@ This table is intended to be a summary; it is not a substitute for the full text
     <tr>
       <td>1.5
       </td>
-      <td>Attacking forbidden targets (back of the head, spine, foot, back of the knee). Hit with crossguard. Attack with the dagger in rapier bouts..
+      <td>Attacking forbidden targets (back of the head, spine, foot, back of the knee). Hit with crossguard. Attack with the dagger in rapier. Wrestling in rapier.
       </td>
       <td>
       </td>
