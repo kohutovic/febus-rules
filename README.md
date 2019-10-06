@@ -1,7 +1,6 @@
 # FEBUS Tournament Rulebook
 
 ## Introduction
-
 - [Introduction](01-intro.md)
 
 ## Equipment Regulations
