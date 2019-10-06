@@ -27,8 +27,6 @@
 
 5.  The Referee's decisions can not be contested after the bout.
 
-6.  Main referee must be able conduct bouts in English.
-
 ### Side Referee (Assistant Referee)
 
 1. An Assistant Referee helps the main Referee in scoring and hit evaluation. Their task is to

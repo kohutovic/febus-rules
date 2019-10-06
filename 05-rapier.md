@@ -2,12 +2,14 @@
 
 ## Wrestling
 
-1. Wrestling actions (arm locks, throws, chokes) are forbidden in all categories with a weapon using
-   a primary weapon in one hand and a secondary weapon or shield in another one. using primary
-   weapon in one hand and secondary in another one. Wrestling actions in these categories belong to
-   first category of offences.
+1. Wrestling actions (arm locks, throws, chokes) are forbidden in Rapier and Side Weapons
+   competitions.
 
-2. Jostling and body contact is not considered as wrestling and therefore allowed.
+2. Attempting wrestling actions during bouts of this category belongs to the first group of
+   offences.
+
+3. Body contact (including accidental jostling) in itself is not considered as wrestling and
+   therefore are allowed.
 
 ## Rules of hit validity
 

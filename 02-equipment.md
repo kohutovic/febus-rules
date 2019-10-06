@@ -42,7 +42,7 @@
 
 #### Head
 
-1.  An undamaged mask that is approved by the FIE (1600N resistance) is mandatory.
+1.  An undamaged mask that is approved by the FIE (CE level 2, 1600N resistance) is mandatory.
 
 2.  Back of head protection and cervical spine protection is mandatory.
 
@@ -84,14 +84,15 @@
 
 #### Legs
 
-1. In the categories longsword and rapier, a groin protector is mandatory for every male contestant.
+1. In the categories of longsword and rapier, a groin protector is mandatory for every male
+   contestant.
 
-2. The knees and shins must be protected from the front and the sides as well.
+2. The knees and shins must be protected at the front and the sides as well.
 
-3. Hips must be protected either with a fencing jacket or with padded pants.
+3. The hips must be protected either by a fencing jacket or by padded pants.
 
-4. Thighs and the upper legs must be protected with an FIE certified pants (350N) or other approved
-   thrust resistant protection.
+4. The thighs and the upper legs must be protected with CE Level 1 certified pants (350N) or other
+   approved thrust resistant protection.
 
 ### Weapons
 
@@ -174,7 +175,7 @@
 #### Rapier
 
 1.  Historicizing replicas of rapiers with a long blade meant for sporting-historical fencing are
-    allowed (in contrast with the blades meant just for the sport of fencing).
+    allowed (modern epee or foil blades are not allowed).
 
 2.  The length of a handle, type of hilt or width of cross-guard is not limited. The overall length
     of the rapier must not exceed 130cm.
@@ -203,8 +204,8 @@
 1. In the rapier category, it is possible to use a side weapon, which serves defensive purposes. The
    organizer states the usage of the side weapon.
 
-2. The fencer can use one dagger with a straight blade; daggers with more blades or with a special
-   ricasso meant for intercepting a weapon or curved daggers are not allowed in the tournament.
+2. The dagger blade must be straight; daggers with more blades or with a special ricasso meant for
+   intercepting a weapon or curved daggers are not allowed in the tournament.
 
 3. The maximum length of the blade is 45cm. The point of dagger must be blunt and rounded. If the
    tip is not rounded, it must be additionally secured by protection such as properly fitted plastic
@@ -213,11 +214,13 @@
 #### Cloak
 
 1. In the rapier category, it is possible to use a cloak, which serves defensive purposes. The
-   organizer states the usage of the cloak.
+   Organizing Team shall announce in advance, whether they allow the usage of cloaks in their
+   competitions.
 
-2. By the name cloak, it is meant a semicircular or circular piece of cloth.
+2. The term cloak refers to a semi-circular or circular piece of cloth.
 
-3. The cloak must be from natural materials; synthetic materials are not allowed.
+3. The cloak must be made of natural materials such as wool, cotton, or a similar fibre; synthetic
+   materials are not allowed.
 
-4. The cloak cannot contain any metal parts such as weights, However, it can be optionally quilted
-   with a fabric or a pattern.
+4. The cloak must not have any attached metal parts such as weights. However, it is allowed to be
+   quilted with fabric or a pattern.
