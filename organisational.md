@@ -89,9 +89,8 @@
        registering any scores, for all of the fencer’s bouts in the
        pool..
 
-6.  Before the competition starts, the Organising Team will decide on
-    and announce the number of fencers who will be eliminated based on
-    the ranking established by the pools (20-30%).
+6.  Before the competition starts, the Organising Team will decide on and announce the number of fencers who will be
+    eliminated based on the ranking established by the pools (0-40%).
 
 7.  After the pools, a single general ranking will be established of all
     the fencers who have taken part in the pools, taking account,
