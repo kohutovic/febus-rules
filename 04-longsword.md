@@ -99,7 +99,7 @@
        weapon makes contact with the target.
 
 10. Detailed examples and descriptions for application of Vor rule are
-    described [Appendix: Vor/Priority](./appendices/priority.md)
+    described [Appendix: Vor/Priority](appendices/02-priority.md)
 
 ## Close quarter combat
 

@@ -1,26 +1,26 @@
 # FEBUS Tournament Rulebook
 
 ## Introduction
-- [Introduction](./intro.md)
+- [Introduction](01-intro.md)
 
 ## Equipment Regulations
 
-- [Equipment Standards](./equipment.md)
+- [Equipment Standards](02-equipment.md)
 
 ## Organisation and bout management
 
-- [Organisation](./organisational.md)
-- [Fencing etiquette and disciplinary rules](./disciplinary.md)
+- [Organisation](06-organisational.md)
+- [Fencing etiquette and disciplinary rules](07-disciplinary.md)
 
 ## The Principles of Scoring
 
-- [General rules for all weapons](./general.md)
-- [Longsword specific rules](./longsword.md)
-- [One-handed weapon specific rules (rapier and dagger, side-sword)](./rapier.md)
+- [General rules for all weapons](03-general.md)
+- [Longsword specific rules](04-longsword.md)
+- [One-handed weapon specific rules (rapier and dagger, side-sword)](05-rapier.md)
 
 ## Appendix
 
-- [Glossary](./appendices/glossary.md)
-- [Tables of offence and penalties](./appendices/penalties.md)
-- [Vor/Priority examples](./appendices/priority.md)
+- [Glossary](appendices/01-glossary.md)
+- [Tables of offence and penalties](appendices/03-penalties.md)
+- [Vor/Priority examples](appendices/02-priority.md)
 
