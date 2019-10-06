@@ -1,11 +1,11 @@
-# Appendix: Glossary - Explanation of some technical terms most commonly used in the judging of fencing
+# Glossary - Explanation of some technical terms most commonly used in the judging of fencing
 
 ## General terms
 
 1. *Assault* – a friendly fight between two fencers which is commenced and ended up by a qualified
-   referee. An exchange may end up by awarding a fencer with a point or awarding both contestants by
-   a tie, awarding no one.
-2. *Exchange* – an exchange or handwork is the basic unit of a fight. An assault starts with the
+   referee. At the end of an assault the Referee either awards one or both fencers a point, or
+   awards none, and/or imposes penalties when necessary.
+2. *Exchange* – an exchange or handwork is the basic unit of a fight. An exchange starts with the
    first offensive action and ends up with a hit or with both contestants assuming a distance from
    which it is impossible to continue in the previous offensive action.
 3. *Bout* – a Bout is a series of assaults between two contestants where points awarded for the
@@ -16,7 +16,7 @@
 5. *Tournament* – is a series of Competitions in the weapons announced by the Organising Team.
 6. *Fencing time* – is the time required to perform one simple fencing action.
 7. *In measure* – is a mutual distance between two fencers in which one or both of them can reach
-   the opponent in the attack.
+   the opponent with an attack.
 
 ## Fencing actions
 
@@ -35,8 +35,8 @@
        1. either direct (in the same line)
        2. or indirect (in another line).
     2. The action is compound when it is executed in several movements (e.g. using feints, to
-       provoke the opponent to a defensive action, thus creating an opponent that the attacker can
-       take advantage of).
+       provoke the opponent to a defensive action, thus creating a tempo that the attacker can take
+       advantage of).
 
 2.  *Riposte* – a riposte is an offensive action of a fencer who parried the attack of their
     opponent. The riposte may be immediate or delayed, depending on what action takes place and the
@@ -59,7 +59,7 @@
 
 3.  *The counter-riposte* is the offensive action made by the fencer who has parried the riposte.
 
-4.  *Counter-attack* – is an offensive or offensive-defensive actions made during the offensive
+4.  *Counter-attack* – is an offensive or offensive-defensive action made during the offensive
     action of the opponent.
     1. *Stop-hit* – a counter-attack made into an attack.
     2. *Stop-hit with opposition* – a counter-attack made while closing the line in which the

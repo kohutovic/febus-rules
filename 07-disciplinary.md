@@ -148,9 +148,11 @@
       2. exclusion from the competition
       3. exclusion from participation in the whole tournament
       4. expulsion from the venue of the competition
+      5. exclusion from events organised by the Federation or the specific Organising Team for a
+         period of time.
 
-2. All these penalties can be applied by the competent authorities at a competition — the Referee
-   and the Organising Team.
+2. All these penalties can be applied by the competent authorities at a competition — the Referee,
+   the Head of the Refereeing Committee, and the Organising Team.
 
 ### Penalties Related to Fencing
 
@@ -197,7 +199,7 @@
 
 2.  Penalties are cumulative and they are valid for the bout with the exception of those indicated
     by a BLACK CARD, which means exclusion from the competition, suspension for the remainder of the
-    tournament.
+    tournament or future events organised by the Federation or the specific Organising Team.
 
 3.  Certain offences can result in the annulment of the hit scored by the fencer at fault. During
     the bout, only hits scored in circumstances connected with the offence may be annulled.
@@ -243,7 +245,8 @@
 
 2. If during the same bout the fencer commits the same or a different offence in this group, he is
    penalised with a BLACK CARD (exclusion from the competition, suspension from the remainder of the
-   tournament.
+   tournament. The fencer keeps the position in the ranking s obtained up to the moment of the
+   disqualification (unless the ranking has not yet been established via the pools).
 
 3. Any person not on the arena who disturbs the good order of the competition receives:
    1. On the first infringement, a warning, indicated by a YELLOW CARD, valid for the whole of the
@@ -256,4 +259,6 @@
 
 1. The first infringement in the Fourth Group, is penalised by a BLACK CARD (exclusion from the
    competition.
+2. The penalized fencer keeps the position in the ranking s obtained up to the moment of the
+   disqualification (unless the ranking has not yet been established via the pools).
 

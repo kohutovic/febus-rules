@@ -27,7 +27,7 @@
 
 5.  The Referee's decisions can not be contested after the bout.
 
-6.  Main referee must be able conduct bouts in English.
+6.  Main referee must be able conduct and manage bouts in English.
 
 ### Side Referee (Assistant Referee)
 
