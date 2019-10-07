@@ -26,9 +26,9 @@
 
 6.  Pool bouts last 3 minutes of effective fencing time; or until one of the fencers reaches 5
     points. Direct Elimination bouts last 2 * 3 minutes of effective fencing time, with one minute
-    resting period after two and four minutes; or until one of the fencers reaches 7 points. The
-    'End of Time' is going to be announced by a Timekeeper, but the match can be stopped only by the
-    referee.
+    resting period after the first 3 minutes period; or until one of the fencers reaches 7 points.
+    The 'End of Time' is going to be announced by a Timekeeper, but the match can be stopped only by
+    the referee.
 
 7.  Before the beginning of each bout, the two fencers called on the arena salute to their opponent,
     and the referee. Competitors come on guard when the referee gives the order ‘On guard!’, after
