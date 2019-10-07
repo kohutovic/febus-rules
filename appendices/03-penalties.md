@@ -105,7 +105,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.2
       </td>
-      <td>Turning back on opponent *
+      <td>Turning back on opponent
       </td>
       <td>
       </td>
@@ -113,7 +113,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.3
       </td>
-      <td>Covering/substitution of valid target *
+      <td>Covering/substitution of valid target
       </td>
       <td>
       </td>
@@ -169,7 +169,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.10
       </td>
-      <td>Irregular moves in the arena *; twisting or pulling a seized blade *; hits made with violence or during or after accidental falling or accidental dropping of the weapon *; throwing the opponent by lifting their both of their feet off the ground *
+      <td>Irregular moves in the arena *; throwing the opponent by lifting their both of their feet off the ground *
       </td>
       <td>
       </td>

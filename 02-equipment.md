@@ -164,12 +164,14 @@
 
 3.  The core of a buckler is made with a shield boss, which protects the hand.
 
-4.  The body of buckler must be wooden or metallic; it cannot have any studs or sharp edges.
+4.  The maximal allowed shield diameter is 40cm.
 
-5.  The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa*
+5.  The body of buckler must be wooden or metallic; it cannot have any studs or sharp edges.
+
+6.  The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa*
     shield is not allowed in the tournament.
 
-6.  The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s
+7.  The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s
     weapon is possible.
 
 #### Rapier
