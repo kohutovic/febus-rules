@@ -184,7 +184,7 @@
 
 3.  The cross-guard must be round at both ends.
 
-4.  The maximum length of the blade including ricasso is 110cm. The blade must be flexible,
+4.  The maximum length of the blade including *ricasso* is 110cm. The blade must be flexible,
     especially from the middle of the rapier to the point in order not to pose a risk in thrust
     attacks. The flexibility of the blade is measured with a 0.5kg weight which is attached to the
     point of the blade and it must be at least 30 degrees to the horizontal blade.
@@ -206,12 +206,14 @@
 1. In the rapier category, it is possible to use a side weapon, which serves defensive purposes. The
    organizer states the usage of the side weapon.
 
-2. The dagger blade must be straight; daggers with more blades or with a special ricasso meant for
+2. The dagger blade must be straight; daggers with more blades or with a special *ricasso* meant for
    intercepting a weapon or curved daggers are not allowed in the tournament.
 
-3. The maximum length of the blade is 45cm. The point of dagger must be blunt and rounded. If the
-   tip is not rounded, it must be additionally secured by protection such as properly fitted plastic
-   or cork end. The point of side weapon must be covered by reflexive tape.
+3. The maximum length of the blade is 45cm and the maximum overall length is 60cm.
+
+4. The point of dagger must be blunt and rounded. If the tip is not rounded, it must be additionally
+   secured by protection such as properly fitted plastic or cork end. The point of side weapon must
+   be covered by reflexive tape.
 
 #### Cloak
 
