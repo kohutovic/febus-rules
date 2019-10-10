@@ -116,7 +116,7 @@
 
 6.  The flexibility of the blade is measured by applying pressure on blade point against scales. The
     blade flexibility is then maximum number in kg shown on scales until the blade gets full bend.
-    Flexibility of longsword blades must be in 8-13kg interval.
+    Flexibility of longsword blades must be in 8-15kg interval.
 
 7.  The minimum width of the point is 1cm.
 
