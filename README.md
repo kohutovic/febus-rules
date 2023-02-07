@@ -1,4 +1,4 @@
-# FEBUS Tournament Rulebook
+# KR Tournament Rulebook
 
 ## Introduction
 
