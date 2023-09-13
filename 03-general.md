@@ -13,8 +13,6 @@
     The Referee has the right to repeat this check any time they find it necessary.
     Fencers who appear in the arena wearing or using unapproved or incomplete equipment will be penalised according to the Rulebook's regulations, and will not be allowed to start or continue competing without having the item(s) approved or replaced with approved ones (see the Equipment Standards).
 
-    4. A bíró minden forduló előtt röviden ellenőrzi a felszerelésre és fegyverekre vonatkozó szabályokban előírt szabványjeleket és fegyverellenőri jelzéseket, valamint hogy a versenyzők hiánytalan felszerelésben és ruházatban jelentek-e meg. A fenti felszerelés ellenőrzést a bíró bármikor megismételheti, amikor szükségesnek ítéli. A nem megfelelő felszereléssel megjelenő versenyzők a szabálykönyv rendelkezései szerinti büntetéstben részesülnek, és nem kezdhetik meg vagy folytathatják a versenyzést, amíg a kérdéses felszerelésre a fegyverellenőrzésen jóváhagyást nem szereznek (lásd a felszerelés szabályokat), vagy le nem cserélik jóváhagyottra.
-
 5.  Each fencer is allowed one coach/second who is allowed to be near the arena during bouts. This
     person may speak to their fencer during breaks but may not disturb the bout with verbal or
     physical gestures. Generally, it is the fencer who should address the referee for help,
