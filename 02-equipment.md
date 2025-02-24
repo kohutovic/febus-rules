@@ -114,9 +114,8 @@
 
 5.  The pommel must be smooth and have no studs.
 
-6.  The flexibility of the blade is measured by applying pressure on blade point against scales. The
-    blade flexibility is then maximum number in kg shown on scales until the blade gets full bend.
-    Flexibility of longsword blades must be in 9-18kg interval.
+6.	The flexibility of the blade is measured by applying pressure on the blade point against
+    scales, with one hand firmly placed on the pommel. The blade’s flexibility is defined as the maximum number (in kg) displayed on the scales before the blade reaches full bend. For longsword blades, the acceptable range is now 9–17kg.
 
 7.  The minimum width of the point is 1cm.
 
@@ -128,7 +127,8 @@
 
 11. The overall length of the sword must be within 120-140cm.
 
-12. The weight of the sword must be between 1450 to 1800g.
+12.	Sword Weight in the men’s category must be between 1450 and 1700g. For the
+     women’s category, the sword must weigh between 1250 and 1700g.
 
 #### One-handed sword
 

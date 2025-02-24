@@ -24,11 +24,10 @@
 5.  The competitors called first place themselves to the right of the referee behind the on guard
     line.
 
-6.  Pool bouts last 3 minutes of effective fencing time; or until one of the fencers reaches 5
-    points. Direct Elimination bouts last 2 * 3 minutes of effective fencing time, with one minute
-    resting period after the first 3 minutes period; or until one of the fencers reaches 7 points.
-    The 'End of Time' is going to be announced by a Timekeeper, but the match can be stopped only by
-    the referee.
+6. Pool bouts last 3 minutes of effective fencing or until a competitor scores 5 points. Direct
+   Elimination bouts consist of two 3‑minute periods with a 1‑minute break in between, ending
+   when a competitor reaches 8 points. The Timekeeper announces the end of time, but only the
+   referee may stop the bout.
 
 7.  Before the beginning of each bout, the two fencers called on the arena salute to their opponent,
     and the referee. Competitors come on guard when the referee gives the order ‘On guard!’, after
@@ -150,7 +149,7 @@
    are defined in the rules.
 
    1. A simultaneous hit is the result of a similar conception and execution of both fencers at the
-      same time. In these cases, both fencers are called a point against.
+      same time. In these cases, no fencer is awarded with a point.
 
    2. A double hit occurs when both fencers get hit within a period of fencing time, but are not
       simultaneous actions, are evaluated according to the rules or each specific weapon.
@@ -173,7 +172,7 @@
    4. Strike - using the pommel of the weapon against the opponent’s facial part of mask.
    5. The referee may call an action as a valid hit, when a weapon action results in a passively
       constraining position for the opponent, for a considerable time during which the opponent is
-      unable to break free. This may be the result of of grappling, locks involving the weapon, or
+      unable to break free. This may be the result of grappling, locks involving the weapon, or
       opposing actions that restrain the opponent’s weapon movement for a considerable time, until
       the referee finds all criteria of dominance met, and calls “Halt!”. Hits received while this
       dominant position is upheld are not considered valid. However, dominance can not be applied to
@@ -209,21 +208,15 @@ Close quarter combat and grappling are allowed with the following regulations:
 
 ### Forbidden actions
 
-1.  Neck-wrenching, lifting the opponent off the ground, full application of joint locks,
+1. Neck-wrenching, lifting the opponent off the ground, full application of joint locks,
     small-joint manipulation, or other potentially dangerous wrestling techniques, punching,
     kicking, violent jostling, and throwing the weapon are strictly forbidden.
 
-2.  Excessive force, brutality or unnecessary violence are forbidden.
+2. Excessive force, brutality or unnecessary violence are forbidden.
 
-3.  Hitting the back of the head the spine, the back of the knee or the foot is forbidden.
+3. Hitting the back of the head the spine, the back of the knee or the foot is forbidden.
 
-4.  Turning the head or covering a valid target with a non-valid one belongs to the first group of
+4. Turning the head or covering a valid target with a non-valid one belongs to the first group of
     offences.
-
-5.  Hitting the arena floor with any weapon due to bad measure in an action will be penalised
-    according to the first group of offences (cases resulting from the opponent’s interactions,
-    accidental touches, and touching the floor after having hit the opponent, may be disregarded by
-    the Referee).
-
-6.  It is forbidden to hit with the cross-guard; and in all circumstances, to hit the back of the
+5. It is forbidden to hit with the cross-guard; and in all circumstances, to hit the back of the
     head, spine and back of the knee, and the foot of the opponent and will be penalised.

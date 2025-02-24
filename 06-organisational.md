@@ -22,12 +22,11 @@
     each other, the Referee will decide whether to assign a point (being completely sure) or repeat
     the assault.
 
-4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
-    exchange but will explain and apologise.
+4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the exchange but will explain and apologise.
 
 5.  The Referee's decisions can not be contested after the bout.
 
-6.  Main referee must be able conduct and manage bouts in English.
+6.  Main referee must be able to conduct and manage bouts in English.
 
 ### Side Referee (Assistant Referee)
 
@@ -44,8 +43,8 @@
 ### The round of pools
 
 1.  In all competitions for which the formula includes a round of pools, these pools will consist of
-    7 fencers if the number of participants is divisible by 7. Otherwise the pools will be of 7 and
-    6 fencers.
+    7 fencers if the number of participants is divisible by 7. Otherwise, the pools will be of 7
+    and 6 fencers.
 
 2.  In the pools a bout ends when:
     1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet
@@ -113,14 +112,15 @@
 1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
     account of the classification table and the special rules for each competition (See Figure 2.)
 
-2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
+2.  The organisers of a competition publish the direct elimination bout plan. The direct
+    elimination bouts are for 8 hits or end when the two periods of three minutes, with a
+    one-minute rest
     between the two periods, have passed.
 
 3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
 
 4.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
+    1. One of the fencers has scored 8 hits; or
     2. 2 * 3 minutes of effective fencing time have passed.
 
 5.  The fencer who has scored the greater number of hits is declared the winner.
