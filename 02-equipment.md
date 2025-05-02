@@ -50,7 +50,7 @@
 
 4.  The bib of the mask must not roll up.
 
-5.  If a contestant leans their head in any standard angle no unprotected part or skin must be
+5.  If a contestant leans their head in any standard angle, no unprotected part or skin must be
     visible.
 
 #### Hands, arms and torso protection
@@ -92,7 +92,7 @@
 3. The hips must be protected either by a fencing jacket or by padded pants.
 
 4. The thighs and the upper legs must be protected with CE Level 1 certified pants (350N) or other
-   approved thrust resistant protection.
+   approved thrust-resistant protection.
 
 ### Weapons
 
@@ -115,7 +115,9 @@
 5.  The pommel must be smooth and have no studs.
 
 6.	The flexibility of the blade is measured by applying pressure on the blade point against
-    scales, with one hand firmly placed on the pommel. The blade’s flexibility is defined as the maximum number (in kg) displayed on the scales before the blade reaches full bend. For longsword blades, the acceptable range is now 9–17kg.
+    scales, with one hand firmly placed on the pommel. The blade’s flexibility is defined as the
+    maximum number (in kg) displayed on the scales before the blade reaches full bend. For
+    longsword blades, the acceptable range is now 9–16kg.
 
 7.  The minimum width of the point is 1cm.
 
@@ -127,8 +129,8 @@
 
 11. The overall length of the sword must be within 120-140cm.
 
-12.	Sword Weight in the men’s category must be between 1450 and 1700g. For the
-     women’s category, the sword must weigh between 1250 and 1700g.
+12.	Sword Weight in the men’s category must be between 1430 and 1600g. For the
+     women’s category, the sword must weigh between 1250 and 1600g.
 
 #### One-handed sword
 

@@ -55,7 +55,7 @@
        contact of the blades is not considered as sufficient to deflect the opponent’s blade.
     2. If, when attempting to find the opponent’s blade to deflect it, the blade is not found, the
        right of attack passes to the opponent.
-    3. If the attack is commenced when the opponent’s blade is not in Langort, the attack may be
+    3. If the attack is started when the opponent’s blade is not in Langort, the attack may be
        completed either direct, or by a disengagement or by a cutover, or else be preceded by feints
        which oblige the opponent to parry.
     4. In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the
@@ -68,7 +68,7 @@
     renewed attack clearly starts before the riposte, then the renewed attack gains priority.
 
 9.  Against thrusts, and cuts with the edge, the flat, or the back edge of the blade, the object of
-    the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
+    the parry is to prevent hits made by the opponent arriving at the valid target; therefore:
     1. The parry is properly carried out when, before the completion of the attack, it prevents the
        arrival of that attack by closing the line in which that attack is to finish.
     2. When a parry is properly executed, the attack by the opponent must be declared parried, and

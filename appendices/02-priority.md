@@ -6,9 +6,7 @@
    3. if, after making a successful parry, he makes a momentary pause (delayed riposte) which gives
       his opponent the right to renew the attack (redoublement, or remise, or reprise)
    4. if, during a compound attack, he makes a stop hit without being in time
-   5. if, having his point ‘in line’ and being subjected to a beat or a taking of the blade which
-      deflects his blade, he attacks or places his point in line again instead of parrying a direct
-      hit made by his opponent
+   5. if, having his point ‘in line’ and being subjected to a beat or a taking of the blade which deflects his blade, he attacks or places his point in line again instead of parrying a direct hit made by his opponent
 
 2. The fencer who attacks is alone counted as hit:
    1. If he initiated his attack when his opponent had his point ‘in line’, without deflecting the
@@ -23,13 +21,11 @@
    5. If, during a compound attack, he is stop-hit one period of fencing time before he makes his
       final movement.
    6. If he makes a hit by a renewed attack following a parry by his opponent which has been
-      followed by a riposte which is immediate, simple and executed in one period of fencing time
-      without withdrawing the arm.
+      followed by a riposte which is immediate, simple, direct or indirect and executed in one
+      period of fencing time.
 
 3. Both fencers are counted as hit, and no point is awarded:
    1. Similar conception and execution of the same action by both fencers at once, without either of
       them taking the initiative sooner than the other.
-   2. Similar failure to initiate or execute the appropriate actions, of both fencers at the same
-      time, resulting in the loss of priority gained by previous actions, and without any of the
-      fencers taking the initiative sooner than the other afterwards.
+   2. Similar failure to initiate or execute the appropriate actions, of both fencers at the same time, resulting in the loss of priority gained by previous actions, and without any of the fencers taking the initiative sooner than the other afterwards.
 
