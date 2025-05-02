@@ -22,12 +22,11 @@
     each other, the Referee will decide whether to assign a point (being completely sure) or repeat
     the assault.
 
-4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
-    exchange but will explain and apologise.
+4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the exchange but will explain and apologise.
 
-5.  The Referee's decisions can not be contested after the bout.
+5.  The Referee's decisions cannot be contested after the bout.
 
-6.  Main referee must be able conduct and manage bouts in English.
+6.  The main referee must be able to conduct and manage bouts in English.
 
 ### Side Referee (Assistant Referee)
 
@@ -44,24 +43,24 @@
 ### The round of pools
 
 1.  In all competitions for which the formula includes a round of pools, these pools will consist of
-    7 fencers if the number of participants is divisible by 7. Otherwise the pools will be of 7 and
-    6 fencers.
+    7 fencers if the number of participants is divisible by 7. Otherwise, the pools will be of 7
+    and 6 fencers.
 
 2.  In the pools a bout ends when:
-    1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet
+    1. One of the fencers has scored 5 hits. In this case the score registered on the scoresheet
        is the final score of the bout (V5 – Dn, where n = the number of hits scored by the losing
        fencer).
     2. Three minutes of effective fencing time have passed. (There is no warning for the last
        minute.)
 
-3.  If when the time limit expires there is a difference of at least one point between the scores of
+3.  If when the time limit expires, there is a difference of at least one point between the scores of
     the two fencers, the fencer who has scored the greater number of hits is declared winner. The
     score registered on the score-sheet is the actual score achieved in the bout (VN – Dn, where N =
     the number of hits scored by the winning fencer and n = the number of hits scored by the losing
     fencer).
 
 4.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
-    with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots
+    with a maximum time limit of one minute. Before the fencing recommenced, the Referee draws lots
     to decide who will be the winner if scores are still equal at the end of the extra minute.
 
 5.  In this case the score registered on the score-sheet is always the actual score achieved in the
@@ -73,7 +72,7 @@
        who did not forfeit the bout who is registered as victorious, even though the scores are not
        annulled.
     4. V0-D0 in case a fencer is withdrawn or removed from the competition, marking the opponent as
-       the winner, but not registering any scores, for all of the fencer’s bouts in the pool..
+       the winner, but not registering any scores, for all the fencer’s bouts in the pool.
 
 6.  Before the competition starts, the Organising Team will decide on and announce the number of
     fencers who will be eliminated based on the ranking established by the pools (0-40%).
@@ -96,13 +95,13 @@
     6. In cases of absolute equality between two or more fencers, their seeding order will be
        decided by drawing lots.
 
-9.  Should there be absolute equality among the last to qualify there will not be a barrage, and the
+9.  Should there be absolute equality among the last to qualify, there will not be a barrage, and the
     fencers with equal indicators will all qualify, even if they are in excess of the number decided
     on.
 
 10. A fencer who withdraws, or who is excluded, is scratched from the pool, His/her results are
     recorded as if all of their opponents had won against the fencer, but no score will be
-    registered (V0-D0). The fencer who is withdrawn or excluded during the pool, will not be
+    registered (V0-D0). The fencer who is withdrawn or excluded during the pool will not be
     included in the calculation of the ranking for the direct elimination table.
 
 11. When a fencer withdraws from one pool bout only, they are declared as having lost the bout, but
@@ -110,27 +109,32 @@
 
 ## The direct elimination
 
-1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
+1. The direct elimination table (bout plan) – complete or incomplete – is established taking
     account of the classification table and the special rules for each competition (See Figure 2.)
 
-2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
+2. The organisers of a competition publish the direct elimination bout plan. The direct
+    elimination bouts are for 8 hits or end when the two periods of three minutes, with a
+    one-minute rest
     between the two periods, have passed.
 
-3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+3. For the gold-medal bout (1st place) and the bronze-medal bout (3rd place), the Organising Team may raise the hit limit above the standard seven (e.g. 10 or 15). The chosen limit (and any corresponding time structure) must be published in the official
+      schedule before the start of the competition day.
+         bouts only.
 
-4.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
+4. During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+
+5. The bout ends when:
+    1. One of the fencers has scored 8 hits; or
     2. 2 * 3 minutes of effective fencing time have passed.
 
-5.  The fencer who has scored the greater number of hits is declared the winner.
+6. The fencer who has scored the greatest number of hits is declared the winner.
 
-6.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
-    with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
+7. If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
+    with a maximum time limit of one minute. Before the fencing recommenced the Referee draws lots
     to decide who will be the winner if scores are still equal at the end of the extra minute. In
     this case the score recorded on the score-sheet is the real score achieved in the bout.
 
-7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
+8. Withdrawal: When, for whatever reason, a fencer cannot fence or cannot complete their bout,
     their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
     in the overall classification of the competition.
 

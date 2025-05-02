@@ -14,7 +14,7 @@
 4. *Competition* - is a series of multiple Bouts performed with a specific weapon, to declare an
    overall winner from the contestants.
 5. *Tournament* – is a series of Competitions in the weapons announced by the Organising Team.
-6. *Fencing time* – is the time required to perform one simple fencing action.
+6. *Fencing tempo* – is the time required to perform one simple fencing action.
 7. *In measure* – is a mutual distance between two fencers in which one or both of them can reach
    the opponent with an attack.
 
@@ -52,8 +52,8 @@
        1. Riposte by disengagement: a riposte which hits the opponent in the opposite line to that
           in which the parry was formed (by passing under the opponent’s blade if the parry was
           formed in the high line, and over the blade if the parry was formed in the low line).
-       2. Riposte with a cut-over: a riposte which hits the opponent in the opposite line to that in
-          which the parry was formed (the blade always passing over the opponent’s point).
+       2. Riposte with a cut-over or umbschlagen: a riposte which hits the opponent in the opposite
+          line to that in which the parry was formed (the blade always passing over the opponent’s point).
 
     3. Compound, when it is executed in several movements.
 
