@@ -34,7 +34,7 @@
 4.  An attack with a lunge (or other offensive footwork) is correctly carried out:
     1. in a simple attack when the beginning of the straightening of the arms precedes the launching
        of the lunge or other offensive footwork, and the hit arrives at the latest when the front
-       foot hits the ground
+       foot hits the ground.
     2. in a compound attack when the beginning of the straightening of the arms, on the first feint,
        precedes the launching of the lunge or other offensive footwork, and the hit arrives at the
        latest when the front foot hits the ground.
@@ -55,7 +55,7 @@
        contact of the blades is not considered as sufficient to deflect the opponent’s blade.
     2. If, when attempting to find the opponent’s blade to deflect it, the blade is not found, the
        right of attack passes to the opponent.
-    3. If the attack is commenced when the opponent’s blade is not in Langort, the attack may be
+    3. If the attack is started when the opponent’s blade is not in Langort, the attack may be
        completed either direct, or by a disengagement or by a cutover, or else be preceded by feints
        which oblige the opponent to parry.
     4. In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the
@@ -68,7 +68,7 @@
     renewed attack clearly starts before the riposte, then the renewed attack gains priority.
 
 9.  Against thrusts, and cuts with the edge, the flat, or the back edge of the blade, the object of
-    the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
+    the parry is to prevent hits made by the opponent arriving at the valid target; therefore:
     1. The parry is properly carried out when, before the completion of the attack, it prevents the
        arrival of that attack by closing the line in which that attack is to finish.
     2. When a parry is properly executed, the attack by the opponent must be declared parried, and
@@ -82,8 +82,8 @@
 
 1. Priority ceases to exist when the weapons of the opponents come together at *Stercke* on
    *Stercke* (including the crossguard), and/or in case of grappling actions. In case the weapons
-   touch *Stercke* on *Stercke*, and a double hit follows immediately, both fencers are called a
-   point against. Otherwise, they may disengage and continue fencing (with priority rules), or enter
+   touch *Stercke* on *Stercke*, and a double hit follows immediately resulting in no points
+   awarded. Otherwise, they may disengage and continue fencing (with priority rules), or enter
    grappling (with grappling rules).
 
 ## Judging of hits
@@ -91,7 +91,7 @@
 1.  When during a phrase both fencers are hit within a period of fencing time there is either a
     simultaneous action or a double hit:
     1. The simultaneous action is due to simultaneous conception and execution of an attack by both
-       fencers; in this case both fencers are called a point against.
+       fencers; no point assign for either fencer.
     2. The double hit on the other hand, is the result of a clearly faulty action on the part of one
        of the fencers, according to the rules. Therefore, when there is not an interval of fencing
        time between the hits.
@@ -99,7 +99,7 @@
 2.  When there is a double hit, and if the Referee is unable clearly to judge from which side the
     fault has come, the referee must not assign any points.
 
-3.  In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in
+3.  In cases when a stop hit is made and there is doubt whether it was made sufficiently in
     time in relation to the final movement of a compound attack, the double hit often occurs through
     the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case,
     the referee should assign no points. (The fault of the attacker consists of indecision, slowness

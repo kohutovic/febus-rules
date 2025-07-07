@@ -100,7 +100,7 @@
     refereeing.
 
 3.  The referee has the right to interrupt a bout if the play becomes confused, dangerous or she/he
-    is unable to clearly judge the action any more. In the absence of an objective scoring device,
+    is unable to clearly judge the action anymore. In the absence of an objective scoring device,
     the fencing phrases are judged according to the referee and assistant's observation of the
     action. While fencers are welcome to address the referee for clarification or appeals before the
     final decision is made, the referee's judgment regarding facts is not to be questioned in

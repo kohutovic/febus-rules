@@ -143,14 +143,6 @@ concerned, which should be consulted in any case of doubt.
       </td>
     </tr>
     <tr>
-      <td>1.7
-      </td>
-      <td>Hitting the arena floor with an uncontrolled action
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
       <td>1.8
       </td>
       <td>Refusal to obey the referee (including actions before “Fence!” or after “Halt!”)
