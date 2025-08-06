@@ -24,9 +24,9 @@
 5.  The competitors called first place themselves to the right of the referee behind the on guard
     line.
 
-6.  Pool bouts last 3 minutes of effective fencing time; or until one of the fencers reaches 5
-    points. Direct Elimination bouts last 2 * 3 minutes of effective fencing time, with one minute
-    resting period after the first 3 minutes period; or until one of the fencers reaches 7 points.
+6.  Pool bouts last 2 minutes of effective fencing time; or until one of the fencers reaches 5
+    points. Direct Elimination bouts last 2 * 2 minutes of effective fencing time, with one minute
+    resting period after the first 2 minutes period; or until one of the fencers reaches 7 points.
     The 'End of Time' is going to be announced by a Timekeeper, but the match can be stopped only by
     the referee.
 
@@ -170,7 +170,7 @@
    3. Slice - carried out with the edge of the weapon on any valid target. A slice must be a
       movement which is defined by pushing or pulling of the blade against the valid area in a
       visually distinctive way.
-   4. Strike - using the pommel of the weapon against the opponent’s facial part of mask.
+   4. Strike - using the pommel of the weapon against any part of the opponent's mask.
    5. The referee may call an action as a valid hit, when a weapon action results in a passively
       constraining position for the opponent, for a considerable time during which the opponent is
       unable to break free. This may be the result of of grappling, locks involving the weapon, or
@@ -225,5 +225,11 @@ Close quarter combat and grappling are allowed with the following regulations:
     accidental touches, and touching the floor after having hit the opponent, may be disregarded by
     the Referee).
 
-6.  It is forbidden to hit with the cross-guard; and in all circumstances, to hit the back of the
-    head, spine and back of the knee, and the foot of the opponent and will be penalised.
+6.  It is forbidden to hit with the cross-guard, where applicable, or with the basket or bell guard;
+    and in all circumstances, to hit the back of the head, spine and back of the knee, and the foot
+    of the opponent and will be penalised.
+
+7.  Hitting the arena floor with any weapon due to bad measure in an action will be penalised
+    according to the first group of offences (cases resulting from the opponent's interactions,
+    accidental touches, and touching the floor after having hit the opponent, may be disregarded by
+    the Referee).

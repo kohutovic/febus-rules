@@ -16,12 +16,13 @@
 ## The Principles of Scoring
 
 - [General rules for all weapons](03-general.md)
+- [Right of Way and Priority Rules](09-right-of-way.md)
 - [Longsword specific rules](04-longsword.md)
-- [One-handed weapon specific rules (rapier and dagger, side-sword)](05-rapier.md)
+- [Rapier and side weapons specific rules (rapier, dagger, cloak)](05-rapier.md)
+- [Sabre specific rules](08-sabre.md)
 
 ## Appendix
 
 - [Glossary](appendices/01-glossary.md)
-- [Tables of offence and penalties](appendices/03-penalties.md)
-- [Vor/Priority examples](appendices/02-priority.md)
+- [Tables of offence and penalties](appendices/02-penalties.md)
 

@@ -6,7 +6,7 @@
    angles of the light and the ground slipperiness.
 
 2. The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of
-   6x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
+   5x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
    line attached or drawn on the ground. The closest obstacle must be at least 1 meter away from the
    marking line.
 
@@ -42,164 +42,169 @@
 
 #### Head
 
-1.  An undamaged mask that is approved by the FIE (CE level 2, 1600N resistance) is mandatory.
+1. An undamaged mask that is approved by the FIE (CE level 2, 1600N resistance) is mandatory.
 
-2.  Back of head protection and cervical spine protection is mandatory.
+2. Back of head protection and cervical spine protection is mandatory.
 
-3.  A neck protector with a thick layer protecting the larynx is mandatory.
+3. A neck protector with a thick layer protecting the larynx is mandatory.
 
-4.  The bib of the mask must not roll up.
+4. The bib of the mask must not roll up.
 
-5.  If a contestant leans their head in any standard angle no unprotected part or skin must be
-    visible.
+5. If a contestant leans their head in any standard angle, no unprotected part or skin must be
+   visible.
 
 #### Hands, arms and torso protection
 
-1.  Only special HEMA fencing gloves or gloves which are meeting all requirements of
-    sporting-historical fencing are allowed. It is forbidden to use pieces of metal on any place of
-    the gloves.
+1. Only special HEMA fencing gloves or gloves which are meeting all requirements of
+   sporting-historical fencing are allowed. It is forbidden to use pieces of metal on any place of
+   the gloves.
 
-2.  Rapier: Fencer with bell guard rapier or sufficiently closed hilt does not need to wear a
-    massive glove with the primary weapon. However, additional hand protection is needed for the
-    protection of the wrist and forearm.
+2. Rapier: Fencer with bell guard rapier or sufficiently closed hilt does not need to wear a
+   massive glove with the primary weapon. However, additional hand protection is needed for the
+   protection of the wrist and forearm.
 
-3.  Rapier: If a fencer uses a side weapon, this hand needs to be protected with a glove with
-    additional hand protection (e.g. padding...)
+3. Rapier: If a fencer uses a side weapon, this hand needs to be protected with a glove with
+   additional hand protection (e.g. padding...)
 
-4.  Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but
-    the palm must be covered at least by a simple glove or textile.
+4. Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but
+   the palm must be covered at least by a simple glove or textile.
 
-5.  The torso of the body must be protected with an undamaged fencing jacket or gambeson which is
-    made of special hardened or thick material which prevents blade penetration and eases the blade
-    impact. The jacket is subjected to control by the tournament staff and the arena referee. A
-    fencing jacket must cover the armpits as well.
+5. The torso of the body must be protected with an undamaged fencing jacket or gambeson which is
+   made of special hardened or thick material which prevents blade penetration and eases the blade
+   impact. The jacket is subjected to control by the tournament staff and the arena referee. A
+   fencing jacket must cover the armpits as well.
 
-6.  Every female contestant must wear solid breast/chest protection.
+6. Every female contestant must wear solid breast/chest protection.
 
-7.  Additional protection of the arms or elbows is required if the jacket does not provide
-    sufficient protection itself.
+7. Additional protection of the arms or elbows is required if the jacket does not provide
+   sufficient protection itself.
 
-8.  Every part of the body must be covered. No open space must be left between the gloves and the
-    jacket.
+8. Every part of the body must be covered. No open space must be left between the gloves and the
+   jacket.
 
 #### Legs
 
-1. In the categories of longsword and rapier, a groin protector is mandatory for every male
-   contestant.
+1. A groin protector is mandatory for every male contestant in all weapon categories.
 
 2. The knees and shins must be protected at the front and the sides as well.
 
 3. The hips must be protected either by a fencing jacket or by padded pants.
 
 4. The thighs and the upper legs must be protected with CE Level 1 certified pants (350N) or other
-   approved thrust resistant protection.
+   approved thrust-resistant protection.
 
 ### Weapons
 
 #### Longsword
 
-1.  Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must
-    consist of a blade with two edges, a cross-guard, a handle, and a pommel. Longswords must be
-    made of proper steel (no aluminium, plastic or wooden swords will be accepted) and comply with
-    certain qualities, see below.
+1. Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must
+   consist of a blade with two edges, a cross-guard, a handle, and a pommel. Longswords must be
+   made of proper steel (no aluminium, plastic or wooden swords will be accepted) and comply with
+   certain qualities, see below.
 
-2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
-    must be round and blunt.
+2. The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
+   must be round and blunt.
 
-3.  A blade may contain a wide blade root, also known as *Schilt*, which must have round and blunt
-    edges.
+3. A blade may contain a wide blade root, also known as *Schilt*, which must have round and blunt
+   edges.
 
-4.  The cross-guard must be straight and must be round at both ends. Additional protection (e.g. in
-    a form of rings) is not allowed.
+4. The cross-guard must be straight and must be round at both ends. Additional protection (e.g. in
+   a form of rings) is not allowed.
 
-5.  The pommel must be smooth and have no studs.
+5. The pommel must be smooth and have no studs.
 
-6.  The flexibility of the blade is measured by applying pressure on blade point against scales. The
-    blade flexibility is then maximum number in kg shown on scales until the blade gets full bend.
-    Flexibility of longsword blades must be in 9-18kg interval.
+6. The flexibility of the blade is measured by applying pressure on the blade point against
+   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
+   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
+   longsword blades, the acceptable range is 9-16kg.
 
-7.  The minimum width of the point is 1cm.
+7. The minimum point surface area is 70mm².
 
-8.  The point of the blade must be either flared or rounded to prevent potential penetration.
+8. The point of the blade must be either flared or rounded to prevent potential penetration.
 
-9.  The point of balance of the sword cannot be more than 9cm away from the cross-guard.
+9. The point of balance of the sword cannot be more than 9cm away from the cross-guard.
 
 10. The point of the sword must be covered by a red/white/orange tape for better visibility.
 
 11. The overall length of the sword must be within 120-140cm.
 
-12. The weight of the sword must be between 1450 to 1800g.
+12. Sword Weight in the men's category must be between 1400 and 1700g. For the
+    women's category, the sword must weigh between 1250 and 1600g.
 
 #### One-handed sword
 
-1.  Only straight-bladed, European-type simulators are allowed in the tournament. In modern times
-    the so-called Fechschwert/Feder sword (with widened *ricasso*) or *Spada* sword (with a complex
-    handle which protects the hand) are preferred. A sword must consist of a blade with two edges, a
-    cross-guard, a handle, and a pommel.
+1. Only straight-bladed, European-type simulators are allowed in the tournament. In modern times
+   the so-called Fechschwert/Feder sword (with widened *ricasso*) or *Spada* sword (with a complex
+   handle which protects the hand) are preferred. A sword must consist of a blade with two edges, a
+   cross-guard, a handle, and a pommel.
 
-2.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
-    must be round and blunt.
+2. The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
+   must be round and blunt.
 
-3.  A complex cross-guard or rings are allowed.
+3. A complex cross-guard or rings are allowed.
 
-4.  The pommel must be smooth and have no studs.
+4. The pommel must be smooth and have no studs.
 
-5.  The minimum width of the point is 1cm.
+5. The minimum point surface area is 50mm².
 
-6.  The point of the blade must be either flared or rounded to prevent potential penetration.
+6. The point of the blade must be either flared or rounded to prevent potential penetration.
 
-7.  The point of balance of the sword cannot be more than 9cm away from the cross-guard.
+7. The point of balance of the sword cannot be more than 9cm away from the cross-guard.
 
-8.  The point of the sword must be covered by a red/white tape for better visibility.
+8. The point of the sword must be covered by a red/white tape for better visibility.
 
-9.  The overall length of the sword must be within 70-100cm.
+9. The overall length of the sword must be within 70-100cm.
 
 10. The weight of the sword must be between 900 to 1200g.
 
 #### Buckler
 
-1.  A buckler is used in tournaments in the category sword and buckler.
+1. A buckler is used in tournaments in the category sword and buckler.
 
-2.  By the name buckler, it is meant a circular shield that can be gripped in a fist.
+2. By the name buckler, it is meant a circular shield that can be gripped in a fist.
 
-3.  The core of a buckler is made with a shield boss, which protects the hand.
+3. The core of a buckler is made with a shield boss, which protects the hand.
 
-4.  The maximal allowed shield diameter is 40cm.
+4. The maximal allowed shield diameter is 40cm.
 
-5.  The body of buckler must be wooden or metallic; it cannot have any studs or sharp edges.
+5. The body of buckler must be wooden or metallic; it cannot have any studs or sharp edges.
 
-6.  The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa*
-    shield is not allowed in the tournament.
+6. The weight of the buckler is not limited, but it must have a circular shape; so-called *Targa*
+   shield is not allowed in the tournament.
 
-7.  The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s
-    weapon is possible.
+7. The buckler serves a defensive purpose; covering, engaging and diverting of the opponent’s
+   weapon is possible.
 
 #### Rapier
 
-1.  Historicizing replicas of rapiers with a long blade meant for sporting-historical fencing are
-    allowed (modern epee or foil blades are not allowed).
+1. Historicizing replicas of rapiers with a long blade meant for sporting-historical fencing are
+   allowed (modern epee or foil blades are not allowed).
 
-2.  The length of a handle, type of hilt or width of cross-guard is not limited. The overall length
-    of the rapier must not exceed 130cm.
+2. The length of a handle, type of hilt or width of cross-guard is not limited. The overall length
+   of the rapier must not exceed 130cm.
 
-3.  The cross-guard must be round at both ends.
+3. The cross-guard must be round at both ends.
 
-4.  The maximum length of the blade including *ricasso* is 110cm. The blade must be flexible,
-    especially from the middle of the rapier to the point in order not to pose a risk in thrust
-    attacks. The flexibility of the blade is measured with a 0.5kg weight which is attached to the
-    point of the blade and it must be at least 30 degrees to the horizontal blade.
+4. The maximum length of the blade including *ricasso* is 110cm. The blade must be flexible,
+   especially from the middle of the rapier to the point in order not to pose a risk in thrust
+   attacks. The flexibility of the blade is measured by applying pressure on the blade point against
+   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
+   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
+   rapier blades, the acceptable flexibility is 10kg or less.
 
-5.  The weight of the sword must be between 900 to 1300g.
+5. The weight of the sword must be between 900 to 1300g.
 
-6.  The blade must not bear signs of heavy damage, must not be bent, broken or ruptured, which may
-    pose a risk of breaking the weapon.
+6. The blade must not bear signs of heavy damage, must not be bent, broken or ruptured, which may
+   pose a risk of breaking the weapon.
 
-7.  The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be
-    additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
-    protection will be judged by the main referee or tournament organizer.
+7. The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be
+   additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
+   protection will be judged by the main referee or tournament organizer.
 
-8.  The point of the primary and side weapon must be covered by reflexive tape for better
-    visibility.
+8. The point of the primary and side weapon must be covered by reflexive tape for better
+   visibility.
+
+9. The minimum point surface area is 50mm².
 
 #### Side weapon - dagger
 
@@ -228,3 +233,27 @@
 
 4. The cloak must not have any attached metal parts such as weights. However, it is allowed to be
    quilted with fabric or a pattern.
+
+#### Sabre
+
+1. A sabre will be defined as a one-handed light cut and thrust blade, either straight or lightly
+   curved.
+
+2. The total weight of a sabre shall fall between the range of 650-800 grams, counting both blade
+   and basket.
+
+3. The maximal blade length is 90cm. The maximal total sabre length is 105cm.
+
+4. The blade must not have any significant bends or signs of damage.
+
+5. The flexibility of the blade is measured by applying pressure on the blade point against
+   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
+   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
+   longsword blades, the acceptable range is 10kg.
+
+6. The minimum point surface area is 50mm². The blade will have a safe tip, this being defined as
+   rolled, thickened or spatulated. The tip will be further built up at the event with contrasting
+   high-visibility tape.
+
+7. The organizers reserve the right to disallow weapons they feel are unsafe or against the spirit
+   of the rules.

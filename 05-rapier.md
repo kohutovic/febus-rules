@@ -35,13 +35,10 @@
 7. The target includes the whole of the fencer’s body, clothing, and safety equipment, except for
    the back of the head, spine, the feet, the back of the knees, and if used, the cloak.
 
-8. Hits performed with the pommel to other parts than the uncovered mesh part of the opponent's
-   mask are not penalised but also gain no point.
-
-9. It is allowed to parry using the unarmed hand, as long as the weapon is controlled (thrusts or
+8. It is allowed to parry using the unarmed hand, as long as the weapon is controlled (thrusts or
    static blade positions, where the parrying hand does not get a direct hit).
 
-10. Switching of the weapon hand is allowed only in case of injury of the original armed hand,
+9. Switching of the weapon hand is allowed only in case of injury of the original armed hand,
     disallowing to continue fencing with the same hand. Switching the hands in any other case or
     holding the rapier with two hands is not permitted.
 
