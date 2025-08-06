@@ -51,7 +51,7 @@
     1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet
        is the final score of the bout (V5 – Dn, where n = the number of hits scored by the losing
        fencer).
-    2. Three minutes of effective fencing time have passed. (There is no warning for the last
+    2. Two minutes of effective fencing time have passed. (There is no warning for the last
        minute.)
 
 3.  If when the time limit expires there is a difference of at least one point between the scores of
@@ -114,23 +114,28 @@
     account of the classification table and the special rules for each competition (See Figure 2.)
 
 2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
+    bouts are for 7 hits or end when the two periods of two minutes, with a one-minute rest
     between the two periods, have passed.
 
-3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+3.  For the gold-medal bout (1st place) and the bronze-medal bout (3rd place), the Organising Team may 
+    raise the hit limit above the standard seven (e.g. 10 or 15). The chosen limit (and any 
+    corresponding time structure) must be published in the official schedule before the start of 
+    the competition day.
 
-4.  The bout ends when:
+4.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+
+5.  The bout ends when:
     1. One of the fencers has scored 7 hits; or
-    2. 2 * 3 minutes of effective fencing time have passed.
+    2. 2 * 2 minutes of effective fencing time have passed.
 
-5.  The fencer who has scored the greater number of hits is declared the winner.
+6.  The fencer who has scored the greater number of hits is declared the winner.
 
-6.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
+7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
     to decide who will be the winner if scores are still equal at the end of the extra minute. In
     this case the score recorded on the score-sheet is the real score achieved in the bout.
 
-7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
+8.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
     their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
     in the overall classification of the competition.
 
