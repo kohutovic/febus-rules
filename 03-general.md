@@ -2,6 +2,8 @@
 
 ## The Process of the Bouts
 
+### Starting the bout
+
 1.  Each bout is performed for a set amount of time or until a set amount of hits. This is achieved
     through a series of separate, independent exchanges.
 
@@ -37,6 +39,8 @@
     which the referee asks, ‘Are you ready?’. On the affirmative, or in the absence of a negative
     reply, the command will be given for fencing to commence with the word ‘Fence!’.
 
+### Stopping the exchange
+
 8.  The exchange stops when the Referee commands ‘Halt!/Stop!’. The most common reasons for stopping
     an exchange:
     1. a valid hit has been made
@@ -64,6 +68,8 @@
     possible, make a decision in relation to the actual first hit, even if this results in the
     annulment of other valid hits that happened afterwards.
 
+### Arena boundaries
+
 13. When a competitor crosses one of the boundaries of the arena with both feet completely off the
     arena, the Referee must immediately stop the exchange.
 
@@ -82,6 +88,8 @@
 
 17. A competitor who involuntarily crosses one of the boundaries of the arena as the result of any
     accidental cause (such as jostling/being pushed out by the opponent) incurs no penalty.
+
+### Restarting, video review and end of the bout
 
 18. After each valid hit and in case the exchange is stopped for other reasons (confused fencing,
     malfunction, unsuccessful grappling, etc.) the bout continues from the 'On guard' position, at
@@ -104,6 +112,8 @@
 22. After the pool round and each direct elimination bout, the fencers shall check and sign the
     result sheet filled in by the referee during the bout, before leaving the arena.
 
+### Equipment failure and injury breaks
+
 23. For an equipment failure which occurs in the course of a bout, the referee may allow a break in
     the fight lasting up to 3 minutes (measured from the point when the failure has been
     acknowledged by the referee). This time interval can be used to mend or replace, and check the
@@ -117,6 +127,8 @@
     professional attendant deems the fencer unsafe/incapable to fence before or at the end of the
     10-minute break, they have the authority to withdraw the fencer from the bout, or the
     competition.
+
+### Forfeits and withdrawal
 
 25. In case the fencer forfeits one bout due to an equipment malfunction or injury, during the pool
     phase, the other contestant is declared as winning, but the score is not annulled (it is
@@ -176,16 +188,46 @@
       visually distinctive way.
    4. Strike - using the pommel of the weapon against the front mesh of the opponent's mask.
       This action is valid only in the Longsword category.
-   5. The referee may call an action as a valid hit, when a weapon action results in a passively
-      constraining position for the opponent, for a considerable time during which the opponent is
-      unable to break free. This may be the result of of grappling, locks involving the weapon, or
-      opposing actions that restrain the opponent’s weapon movement for a considerable time, until
-      the referee finds all criteria of dominance met, and calls “Halt!”. Hits received while this
-      dominant position is upheld are not considered valid. However, dominance can not be applied to
-      situations, when the opponent can practically break free and initiate valid actions, even if
-      by some active measures, the weapon contact is not completely broken. It is up to the
-      referee’s discretion to judge the validity of dominance actions. Dominance achieved by
-      grappling or close quarter combat can be applied only in the Longsword category.
+
+### Dominance
+
+1. The Referee may award a hit when a weapon action results in a passively
+   constraining position for the opponent, held for a considerable time during
+   which the opponent is unable to break free. Dominance may be the result of
+   grappling, locks involving the weapon, or opposing actions that restrain the
+   opponent's weapon movement.
+
+2. The Referee awards the hit by calling 'Halt!' once they find all criteria of
+   dominance met. Hits received while the dominant position is upheld are not
+   valid.
+
+3. Dominance does not apply when the opponent can practically break free and
+   initiate valid actions, even if the weapon contact is not completely broken.
+   It is at the Referee's discretion to judge the validity of dominance actions.
+
+4. Dominance achieved by grappling or close quarter combat applies only in the
+   Longsword category.
+
+## Forbidden actions (all weapons)
+
+1.  Punching, kicking, violent jostling, and throwing the weapon are strictly
+    forbidden.
+
+2.  Excessive force, brutality or unnecessary violence are forbidden.
+
+3.  Hitting the back of the head, the spine, the groin, the back of the knee or
+    the foot is forbidden and will be penalised (see penalty 1.5).
+
+4.  It is forbidden to hit with the cross-guard, where applicable, or with the
+    basket or bell guard (see penalty 1.5).
+
+5.  Turning the head or covering a valid target with a non-valid one belongs to
+    the first group of offences.
+
+6.  Hitting the arena floor with any weapon due to bad measure in an action will
+    be penalised according to the first group of offences (cases resulting from
+    the opponent's interactions, accidental touches, and touching the floor
+    after having hit the opponent, may be disregarded by the Referee).
 
 ## Close quarter combat
 
@@ -214,25 +256,8 @@ Close quarter combat and grappling are allowed only where the weapon-specific ru
    be counted as valid even if it arrives afterwards, but in the spirit of sportsmanship, no
    intentional new attack should be initiated if the opponent has fallen or lost the weapon.
 
-### Forbidden actions
+### Forbidden actions in close quarter combat
 
-1.  Neck-wrenching, lifting the opponent off the ground, full application of joint locks,
-    small-joint manipulation, or other potentially dangerous wrestling techniques, punching,
-    kicking, violent jostling, and throwing the weapon are strictly forbidden.
-
-2.  Excessive force, brutality or unnecessary violence are forbidden.
-
-3.  Hitting the back of the head, the spine, the groin, the back of the knee or the foot is
-    forbidden.
-
-4.  Turning the head or covering a valid target with a non-valid one belongs to the first group of
-    offences.
-
-5.  Hitting the arena floor with any weapon due to bad measure in an action will be penalised
-    according to the first group of offences (cases resulting from the opponent’s interactions,
-    accidental touches, and touching the floor after having hit the opponent, may be disregarded by
-    the Referee).
-
-6.  It is forbidden to hit with the cross-guard, where applicable, or with the basket or bell guard;
-    and in all circumstances, to hit the back of the head, spine, groin, back of the knee, and the
-    foot of the opponent and will be penalised.
+1.  Neck-wrenching, lifting the opponent off the ground, full application of
+    joint locks, small-joint manipulation, or other potentially dangerous
+    wrestling techniques are strictly forbidden.
