@@ -5,7 +5,7 @@
 1. Everyone taking part in or attending a fencing competition, including the spectators, must
    observe strictly and faithfully the particular rules for the competition in which they are
    engaged, the traditional customs of courtesy and integrity and the instructions of the officials.
-   In particular they will subscribe, in an orderly, disciplined and sporting manner, to the
+   In particular they must subscribe, in an orderly, disciplined and sporting manner, to the
    following provisions; all breaches of these rules may entail punishments by the disciplinary
    authorities after, or even without prior warning, according to the facts and circumstances.
 
@@ -31,7 +31,7 @@
 
 2.  No fencer may take part in the competition if he/she refuses to fence against any other fencer
     whatsoever correctly entered in the event. Should this rule be broken, the penalties specified
-    for offences of the 4th group will be applied.
+    for offences of the 4th group are applied.
 
 3.  The fencers, completely equipped, with all equipment conforming with the regulations and ready
     to fence, must be present at the time and place appointed for the beginning of the pool, match,
@@ -43,15 +43,15 @@
 
 5.  During a competition, if a fencer does not present himself on the arena, ready to fence, when
     ordered to do so by the Referee:
-    1. The fencer not present will be penalised with a Yellow Card;
-    2. A second call will be made, one minute after the first call, followed by a Red Card for the
+    1. The fencer not present is penalised with a Yellow Card;
+    2. A second call is made, one minute after the first call, followed by a Red Card for the
        fencer or team member not present;
-    3. A third and last call will be made, one minute after the second call, followed by elimination
+    3. A third and last call is made, one minute after the second call, followed by elimination
        from the competition for the fencer not present.
 
 6.  During or after a bout, even if the fencer has already left the arena, any act against the
     spirit of sportsmanship such as violently or dangerously throwing one’s mask (or any other piece
-    of equipment) will be penalised.
+    of equipment) is penalised.
 
 7.  The fencer, whether on or off the arena, must keep his mask on until the Referee calls ‘Halt!’.
     He may under no circumstances address the Referee until the Referee has made his decision.
@@ -75,7 +75,7 @@
    the spectators). To this end, they must remain still while the referee is making her decision;
    when she has given her decision, they must return to their on-guard line, perform a fencer’s
    salute and shake hands with their opponent. If either or both of the two fencers refuse to comply
-   with these rules, the Referee will penalise him/them as specified for offences of the 4th group.
+   with these rules, the Referee penalises him/them as specified for offences of the 4th group.
 
 3. Punishable actions are acted on by verbal warnings, warnings (yellow card), point awarded to the
    opponent (red card) or disqualification and expulsion from the venue (black card), according to
@@ -182,7 +182,7 @@
 
 2. Expulsion from the venue of the competition or the tournament.
 
-   1. A competitor who is excluded from a tournament will no longer be allowed to participate in any
+   1. A competitor who is excluded from a tournament is no longer allowed to participate in any
       competition during that tournament, either at the same weapon or another.
    2. All participants or non-competitors who participate in or are present at a competition
       (instructors, trainers, technicians, supporters, officials, spectators) may be expelled. Such
@@ -205,7 +205,7 @@
 
 4.  The penalties are as follows:
     1. a warning, indicated by a YELLOW CARD with which the Referee identifies the fencer at fault.
-       The fencer then knows that any further offence on his part will result in a penalty hit.
+       The fencer then knows that any further offence on his part results in a penalty hit.
     2. a penalty hit, indicated by a RED CARD with which the Referee identifies the fencer at fault.
        A hit is added to the score of his opponent and may, if the last hit is at stake, lead to the
        loss of the bout. Furthermore, a RED CARD can only be followed by another RED CARD or by a

@@ -33,7 +33,7 @@
 7.  Before the beginning of each bout, the two fencers called on the arena salute to their opponent,
     and the referee. Competitors come on guard when the referee gives the order ‘On guard!’, after
     which the referee asks, ‘Are you ready?’. On the affirmative, or in the absence of a negative
-    reply, the command will be given for fencing to commence with the word ‘Fence!’.
+    reply, the command is given for fencing to commence with the word ‘Fence!’.
 
 ### Stopping the exchange
 
@@ -100,11 +100,11 @@
     death overtime runs out with neither fencer scoring, the fencer with priority wins the bout.
     This randomly assigned priority has no effect on the judgment of actions during the overtime.
 
-21. At the end of the bout the referee will announce the winner and the final score. The opponents
-    shall salute to the referees and the opponent and shake hands with the opponent (Refusal to
+21. At the end of the bout the Referee announces the winner and the final score. The opponents
+    must salute the Referees and the opponent and shake hands with the opponent (Refusal to
     observe this rule by one or both of the opponents belongs to the fourth group of offences).
 
-22. After the pool round and each direct elimination bout, the fencers shall check and sign the
+22. After the pool round and each direct elimination bout, the fencers must check and sign the
     result sheet filled in by the referee during the bout, before leaving the arena.
 
 ### Equipment failure and injury breaks
@@ -135,14 +135,14 @@
     a second time, they must withdraw from the competition. (They may still participate in other
     competitions/weapons in the tournament)
 
-27. In case the fencer is withdrawn from the competition during the pool bouts, their results shall
-    be scratched, and their opponents shall be declared as winning V0-D0 in each of their past or
+27. In case the fencer is withdrawn from the competition during the pool bouts, their results are
+    scratched, and their opponents are declared as winning V0-D0 in each of their past or
     future pool bouts, regardless of the previously achieved results. The withdrawn fencer does not
     participate in the calculation of ranking for the direct elimination table.
 
-28. If the fencer withdraws from the competition during the last pool bout, the score shall be
-    recorded as if they had forfeited only one pool bout (see previous paragraph), but they will not
-    be included in the calculation if ranking for the direct elimination table.
+28. If the fencer withdraws from the competition during the last pool bout, the score is
+    recorded as if they had forfeited only one pool bout (see previous paragraph), but they are not
+    included in the calculation if ranking for the direct elimination table.
 
 29. If the fencer withdraws during the direct elimination phase, the opponent is declared as
     winning, and the fencer does not lose their place in the overall classification of the
@@ -151,7 +151,7 @@
 ## The methods of scoring hits
 
 1. Fencing time is the time required to perform one simple fencing action. In judging hits, referees
-   will count immediate actions that start up to the moment of the first hit, as relevant actions.
+   count immediate actions that start up to the moment of the first hit, as relevant actions.
 
 2. When only one of the fencers receives a hit within one period of fencing time, the fencer who was
    hit is called one point against.
@@ -177,8 +177,8 @@
       the flat may be counted at the Referee's discretion, if they bear the characteristics of a
       coordinated and potent technique (e.g. hitting the head with the flat surface of the sword).
    2. Thrust - carried out with the point of the weapon on any valid target. A valid thrust must be
-      performed in such a way that it would be visually distinctive, e.g. the blade will be bent at
-      the end of the action and the point will traverse at least 20cm.
+      performed in such a way that it would be visually distinctive, e.g. the blade bends at
+      the end of the action and the point traverses at least 20cm.
    3. Slice - carried out with the edge of the weapon on any valid target. A slice must be a
       movement which is defined by pushing or pulling of the blade against the valid area in a
       visually distinctive way.
@@ -212,7 +212,7 @@
 2.  Excessive force, brutality or unnecessary violence are forbidden.
 
 3.  Hitting the back of the head, the spine, the groin, the back of the knee or
-    the foot is forbidden and will be penalised (see penalty 1.5).
+    the foot is forbidden and is penalised (see penalty 1.5).
 
 4.  It is forbidden to hit with the cross-guard, where applicable, or with the
     basket or bell guard (see penalty 1.5).
@@ -220,8 +220,8 @@
 5.  Turning the head or covering a valid target with a non-valid one belongs to
     the first group of offences.
 
-6.  Hitting the arena floor with any weapon due to bad measure in an action will
-    be penalised according to the first group of offences (cases resulting from
+6.  Hitting the arena floor with any weapon due to bad measure in an action is
+    penalised according to the first group of offences (cases resulting from
     the opponent's interactions, accidental touches, and touching the floor
     after having hit the opponent, may be disregarded by the Referee).
 
@@ -233,22 +233,22 @@ Close quarter combat and grappling are allowed only where the weapon-specific ru
 1. The Referee may call 'Halt!' after an unsuccessful period of grappling.
 2. Grappling on the opponent's blade is allowed, if the blade is controlled. Seizing of the blade
    needs to be momentary, and followed by an immediate 'clean' hit to score a point. If the
-   competitor can not achieve a hit consequently to seizing the blade, the Referee will call 'Halt!'
-   and award no points. Failing to control the blade will be counted as a point against the
+   competitor can not achieve a hit consequently to seizing the blade, the Referee calls 'Halt!'
+   and awards no points. Failing to control the blade is counted as a point against the
    competitor who attempted to enter grappling.
 3. Grappling actions that score a point are:
    1. take-downs and throws followed/accompanied by a simple and immediate hit with the weapon
       (within a period of fencing time)
    2. controlling the opponent via grappling with or without the weapon, until the Referee calls
       'Halt!'
-4. Ground action is not allowed, the Referee shall call “Halt!” when one of the fencers falls to the
+4. Ground action is not allowed, the Referee must call 'Halt!' when one of the fencers falls to the
    ground, or whenever the referee is unable to judge the action any more, or when a reasonable time
    has passed for dominance to apply.
 5. Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
    referee calls 'Halt!') controls the opponent's weapon and enters grappling.
 
 6. If a fencer accidentally drops the weapon, or falls without the opponent's interaction, the
-   Referee shall call 'Halt!'. A hit that started before the fencer obviously lost the weapon should
+   Referee must call 'Halt!'. A hit that started before the fencer obviously lost the weapon should
    be counted as valid even if it arrives afterwards, but in the spirit of sportsmanship, no
    intentional new attack should be initiated if the opponent has fallen or lost the weapon.
 

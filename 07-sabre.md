@@ -7,7 +7,7 @@
 2. Strikes to a non-scoring target do not score, do not stop the exchange, and do not assign any
    points.
 
-3. Repeated, deliberate strikes to an off-target will be judged as strikes to an illegal target and dealt with accordingly.
+3. Repeated, deliberate strikes to an off-target area are judged as strikes to an illegal target and dealt with accordingly.
 
 ## Sabre-specific scoring considerations
 
@@ -24,7 +24,7 @@
 1. Grappling or close quarter combat is forbidden; it belongs to the first group of offences (see
    penalty 1.5).
 
-2. Engaging in grappling, close quarters combat, or corps-a-corps will immediately be stopped by the referee.
+2. Engaging in grappling, close quarters combat, or corps-a-corps is immediately stopped by the referee.
 
 ## Priority System
 

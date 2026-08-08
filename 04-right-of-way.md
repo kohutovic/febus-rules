@@ -26,7 +26,7 @@ For definitions of fencing actions (attack, feint, compound attack, counterattac
 
 Priority assignment for specific actions:
 - **Attacks** gain priority when properly executed with blade commitment
-- **Blade commitment requirement** - Priority will not be given for pure footwork without blade commitment or actions not demonstrating forward commitment of blade
+- **Blade commitment requirement** - Priority is not given for pure footwork without blade commitment or actions not demonstrating forward commitment of blade
 - **Ripostes** gain priority when immediate and simple after a parry
 - **Counterattacks** cannot be assigned priority
 - **Remise** can only gain priority if the defender's riposte was clearly and significantly delayed

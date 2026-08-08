@@ -20,20 +20,20 @@
 
 1. Every contestant is responsible for their equipment, and must use each element of the mandatory
    equipment, when entering a tournament. If a piece of equipment is declared unsuitable or unfit
-   and the contestant is unable to get a suitable substitute they will be prohibited from entering
+   and the contestant is unable to get a suitable substitute they are prohibited from entering
    the tournament.
 
 2. The mandatory equipment is controlled by the designated tournament staff before the competition
    and an additional check must be done by the referee of each fencing arena. A referee may require
    a contestant to change or adjust a part of their equipment. Nonconforming clothing or equipment
-   is penalised according to the first group of offences (see penalty 1.6), and the contestant will
-   not be allowed to start or continue competing until the item(s) have been approved or replaced
+   is penalised according to the first group of offences (see penalty 1.6), and the contestant is
+   not allowed to start or continue competing until the item(s) have been approved or replaced
    with approved ones. For an equipment failure occurring in the course of a bout, a break of up to
    3 minutes may be allowed (see the General Rules).
 
 3. In case of an accident caused by unfit or inadequate equipment approved negligently by the
    equipment check staff or the referee, the responsibility lies with the staff or referee, who
-   approved the contestant’s entry. The staff or the referee will be subjected to disciplinary
+   approved the contestant’s entry. The staff or the referee is subjected to disciplinary
    proceedings and their license may be revoked.
 
 4. A referee has the right to forbid a piece or a set of equipment which does not comply with the
@@ -109,7 +109,7 @@ blade reaches full bend.
 
 1. Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must
    consist of a blade with two edges, a cross-guard, a handle, and a pommel. Longswords must be
-   made of proper steel (no aluminium, plastic or wooden swords will be accepted) and comply with
+   made of proper steel (aluminium, plastic or wooden swords are not accepted) and comply with
    certain qualities, see below.
 
 2. The blade must not bear signs of heavy damage, must not be bent, broken or ruptured. The edges
@@ -205,7 +205,7 @@ blade reaches full bend.
 
 7. The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be
    additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
-   protection will be judged by the main referee or tournament organizer.
+   protection is judged by the main referee or tournament organizer.
 
 8. The point of the primary and side weapon must be covered by contrasting high-visibility tape
    for better visibility.
@@ -229,7 +229,7 @@ blade reaches full bend.
 #### Cloak
 
 1. In the rapier category, it is possible to use a cloak, which serves defensive purposes. The
-   Organizing Team shall announce in advance, whether they allow the usage of cloaks in their
+   Organising Team must announce in advance whether they allow the usage of cloaks in their
    competitions.
 
 2. The term cloak refers to a semi-circular or circular piece of cloth.
@@ -242,11 +242,9 @@ blade reaches full bend.
 
 #### Sabre
 
-1. A sabre will be defined as a one-handed light cut and thrust blade, either straight or lightly
-   curved.
+1. A sabre is a one-handed light cut and thrust blade, either straight or lightly curved.
 
-2. The total weight of a sabre shall fall between the range of 650-800 grams, counting both blade
-   and basket.
+2. The sabre, including blade and basket, must weigh between 650 and 800 g.
 
 3. The maximal blade length is 90cm. The maximal total sabre length is 105cm.
 
@@ -254,9 +252,8 @@ blade reaches full bend.
 
 5. For sabre blades, the acceptable flexibility is 10 kg or less.
 
-6. The minimum point surface area is 50mm². The blade will have a safe tip, this being defined as
-   rolled, thickened or spatulated. The tip will be further built up at the event with contrasting
-   high-visibility tape.
+6. The minimum point surface area is 50mm². The blade must have a safe tip: rolled, thickened or
+   spatulated. The tip must be further built up at the event with contrasting high-visibility tape.
 
 7. The organizers reserve the right to disallow weapons they feel are unsafe or against the spirit
    of the rules.

@@ -58,7 +58,7 @@ the rules below apply.
    first or the second group of offences.
 
 4. It is forbidden to throw the dagger at the opponent, it belongs to the fourth group of offences,
-   and will be penalized with elimination from the tournament.
+   and is penalised with elimination from the tournament.
 
 ## Actions involving a cloak as a side weapon
 
