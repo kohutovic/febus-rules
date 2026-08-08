@@ -4,7 +4,7 @@
 
 Sword and Buckler competitions do not use priority (Right of Way) rules. Scoring follows the same
 combat rules as Rapier and side weapons competitions (see
-[Rapier and side weapons](05-rapier.md)): only the first valid hit scores.
+[Rapier and side weapons](06-rapier.md)): only the first valid hit scores.
 
 1. Double hits, simultaneous hits, and after-actions are judged according to the rules of the
    Rapier and side weapons competitions.

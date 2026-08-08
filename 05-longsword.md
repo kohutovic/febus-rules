@@ -21,7 +21,7 @@
 
 ## Vor/Priority
 
-Longsword uses the standard right-of-way system. See [Right of Way and Priority Rules](09-right-of-way.md) for detailed priority conventions and examples.
+Longsword uses the standard right-of-way system. See [Right of Way and Priority Rules](04-right-of-way.md) for detailed priority conventions and examples.
 
 ## Close quarter combat
 
