@@ -82,5 +82,5 @@ Priority assignment for specific actions:
 ## Weapon-Specific Variations
 
 See individual weapon rules for specific applications and variations of these priority principles:
-- [Longsword specific applications](04-longsword.md)
-- [Sabre specific applications](08-sabre.md)
+- [Longsword specific applications](05-longsword.md)
+- [Sabre specific applications](07-sabre.md)

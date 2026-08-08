@@ -29,6 +29,7 @@ class MarkdownToPDFConverter:
         self.chapter_counter = 0
         self.section_counters = {}
         self.page_numbers = {}  # Store page numbers for anchors
+        self.num_root_files = 0
         
     def collect_markdown_files(self) -> List[Tuple[str, Path]]:
         """Zozbiera všetky .md súbory a zoradí ich podľa číslovania"""
@@ -37,7 +38,8 @@ class MarkdownToPDFConverter:
         
         # Hlavné súbory v root adresári
         for file in Path('.').glob('*.md'):
-            if file.name not in ['README.md', 'CLAUDE.md']:
+            if file.name not in ['README.md', 'CLAUDE.md'] \
+                    and not file.name.startswith('FEBUS_smernica'):
                 root_files.append((file.name, file))
         
         # Súbory v appendices
@@ -48,8 +50,9 @@ class MarkdownToPDFConverter:
         
         # Zoradiť podľa číslovania (01-, 02-, atď.)
         root_files.sort(key=lambda x: x[0])
+        self.num_root_files = len(root_files)
         appendix_files.sort(key=lambda x: x[0])
-        
+
         self.md_files = root_files + appendix_files
         return self.md_files
     
@@ -74,20 +77,20 @@ class MarkdownToPDFConverter:
                         h2_counter = 0
                         h3_counter = 0
                         if is_appendix:
-                            number = f"A{chapter_num - 9}"
+                            number = f"A{chapter_num - self.num_root_files}"
                         else:
                             number = f"{chapter_num}"
                     elif header_level == 2:
                         h2_counter += 1
                         h3_counter = 0
                         if is_appendix:
-                            number = f"A{chapter_num - 9}.{h2_counter}"
+                            number = f"A{chapter_num - self.num_root_files}.{h2_counter}"
                         else:
                             number = f"{chapter_num}.{h2_counter}"
                     elif header_level == 3:
                         h3_counter += 1
                         if is_appendix:
-                            number = f"A{chapter_num - 9}.{h2_counter}.{h3_counter}"
+                            number = f"A{chapter_num - self.num_root_files}.{h2_counter}.{h3_counter}"
                         else:
                             number = f"{chapter_num}.{h2_counter}.{h3_counter}"
                     else:
@@ -203,7 +206,7 @@ class MarkdownToPDFConverter:
                 self.section_counters['h2'] = 0
                 self.section_counters['h3'] = 0
                 if is_appendix:
-                    number = f"A{chapter_num - 9}."
+                    number = f"A{chapter_num - self.num_root_files}."
                 else:
                     number = f"{chapter_num}."
                 # Force H1 styling for first header
@@ -213,20 +216,20 @@ class MarkdownToPDFConverter:
                 self.section_counters['h2'] = 0
                 self.section_counters['h3'] = 0
                 if is_appendix:
-                    number = f"A{chapter_num - 9}."
+                    number = f"A{chapter_num - self.num_root_files}."
                 else:
                     number = f"{chapter_num}."
             elif level == 2:
                 self.section_counters['h2'] += 1
                 self.section_counters['h3'] = 0
                 if is_appendix:
-                    number = f"A{chapter_num - 9}.{self.section_counters['h2']}."
+                    number = f"A{chapter_num - self.num_root_files}.{self.section_counters['h2']}."
                 else:
                     number = f"{chapter_num}.{self.section_counters['h2']}."
             elif level == 3:
                 self.section_counters['h3'] += 1
                 if is_appendix:
-                    number = f"A{chapter_num - 9}.{self.section_counters['h2']}.{self.section_counters['h3']}."
+                    number = f"A{chapter_num - self.num_root_files}.{self.section_counters['h2']}.{self.section_counters['h3']}."
                 else:
                     number = f"{chapter_num}.{self.section_counters['h2']}.{self.section_counters['h3']}."
             else:

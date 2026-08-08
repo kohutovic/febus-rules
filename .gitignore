@@ -2,3 +2,6 @@
 **/.idea
 **/.idea/**
 CLAUDE.md
+.DS_Store
+venv/
+febus_rulebook.pdf

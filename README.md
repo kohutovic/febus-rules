@@ -6,24 +6,23 @@
 
 ## Equipment Regulations
 
-- [Equipment Standards](02-equipment.md)
-
-## Organisation and bout management
-
-- [Organisation](06-organisational.md)
-- [Fencing etiquette and disciplinary rules](07-disciplinary.md)
+- [Technical & Equipment Standards](02-equipment.md)
 
 ## The Principles of Scoring
 
 - [General rules for all weapons](03-general.md)
-- [Right of Way and Priority Rules](09-right-of-way.md)
-- [Longsword specific rules](04-longsword.md)
-- [Rapier and side weapons specific rules (rapier, dagger, cloak)](05-rapier.md)
-- [Sabre specific rules](08-sabre.md)
-- [Sword and Buckler specific rules](10-sword-and-buckler.md)
+- [Right of Way and Priority Rules](04-right-of-way.md)
+- [Longsword specific rules](05-longsword.md)
+- [Rapier and side weapons specific rules (rapier, dagger, cloak)](06-rapier.md)
+- [Sabre specific rules](07-sabre.md)
+- [Sword and Buckler specific rules](08-sword-and-buckler.md)
+
+## Organisation and Bout Management
+
+- [Organisational Rules](09-organisational.md)
+- [Fencing etiquette and disciplinary rules](10-disciplinary.md)
 
 ## Appendix
 
 - [Glossary](appendices/01-glossary.md)
-- [Tables of offence and penalties](appendices/02-penalties.md)
-
+- [Table of Offences and Penalties](appendices/02-penalties.md)
