@@ -239,9 +239,17 @@ class MarkdownToPDFConverter:
         
         # Nahradiť všetky h1, h2, h3 s ID a číslovaním (vrátane tých s atribútmi)
         html_content = re.sub(r'<h([1-3])[^>]*>(.*?)</h\1>', add_header_numbering, html_content)
-        
+
+        html_content = self.colorize_cards(html_content)
         return html_content
-    
+
+    def colorize_cards(self, html: str) -> str:
+        """Zafarbí YELLOW/RED/BLACK karty v tabuľkách trestov."""
+        html = html.replace('<strong>YELLOW</strong>', '<strong class="card-yellow">YELLOW</strong>')
+        html = html.replace('<strong>RED</strong>', '<strong class="card-red">RED</strong>')
+        html = html.replace('<strong>BLACK</strong>', '<strong class="card-black">BLACK</strong>')
+        return html
+
     def get_logo_base64(self) -> str:
         """Načíta logo a konvertuje na base64"""
         # Try JPG first, then PNG
@@ -612,7 +620,11 @@ class MarkdownToPDFConverter:
             tbody tr:last-child td {
                 border-bottom: 2px solid #333;
             }
-            
+
+            .card-yellow { background-color: #E3D059; padding: 0 4px; white-space: nowrap; }
+            .card-red    { background-color: #E36159; color: #fff; padding: 0 4px; white-space: nowrap; }
+            .card-black  { background-color: #787878; color: #fff; padding: 0 4px; white-space: nowrap; }
+
             /* Citácie */
             blockquote {
                 margin: 1em 2em;
