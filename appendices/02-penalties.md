@@ -1,494 +1,86 @@
 # Table of Offences and Penalties
 
-This table is intended to be a summary; it is not a substitute for the full text of the articles
-concerned, which should be consulted in any case of doubt.
+This table is a summary; it is not a substitute for the full text of the
+articles concerned (ART. column), which must be consulted in any case of doubt.
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="12%">
-    <col width="12%">
-    <col width="12%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td>OFFENCE
-      </td>
-      <td>ART.
-      </td>
-      <td colspan="3" >PENALTY
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-      </td>
-      <td>
-        <h3>Non-presentation</h3>
-      </td>
-     <td>
-     </td>
-     <td colspan="3" >
-     </td>
-    </tr>
-    <tr>
-      <td>0.1
-      </td>
-      <td>Non presentation when called by the staff of the fencing area ten minutes before the time indicated for start of pool/bouts of direct elimination
-      </td>
-      <td>
-      </td>
-      <td colspan="3" bgcolor="#787878">Elimination from the competition
-      </td>
-    </tr>
-    <tr>
-      <td>0.2
-      </td>
-      <td>Non presentation on the arena ready to fence when ordered by the referee. Three calls, with one minute intervals.
-      </td>
-      <td>
-      </td>
-      <td bgcolor="#E3D059">1st call
-      </td>
-      <td bgcolor="#E36159">2nd call
-      </td>
-      <td bgcolor="#787878">Elim.
-      </td>
-    </tr>
-   </tbody>
-</table>
+An asterisk (\*) means: any hit scored by the fencer at fault is annulled.
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="12%">
-    <col width="12%">
-    <col width="12%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td>
-        <h3>Boundary crossing</h3>
-      </td>
-     <td>
-     </td>
-     <td colspan="3" >
-     </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0.3
-      </td>
-      <td>Leaving the arena with both feet without the opponent’s interaction and without having scored a valid hit (see the General Rules)
-      </td>
-      <td>
-      </td>
-      <td>Verbal warning
-      </td>
-      <td colspan="2" bgcolor="#E36159">Hit against (each subsequent case)
-      </td>
-    </tr>
-   </tbody>
-</table>
+## Non-presentation
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="12%">
-    <col width="12%">
-    <col width="12%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td colspan="2" >
-        <h3>1ST GROUP</h3>
-      </td>
-      <td>1st offence
-      </td>
-      <td>2nd offence
-      </td>
-      <td>3rd offence and subs.
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1.1
-      </td>
-      <td>Leaving the arena without permission
-      </td>
-      <td>
-      </td>
-      <td rowspan="14" bgcolor="#E3D059">YELLOW
-      </td>
-      <td rowspan="14" bgcolor="#E36159">RED
-      </td>
-      <td rowspan="14" bgcolor="#E36159">RED
-      </td>
-    </tr>
-    <tr>
-      <td>1.2
-      </td>
-      <td>Turning back on opponent
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.3
-      </td>
-      <td>Covering/substitution of valid target
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.4
-      </td>
-      <td>Interruption of the bout without valid reason
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.5
-      </td>
-      <td>Attacking forbidden targets (back of the head, spine, groin, foot, back of the knee). Hit with crossguard. Attack with the dagger in rapier. Strike with the buckler. Wrestling or grappling in rapier, sword &amp; buckler, or sabre.
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.6
-      </td>
-      <td>Clothing/equipment nonconforming. Absence of regulation weapon
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.7
-      </td>
-      <td>Hitting the arena floor with an uncontrolled action
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.8
-      </td>
-      <td>Refusal to obey the referee (including actions before “Fence!” or after “Halt!”)
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.9
-      </td>
-      <td>Disorderly fencing *; taking off mask before the Referee calls 'Halt!'; dressing or undressing in the arena
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.10
-      </td>
-      <td>Irregular moves in the arena *; throwing the opponent by lifting their both of their feet off the ground *
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.11
-      </td>
-      <td>Unjustified appeal
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.12
-      </td>
-      <td>Hitting with the fists and kicking *
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.13
-      </td>
-      <td>Removing the opponent‘s mask or any other protective equipment. *
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.14
-      </td>
-      <td>Losing or dropping the cloak during a rapier bout
-      </td>
-      <td>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| No. | Offence | Art. | Penalty |
+|-----|---------|------|---------|
+| 0.1 | Non-presentation when called by the staff of the arena ten minutes before the time indicated for the start of pool / direct elimination bouts | O.4 | **BLACK** — elimination from the competition |
+| 0.2 | Non-presentation on the arena ready to fence when ordered by the Referee (three calls, one-minute intervals) | D.9 | 1st call **YELLOW** · 2nd call **RED** · 3rd call elimination |
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="12%">
-    <col width="12%">
-    <col width="12%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td colspan="2" >
-        <h3>2ND GROUP</h3>
-      </td>
-      <td>1st offence
-      </td>
-      <td>2nd offence
-      </td>
-      <td>3rd offence and subs.
-      </td>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td>2.1
-      </td>
-      <td>Throwing the weapon *
-      </td>
-      <td>
-      </td>
-      <td rowspan="4" bgcolor="#E36159">RED
-      </td>
-      <td rowspan="4" bgcolor="#E36159">RED
-      </td>
-      <td rowspan="4" bgcolor="#E36159">RED
-      </td>
-    </tr>
-    <tr>
-      <td>2.2
-      </td>
-      <td>Demanding a break for claimed injury/cramp unjustified by the doctor
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>2.3
-      </td>
-      <td>Absence of equipment control marks *
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>2.4
-      </td>
-      <td>Dangerous, violent or vindictive action. * Attack with the dagger in rapier bouts. * Strike with the buckler. *
-      </td>
-      <td>
-      </td>
-    </tr>
-   <tbody>
-</table>
+## Boundary crossing
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="17%">
-    <col width="17%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td colspan="2" >
-        <h3>3RD GROUP</h3>
-      </td>
-      <td>1st offence
-      </td>
-      <td>2nd offence
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>3.1
-      </td>
-      <td>Fencer disturbing order when in the arena. In the most serious cases the Referee may award a black card immediately.
-      </td>
-      <td>
-      </td>
-      <td bgcolor="#E36159">RED<sup>4</sup> (even if the fencer at fault has already received a Red Card as a result of offenses in the 1st or 2nd groups)
-      </td>
-      <td rowspan="2" bgcolor="#787878">BLACK<sup>1 </sup>(only after the fencer has committed another offence in this third group.)
-      </td>
-    </tr>
-    <tr>
-      <td>3.2
-      </td>
-      <td>Dishonest fencing *
-      </td>
-      <td>
-      </td>
-      <td bgcolor="#E36159">RED
-      </td>
-    </tr>
-    <tr>
-      <td>3.3
-      </td>
-      <td>Any person not in arena disturbing order. In the most serious cases the Referee may award a black card immediately.
-      </td>
-      <td>
-      </td>
-      <td bgcolor="#E3D059">YELLOW<sup>4</sup> (valid for the whole of the competition)
-      </td>
-      <td bgcolor="#787878">BLACK<sup>3</sup>
-      </td>
-    </tr>
-    <tr>
-      <td>3.4
-      </td>
-      <td>Offence against sportsmanship * - In the most serious cases the Referee may award a black card immediately.
-      </td>
-      <td>
-      </td>
-      <td bgcolor="#E3D059">YELLOW
-      </td>
-      <td bgcolor="#787878">BLACK <sup>1 or 2</sup>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| No. | Offence | Art. | 1st occasion | Subsequent |
+|-----|---------|------|--------------|------------|
+| 0.3 | Leaving the arena with both feet without the opponent's interaction and without having scored a valid hit | G.16 | Verbal warning | Point against |
 
-<table>
-  <colgroup>
-    <col width="8%">
-    <col width="*">
-    <col width="10%">
-    <col width="17%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td>
-      </td>
-      <td colspan="2" >
-        <h3>4TH GROUP</h3>
-      </td>
-      <td>1st offence
-      </td>
-    </tr>
-   </thead>
-   <tbody>
-    <tr>
-      <td>4.1
-      </td>
-      <td>Deliberate brutality. Throwing the opponent onto their head *. Neck-wrenching and small-joint manipulation techniques. * Failing to stop dangerous submission holds before full application (both competitors may be penalised, the victim as well if he/she did not submit). * Throwing the dagger at the opponent in rapier bouts *
-      </td>
-      <td>
-      </td>
-      <td rowspan="5" bgcolor="#787878">BLACK
-      </td>
-    </tr>
-    <tr>
-      <td>4.2
-      </td>
-      <td>Causing injury or threat of injury with equipment non-conforming to the Rules without or with imitated / transferred weapon control marks.
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>4.3
-      </td>
-      <td>Offence against sportsmanship (e.g. refusal to salute or shake hands after the bout)
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>4.4
-      </td>
-      <td>Refusal of a fencer to fence another competitor properly entered
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>4.5
-      </td>
-      <td>Profiting from collusion, favouring an opponent
-      </td>
-      <td>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## First group
 
-<table>
-  <colgroup>
-    <col width="15%">
-    <col width="85%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td colspan="2" >
-        <h3>EXPLANATIONS</h3>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>*</td>
-      <td>Annulling of any hit scored by the competitor at fault</td>
-    </tr>
-    <tr>
-      <td bgcolor="#E3D059">YELLOW CARD
-      </td>
-      <td>Warning valid for the bout. If a competitor commits an offence of the 1st group after having been penalized with a RED CARD, for whatever reason, he/she receives a further RED CARD.
-      </td>
-    </tr>
-    <tr>
-      <td bgcolor="#E36159">RED CARD
-      </td>
-      <td>Penalty hit
-      </td>
-    </tr>
-    <tr>
-      <td bgcolor="#787878">BLACK CARD
-      </td>
-      <td>Exclusion from the competition, suspension from the remainder of the tournament.
-     Possible suspension from future events organised by the Federation or the Organiser.
-     A competitor only receives a BLACK CARD in the 3rd group if the offender previously committed an offence in this Third Group (demonstrated by a RED CARD).
-     <p>
-     <p>1. Exclusion from competition
-     <p>2. Exclusion from tournament
-     <p>3. Expulsion from venue
-     <p>4. In serious cases, the referee may exclude/expel immediately
-     </td>
-    </tr>
-  </tbody>
-</table>
+Penalty ladder: 1st offence **YELLOW**, 2nd and subsequent offences **RED**.
+A fencer already holding a RED card receives a further **RED** for a first
+offence of this group.
+
+| No. | Offence | Art. |
+|-----|---------|------|
+| 1.1 | Leaving the arena without permission | — |
+| 1.2 | Turning the back on the opponent | G.42 |
+| 1.3 | Covering/substitution of valid target | G.42 |
+| 1.4 | Interruption of the bout without valid reason | G.9 |
+| 1.5 | Attacking forbidden targets (back of the head, spine, groin, foot, back of the knee). Hit with the cross-guard. Attack with the dagger in Rapier. Strike with the buckler. Wrestling or grappling in Rapier, Sword & Buckler, or Sabre. | G.40–G.41, R.1, R.15, SB.5, SB.8, S.8 |
+| 1.6 | Clothing/equipment nonconforming; absence of regulation weapon | E.6 |
+| 1.7 | Hitting the arena floor with an uncontrolled action | G.43 |
+| 1.8 | Refusal to obey the Referee (including actions before 'Fence!' or after 'Halt!') | G.10 |
+| 1.9 | Disorderly fencing \*; taking off the mask before the Referee calls 'Halt!'; dressing or undressing in the arena | D.11, D.13 |
+| 1.10 | Irregular movements in the arena \*; throwing the opponent by lifting both of their feet off the ground \* | D.13, G.50 |
+| 1.11 | Unjustified appeal | D.19 |
+| 1.12 | Hitting with the fists, kicking \* | G.38 |
+| 1.13 | Removing the opponent's mask or any other protective equipment \* | — |
+| 1.14 | Losing or dropping the cloak during a Rapier bout | R.21 |
+
+## Second group
+
+Penalty: **RED** for every offence, including the first.
+
+| No. | Offence | Art. |
+|-----|---------|------|
+| 2.1 | Throwing the weapon \* | G.38 |
+| 2.2 | Demanding a break for a claimed injury/cramp not confirmed by the medical staff | G.24 |
+| 2.3 | Absence of equipment control marks \* | O.40 |
+| 2.4 | Dangerous, violent or vindictive action \*; attack with the dagger in Rapier bouts \*; strike with the buckler \* | D.13, R.15, SB.8 |
+
+## Third group
+
+| No. | Offence | Art. | 1st offence | 2nd offence |
+|-----|---------|------|-------------|-------------|
+| 3.1 | Fencer disturbing order when in the arena (in the most serious cases the Referee may award a black card immediately) | D.2 | **RED**⁴ (even if already holding a RED from groups 1 or 2) | **BLACK**¹ |
+| 3.2 | Dishonest fencing \* | D.12 | **RED** | **BLACK**¹ |
+| 3.3 | Any person not in the arena disturbing order (in the most serious cases: immediate black card) | D.42 | **YELLOW**⁴ (valid for the whole competition) | **BLACK**³ |
+| 3.4 | Offence against sportsmanship \* (in the most serious cases: immediate black card) | D.13 | **YELLOW** | **BLACK**¹ or ² |
+
+## Fourth group
+
+Penalty: **BLACK** for the first offence.
+
+| No. | Offence | Art. |
+|-----|---------|------|
+| 4.1 | Deliberate brutality; throwing the opponent onto their head \*; neck-wrenching and small-joint manipulation \*; failing to stop dangerous submission holds before full application (both fencers may be penalised, the victim as well if they did not submit) \*; throwing the dagger at the opponent in Rapier bouts \* | G.50, R.16 |
+| 4.2 | Causing injury or threat of injury with equipment non-conforming to the Rules, or with imitated/transferred weapon control marks | E.5 |
+| 4.3 | Offence against sportsmanship (e.g. refusal to salute or shake hands after the bout) | G.21, D.14 |
+| 4.4 | Refusal of a fencer to fence another fencer properly entered | D.6 |
+| 4.5 | Profiting from collusion, favouring an opponent | D.29 |
+
+## Cards and footnotes
+
+| Card | Meaning |
+|------|---------|
+| **YELLOW** | Warning, valid for the bout. A fencer who commits a 1st-group offence after having been penalised with a RED card (for whatever reason) receives a further **RED**. |
+| **RED** | Penalty point for the opponent. |
+| **BLACK** | Exclusion from the competition and suspension from the remainder of the tournament; possible suspension from future events organised by the Federation or the Organiser. In the 3rd group, a BLACK card is awarded only after a previous offence in that group (demonstrated by a RED card). |
+
+¹ exclusion from the competition · ² exclusion from the tournament ·
+³ expulsion from the venue · ⁴ in serious cases the Referee may exclude/expel
+immediately
