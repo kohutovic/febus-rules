@@ -10,12 +10,9 @@
 2.  The competitors present themselves in the arena when called by the referee before each pool or
     direct elimination bout, in appropriate gear conforming to the rules and be ready to fence.
 
-3.  An additional equipment check will be performed by the referee directly before each round to
-    confirm completeness of safety gear and weapons. The Referee has the right to repeat this check
-    any time they find it necessary. Fencers who appear in the arena wearing or using unapproved or
-    incomplete equipment will be penalised according to the Rulebook's regulations, and will not be
-    allowed to start or continue competing without having the item(s) approved or replaced with
-    approved ones (see the Equipment Standards).
+3.  Equipment checks before and during the competition, and the penalties for
+    nonconforming equipment, are set out in the
+    [Technical & Equipment Standards](02-equipment.md).
 
 4.  Each fencer is allowed one coach/second who is allowed to be near the arena during bouts. This
     person may speak to their fencer during breaks but may not disturb the bout with verbal or
@@ -26,13 +23,12 @@
 5.  The competitors called first place themselves to the right of the referee behind the on guard
     line.
 
-6.  Pool bouts last 2 minutes of effective fencing time; or until one of the fencers reaches 5
-    points. Direct Elimination bouts last 2 * 2 minutes of effective fencing time, with one minute
-    resting period after the first 2 minutes period; or until one of the fencers reaches 7 points.
-    The Organising Team may announce different bout durations or hit limits before the start of
-    the competition (see the Organisational Rules); unless announced otherwise, these defaults
-    apply. The 'End of Time' is going to be announced by a Timekeeper, but the match can be stopped
-    only by the referee.
+6.  Bout durations, hit limits and tie-break procedures are set out in the
+    [Organisational Rules](09-organisational.md). Unless the Organising Team
+    announces otherwise, the defaults are: pool bouts 2 minutes or 5 points;
+    direct elimination bouts 2 × 2 minutes (with a one-minute rest) or 7
+    points. The Timekeeper announces the end of time. Only the Referee may
+    stop the bout.
 
 7.  Before the beginning of each bout, the two fencers called on the arena salute to their opponent,
     and the referee. Competitors come on guard when the referee gives the order ‘On guard!’, after

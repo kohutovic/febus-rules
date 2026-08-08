@@ -21,13 +21,12 @@
 3. During a competition, if a fencer does not present themselves on the arena ready to fence
    when ordered to do so by the Referee, the procedure described in the disciplinary rules
    applies (Yellow → Red → elimination, with 1-minute intervals between calls; see penalty 0.2
-   and the Fencing etiquette section).
+   and [Fencing etiquette and disciplinary rules](10-disciplinary.md), section 'The Fencers').
 
-4. The Refereeing Team will check the readiness of fencers (completeness of safety gear and
-   weapons) before the indicated start of bouts. The Referee may repeat this check at any time.
-   Fencers who appear in the fencing area with unapproved or incomplete equipment will be
-   penalised, and will not be allowed to start or continue competing without having the item(s)
-   approved or replaced (see Equipment Standards).
+4. The Refereeing Team checks the readiness of fencers (completeness of safety
+   gear and weapons) before the indicated start of bouts, as set out in the
+   [Technical & Equipment Standards](02-equipment.md). The Referee may repeat
+   this check at any time.
 
 ## The Refereeing system
 
@@ -91,7 +90,8 @@ values before the start of the competition; unless announced otherwise, the defa
 
 4.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute.
+    to decide who will be the winner if scores are still equal at the end of the extra minute, as
+    described in the [General Rules](03-general.md).
 
 5.  In this case the score registered on the score-sheet is always the actual score achieved in the
     bout:
@@ -161,8 +161,9 @@ values before the start of the competition; unless announced otherwise, the defa
 
 7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute. In
-    this case the score recorded on the score-sheet is the real score achieved in the bout.
+    to decide who will be the winner if scores are still equal at the end of the extra minute, as
+    described in the [General Rules](03-general.md). In this case the score recorded on the
+    score-sheet is the real score achieved in the bout.
 
 8.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
     their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
