@@ -51,8 +51,8 @@
 
 4. The bib of the mask must not roll up.
 
-5. If a contestant leans their head in any standard angle, no unprotected part or skin must be
-   visible.
+5. The head protection must leave no skin or unprotected area visible when the fencer tilts their
+   head at any normal angle.
 
 #### Hands, arms and torso protection
 
@@ -80,8 +80,8 @@
 7. Additional protection of the arms or elbows is required if the jacket does not provide
    sufficient protection itself.
 
-8. Every part of the body must be covered. No open space must be left between the gloves and the
-   jacket.
+8. Every part of the body must be covered. The gloves must overlap the jacket sleeves, leaving no
+   gap.
 
 9. An 800N FIE-certified under-plastron is mandatory in the Rapier category.
 

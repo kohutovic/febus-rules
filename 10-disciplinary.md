@@ -106,15 +106,14 @@
     final decision is made, the referee's judgment regarding facts is not to be questioned in
     retrospect.
 
-4.  In his capacity as director of the bout and arbiter of hits, he can, in accordance with the
-    rules, penalise the competitors, either by refusing to award a hit which they have in fact made
-    on the opponent, or by awarding against them a hit which they have not in fact received, or by
-    excluding them from the competition which he is refereeing, all, according to the circumstances,
-    with or without prior warning. In these circumstances, and if he has judged on a matter of fact,
-    his decisions are irrevocable
+4.  As director of the bout and arbiter of hits, the Referee may, in accordance with the rules and —
+    according to the circumstances — with or without prior warning: a) refuse to award a hit
+    actually made; b) award a point against a fencer for a hit not actually received; c) exclude a
+    fencer from the competition. When the Referee has judged on a matter of fact, the decision is
+    irrevocable.
 
 5.  By reason of the right of jurisdiction which he has over all the fencers who participate in, or
-    are present at a competition which he is refereeing, he can also propose to the the expulsion
+    are present at a competition which he is refereeing, they can also propose the expulsion
     from the venue of the competition of the spectators, trainers, instructors and other persons who
     accompany the competitors.
 
@@ -244,8 +243,8 @@
    Groups.
 
 2. If during the same bout the fencer commits the same or a different offence in this group, he is
-   penalised with a BLACK CARD (exclusion from the competition, suspension from the remainder of the
-   tournament. The fencer keeps the position in the ranking s obtained up to the moment of the
+   penalised with a BLACK CARD (exclusion from the competition and suspension from the remainder of
+   the tournament). The fencer keeps the position in the ranking obtained up to the moment of the
    disqualification (unless the ranking has not yet been established via the pools).
 
 3. Any person not on the arena who disturbs the good order of the competition receives:
@@ -258,7 +257,7 @@
 ### The Fourth Group of Offences
 
 1. The first infringement in the Fourth Group, is penalised by a BLACK CARD (exclusion from the
-   competition.
-2. The penalized fencer keeps the position in the ranking s obtained up to the moment of the
+   competition).
+2. The penalized fencer keeps the position in the ranking obtained up to the moment of the
    disqualification (unless the ranking has not yet been established via the pools).
 

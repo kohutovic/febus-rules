@@ -59,10 +59,9 @@
 11. Invalid hits may be disregarded at the Referee's discretion as if never happened, when the
     Referee is able to clearly follow the exchange.
 
-12. However, if when the Referee stops the exchange, a hit that the referee believed invalid and ignored
-    before the conclusion of the last exchange proves to have been valid, the Referee shall, if
-    possible, make a decision in relation to the actual first hit, even if this results in the
-    annulment of other valid hits that happened afterwards.
+12. If a hit that the Referee ignored as invalid proves, when the exchange is stopped, to have been
+    valid, the Referee must, if possible, re-judge the exchange from that actual first hit. Later
+    hits are annulled, even if they were valid.
 
 ### Arena boundaries
 
@@ -76,11 +75,11 @@
     action was started before the exchange was stopped, even if the fencer leaves the arena
     afterwards.
 
-16. Should a competitor cross the boundary of the arena completely — i.e. with both feet — without
-    having scored any valid hits before crossing the limit of the arena (see penalty 0.3)
+16. If a fencer crosses the boundary of the arena with both feet without having scored a valid hit
+    before crossing (see penalty 0.3):
     1. upon the first occasion within a bout, the fencer receives a verbal warning
-    2. upon each subsequent cases within the bout, a hit will be scored against him (as if they had
-       been hit).
+    2. on each subsequent occasion within the bout, a point is scored against the fencer (as if
+       they had been hit).
 
 17. A competitor who involuntarily crosses one of the boundaries of the arena as the result of any
     accidental cause (such as jostling/being pushed out by the opponent) incurs no penalty.
@@ -163,8 +162,9 @@
    1. A simultaneous hit is the result of a similar conception and execution of both fencers at the
       same time. The scoring of simultaneous hits is determined by weapon-specific rules.
 
-   2. A double hit occurs when both fencers get hit within a period of fencing time, but are not
-      simultaneous actions, are evaluated according to the rules or each specific weapon.
+   2. A double hit occurs when both fencers are hit within one period of fencing time but the
+      actions are not simultaneous. Double hits are evaluated according to the weapon-specific
+      rules.
 
    3. An after-action is a double hit situation, where the fencer at fault starts a counter action
       (or the finishing move of a compound action) at or after the moment of receiving a hit.

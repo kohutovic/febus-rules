@@ -38,12 +38,15 @@
 2.  The Referee gives the signals to start, stop, assigns points and describes what happened during
     the entire bout or at least the last exchange.
 
-3.  After stopping an exchange, the Referee consults with the Assistant and proposes a result. If the
-    fencers accept the decision (they say nothing), the fight continues with the proposed score. If
-    they don’t agree with the Referee, but they agree with each other, the Referee may make a
-    decision according to their wishes. If any of the fencers protests and the fencers disagree with
-    each other, the Referee will decide whether to assign a point (being completely sure) or repeat
-    the exchange.
+3.  After stopping an exchange, the Referee consults the Assistant and proposes
+    a result. Then:
+    a) if both fencers accept the decision (they say nothing), the bout
+       continues with the proposed score;
+    b) if the fencers disagree with the Referee but agree with each other, the
+       Referee may decide according to their shared account;
+    c) if a fencer protests and the fencers disagree with each other, the
+       Referee either assigns the point (only when completely sure) or repeats
+       the exchange.
 
 4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
     exchange but will explain and apologise. When an exchange is repeated, the time measured for
@@ -51,7 +54,7 @@
 
 5.  The Referee's decisions can not be contested after the start of the following bout.
 
-6.  Main referee must be able conduct and manage bouts in English.
+6.  The Referee must be able to conduct and manage bouts in English.
 
 ### Side Referee (Assistant Referee)
 
