@@ -24,3 +24,9 @@ ruleset should be efficient in providing equal opportunities for every tournamen
 
 3. Blocks introduced with **Note:** or **Example:** are informative only; they
    illustrate the rules but contain no requirements.
+
+4. Rules are numbered with a chapter prefix: E = Equipment, G = General rules,
+   RoW = Right of Way, LS = Longsword, R = Rapier, S = Sabre, SB = Sword &
+   Buckler, O = Organisational, D = Disciplinary. Cite rules by these
+   identifiers (e.g. "G.16", "RoW.12(a)"). Identifiers are stable: new rules
+   receive new numbers and existing numbers are not reused.
