@@ -23,7 +23,7 @@
 5.  The fencers called first place themselves to the right of the Referee behind the on-guard
     line.
 
-6.  Bout durations, hit limits and tie-break procedures are set out in the
+6.  Bout durations, point limits and tie-break procedures are set out in the
     [Organisational Rules](09-organisational.md). Unless the Organising Team
     announces otherwise, the defaults are: pool bouts 2 minutes or 5 points;
     direct elimination bouts 2 × 2 minutes (with a one-minute rest) or 7
@@ -150,7 +150,9 @@
 
 ## The methods of scoring hits
 
-1. *Fencing time* (see [Glossary](appendices/01-glossary.md)) is counted as follows: in judging hits, Referees count immediate actions that start up to the moment of the first hit as relevant actions.
+1. *Fencing time* (see [Glossary](appendices/01-glossary.md)) is counted as follows: in judging
+   hits, Referees count immediate actions that start up to the moment of the first hit as relevant
+   actions.
 
 2. When only one of the fencers receives a hit within one period of fencing time, the fencer who was
    hit is called one point against.
