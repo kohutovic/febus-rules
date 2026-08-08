@@ -13,23 +13,23 @@
    disturb the smooth running of the competition. During bouts no one is allowed to approach the
    arenas to give advice to the fencers, to criticise the Referee or the Assistant, to insult them
    or to attempt to influence them in any way. The second must remain in the space assigned to
-   him/her. The referee must stop immediately any activity which disturbs the smooth running of the
-   bout which he/she is refereeing
+   them. The referee must stop immediately any activity which disturbs the smooth running of the
+   bout which they are refereeing
 
 3. Any person who, for any reason, threatens or insults an official is eligible for immediate
    disqualification/expulsion from the premises.
 
 4. The referee, and/or the organising team, on their own authority, can decide to expel from the
-   competition venue, with or without a warning, any person who by his/her gestures, attitude or
+   competition venue, with or without a warning, any person who by their gestures, attitude or
    language disturbs the good order or smooth running of the event.
 
 ## The Competitors
 
-1.  By the mere fact of entering a fencing competition, the fencers pledge their honour to observe
-    the Rules, and the decisions and instructions of the officials, to be respectful towards the
-    Referees (Referee and Assistant) and to scrupulously obey their orders and injunctions.
+1.  By entering a fencing competition, fencers agree to observe the Rules and the decisions and
+    instructions of the officials, to be respectful towards the Referees (Referee and Assistant),
+    and to follow their orders.
 
-2.  No fencer may take part in the competition if he/she refuses to fence against any other fencer
+2.  No fencer may take part in the competition if they refuse to fence against any other fencer
     whatsoever correctly entered in the event. Should this rule be broken, the penalties specified
     for offences of the 4th group are applied.
 
@@ -41,8 +41,8 @@
 4.  When presenting themselves to fence a bout, the fencers must arrive on the arena completely
     ready to fence — regulation clothing, jacket fastened, hands gloved and holding the weapon.
 
-5.  During a competition, if a fencer does not present himself on the arena, ready to fence, when
-    ordered to do so by the Referee:
+5.  During a competition, if a fencer does not present themselves on the arena, ready to fence,
+    when ordered to do so by the Referee:
     1. The fencer not present is penalised with a Yellow Card;
     2. A second call is made, one minute after the first call, followed by a Red Card for the
        fencer or team member not present;
@@ -53,8 +53,8 @@
     spirit of sportsmanship such as violently or dangerously throwing one’s mask (or any other piece
     of equipment) is penalised.
 
-7.  The fencer, whether on or off the arena, must keep his mask on until the Referee calls ‘Halt!’.
-    He may under no circumstances address the Referee until the Referee has made his decision.
+7.  The fencer, whether on or off the arena, must keep their mask on until the Referee calls
+    ‘Halt!’. They must not address the Referee until the Referee has announced the decision.
 
 8.  Competitors must fence to their utmost ability in a sportsmanlike manner until the end of the
     competition in order to obtain the best possible classification, without giving away hits or
@@ -62,20 +62,21 @@
 
 ## Fencing Etiquette
 
-1. All bouts must preserve the character of a courteous and frank encounter. All irregular actions
-   (e.g. violently jostling the opponent; disorderly fencing; irregular movements in the arena; hits
-   achieved with violence; blows struck with the cross-guard; hits made during or after an
-   accidental fall; failing to stop dangerous techniques short of full application, taking out fury
-   on the furniture or equipment of the venue) or anti-sporting behaviour are strictly forbidden.
-   Should such an offence occur, any hit scored by the fencer at fault is annulled.
+1. All bouts must remain courteous and fair. All irregular actions (e.g. violently jostling the
+   opponent; disorderly fencing; irregular movements in the arena; hits achieved with violence;
+   blows struck with the cross-guard; hits made during or after an accidental fall; failing to stop
+   dangerous techniques short of full application, taking out fury on the furniture or equipment of
+   the venue) or anti-sporting behaviour are strictly forbidden. Should such an offence occur, any
+   hit scored by the fencer at fault is annulled.
 
 2. Before the beginning of each bout, the two fencers must perform a fencer’s salute to their
    opponent, the referee, and preferably to the spectators. Equally, when the final hit has been
    scored, the bout has not ended until the two fencers have saluted each other, the referee (and
-   the spectators). To this end, they must remain still while the referee is making her decision;
-   when she has given her decision, they must return to their on-guard line, perform a fencer’s
-   salute and shake hands with their opponent. If either or both of the two fencers refuse to comply
-   with these rules, the Referee penalises him/them as specified for offences of the 4th group.
+   the spectators). To this end, they must remain still while the Referee is making the decision;
+   when the Referee has given the decision, they must return to their on-guard line, perform a
+   fencer’s salute and shake hands with their opponent. If either or both of the two fencers refuse
+   to comply with these rules, the Referee penalises them as specified for offences of the 4th
+   group.
 
 3. Punishable actions are acted on by verbal warnings, warnings (yellow card), point awarded to the
    opponent (red card) or disqualification and expulsion from the venue (black card), according to
@@ -91,19 +92,19 @@
 
 ### The Referee
 
-1.  By accepting a position as referee or assistant, the person so designated pledges his/her honour
-    to respect the rules and to cause them to be respected, and to carry out his/her duties with the
-    strictest impartiality and absolute concentration.
+1.  By accepting a position as Referee or Assistant, the person so designated agrees to respect the
+    rules and to cause them to be respected, and to carry out their duties with the strictest
+    impartiality and absolute concentration.
 
 2.  The Referee is responsible not only for the direction of the bout, the judging of hits and the
-    checking of equipment, but equally for the maintenance of order in the bouts which he is
+    checking of equipment, but equally for the maintenance of order in the bouts which they are
     refereeing.
 
-3.  The referee has the right to interrupt a bout if the play becomes confused, dangerous or she/he
-    is unable to clearly judge the action any more. In the absence of an objective scoring device,
-    the fencing phrases are judged according to the referee and assistant's observation of the
-    action. While fencers are welcome to address the referee for clarification or appeals before the
-    final decision is made, the referee's judgment regarding facts is not to be questioned in
+3.  The Referee has the right to interrupt a bout if the play becomes confused or dangerous, or the
+    Referee is unable to clearly judge the action any more. In the absence of an objective scoring
+    device, the fencing phrases are judged according to the referee and assistant's observation of
+    the action. While fencers are welcome to address the referee for clarification or appeals before
+    the final decision is made, the referee's judgment regarding facts is not to be questioned in
     retrospect.
 
 4.  As director of the bout and arbiter of hits, the Referee may, in accordance with the rules and —
@@ -112,12 +113,12 @@
     fencer from the competition. When the Referee has judged on a matter of fact, the decision is
     irrevocable.
 
-5.  By reason of the right of jurisdiction which he has over all the fencers who participate in, or
-    are present at a competition which he is refereeing, they can also propose the expulsion
+5.  By reason of the right of jurisdiction which they have over all the fencers who participate in,
+    or are present at a competition which they are refereeing, they can also propose the expulsion
     from the venue of the competition of the spectators, trainers, instructors and other persons who
     accompany the competitors.
 
-6.  Finally, he may recommend to the Organising Team all other penalties which he considers
+6.  Finally, they may recommend to the Organising Team all other penalties which they consider
     appropriate (exclusion from the whole competition, suspension or disqualification). The Head of
     the Refereeing Team is the authority competent to deal with appeals against the decisions of the
     Referee.
@@ -155,21 +156,21 @@
 
 ### Penalties Related to Fencing
 
-1. Refusal to award a hit actually made. Although a competitor may in fact have hit his opponent on
+1. Refusal to award a hit actually made. Although a competitor may in fact have hit the opponent on
    the target, this hit may be disallowed, either because it did not arrive during the period of
    time during which fencing is allowed, or because the competitor had crossed the boundaries of the
    arena, or because violence was involved in the making of the hit, or because of other reasons as
    laid down in the Rules.
 
 2. Award of a hit which has not in fact been received. A competitor may have a hit awarded against
-   him which he has not in fact received, either because he has crossed the limit of the arena, or
-   because he has committed an offence which has prevented his opponent fencing.
+   them which they have not in fact received, either because they have crossed the limit of the
+   arena, or because they have committed an offence which has prevented the opponent fencing.
 
 3. Exclusion. A competitor who, while fencing, commits certain violent or vindictive actions against
-   his opponent, or who does not fence to his utmost ability, or who profits from a fraudulent
-   agreement with his opponent, may be excluded from the competition. A competitor who is excluded
-   from a competition may not continue to take part in that competition, even if he is already
-   qualified for promotion to the next round. He loses the right to his individual classification
+   the opponent, or who does not fence to their utmost ability, or who profits from a fraudulent
+   agreement with the opponent, may be excluded from the competition. A competitor who is excluded
+   from a competition may not continue to take part in that competition, even if they are already
+   qualified for promotion to the next round. They lose the right to their individual classification
    and all the fencers ranked after the disqualified fencer move up one place in the results of the
    competition.
 
@@ -187,13 +188,13 @@
    2. All participants or non-competitors who participate in or are present at a competition
       (instructors, trainers, technicians, supporters, officials, spectators) may be expelled. Such
       expulsion has the effect of forbidding them access to the venue for the duration of the
-      competition or tournament. In no circumstances can the imposition of this penalty give cause
-      for redress to anyone.
+      competition or tournament. The imposition of this penalty gives no one a right to
+      compensation.
 
 ### The types (groups) of penalty
 
 1.  There are three types of penalty to be applied in the cases indicated in the table in Article.
-    If a referee has to penalise a fencer who has committed several faults at the same time, he
+    If a referee has to penalise a fencer who has committed several faults at the same time, they
     should penalise the least serious fault first.
 
 2.  Penalties are cumulative and they are valid for the bout with the exception of those indicated
@@ -205,9 +206,9 @@
 
 4.  The penalties are as follows:
     1. a warning, indicated by a YELLOW CARD with which the Referee identifies the fencer at fault.
-       The fencer then knows that any further offence on his part results in a penalty hit.
+       The fencer then knows that any further offence on their part results in a penalty hit.
     2. a penalty hit, indicated by a RED CARD with which the Referee identifies the fencer at fault.
-       A hit is added to the score of his opponent and may, if the last hit is at stake, lead to the
+       A hit is added to the score of the opponent and may, if the last hit is at stake, lead to the
        loss of the bout. Furthermore, a RED CARD can only be followed by another RED CARD or by a
        BLACK CARD, depending on the nature of the second offence.
     3. Exclusion from the competition, suspension from the remainder of the tournament, indicated by
@@ -227,9 +228,9 @@
 
 1. The first infringement in this First Group is penalised by a YELLOW CARD (warning). If during the
    same bout the fencer commits the same or a different offence in this group the Referee penalises
-   him on each occasion, with a RED CARD (penalty hit). If the fencer at fault has already been
-   penalised by a RED CARD because of an offence listed in the Second or Third Group, he receives a
-   further RED CARD for his first infringement relating to the First Group.
+   them on each occasion, with a RED CARD (penalty hit). If the fencer at fault has already been
+   penalised by a RED CARD because of an offence listed in the Second or Third Group, they receive a
+   further RED CARD for their first infringement relating to the First Group.
 
 ### The Second Group of offences
 
@@ -242,9 +243,9 @@
    fencer at fault has already received a RED CARD as a result of offences in the First or Second
    Groups.
 
-2. If during the same bout the fencer commits the same or a different offence in this group, he is
-   penalised with a BLACK CARD (exclusion from the competition and suspension from the remainder of
-   the tournament). The fencer keeps the position in the ranking obtained up to the moment of the
+2. If during the same bout the fencer commits the same or a different offence in this group, they
+   are penalised with a BLACK CARD (exclusion from the competition and suspension from the remainder
+   of the tournament). The fencer keeps the position in the ranking obtained up to the moment of the
    disqualification (unless the ranking has not yet been established via the pools).
 
 3. Any person not on the arena who disturbs the good order of the competition receives:

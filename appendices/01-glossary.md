@@ -78,7 +78,7 @@
     3. The reprise of the attack - A new attack executed immediately after a return to the on-guard
        position.
 
-7.  *Counter-time* - Any action made by the attacker against a stop hit made by his opponent.
+7.  *Counter-time* - Any action made by the attacker against a stop hit made by the opponent.
 
 ### Defensive actions
 

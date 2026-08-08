@@ -57,20 +57,20 @@ Priority assignment for specific actions:
 
 ### The fencer who is attacked is alone counted as hit:
 
-1. if he makes a counter-attack on his opponent's simple attack
-2. if, instead of parrying, he attempts to avoid the hit and does not succeed in doing so
-3. if, after making a successful parry, he makes a momentary pause (delayed riposte) which gives his opponent the right to renew the attack (redoublement, or remise, or reprise)
-4. if, during a compound attack, he makes a stop hit without being in time
-5. if, having his point 'in line' and being subjected to a beat or a taking of the blade which deflects his blade, he attacks or places his point in line again instead of parrying a direct hit made by his opponent
+1. if they make a counter-attack against the opponent's simple attack
+2. if, instead of parrying, they attempt to avoid the hit and do not succeed in doing so
+3. if, after making a successful parry, they make a momentary pause (delayed riposte) which gives the opponent the right to renew the attack (redoublement, or remise, or reprise)
+4. if, during a compound attack, they make a stop hit without being in time
+5. if, having their point 'in line' and being subjected to a beat or a taking of the blade which deflects their blade, they attack or place their point in line again instead of parrying a direct hit made by the opponent
 
 ### The fencer who attacks is alone counted as hit:
 
-1. If he initiated his attack when his opponent had his point 'in line', without deflecting the opponent's weapon. Referees must ensure that a mere contact of the blades is not considered as sufficient to deflect the opponent's blade.
-2. If he attempts to find the blade, does not succeed (due to the opponent's avoiding reaction) and continues the attack.
-3. If, during a compound attack, he allows his opponent to find the blade, and continues the attack while his opponent ripostes immediately.
-4. If, during a compound attack, he bends his arm or makes a momentary pause, during which time the opponent makes a stop hit or an attack while the attacker continues his own attack.
-5. If, during a compound attack, he is stop-hit one period of fencing time before he makes his final movement.
-6. If he makes a hit by a renewed attack following a parry by his opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
+1. If they initiated their attack when the opponent's point was 'in line', without deflecting the opponent's weapon. Referees must ensure that a mere contact of the blades is not considered as sufficient to deflect the opponent's blade.
+2. If they attempt to find the blade, do not succeed (due to the opponent's avoiding reaction) and continue the attack.
+3. If, during a compound attack, they allow the opponent to find the blade, and continue the attack while the opponent ripostes immediately.
+4. If, during a compound attack, they bend their arm or make a momentary pause, during which time the opponent makes a stop hit or an attack while the attacker continues their own attack.
+5. If, during a compound attack, they are stop-hit one period of fencing time before they make the final movement of the attack.
+6. If they make a hit by a renewed attack following a parry by the opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
 
 ### Both fencers are at fault (no points awarded)
 
