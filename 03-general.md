@@ -4,10 +4,10 @@
 
 ### Starting the bout
 
-1.  Each bout is performed for a set amount of time or until a set amount of hits. This is achieved
+1.  Each bout is performed for a set amount of time or until a set amount of points. This is achieved
     through a series of separate, independent exchanges.
 
-2.  The competitors present themselves in the arena when called by the referee before each pool or
+2.  The fencers present themselves in the arena when called by the Referee before each pool or
     direct elimination bout, in appropriate gear conforming to the rules and be ready to fence.
 
 3.  Equipment checks before and during the competition, and the penalties for
@@ -16,11 +16,11 @@
 
 4.  Each fencer is allowed one coach/second who is allowed to be near the arena during bouts. This
     person may speak to their fencer during breaks but may not disturb the bout with verbal or
-    physical gestures. Generally, it is the fencer who should address the referee for help,
+    physical gestures. Generally, it is the fencer who should address the Referee for help,
     clarification or appeals, the seconds should not interfere with the bout in any other way than
     advising their fencers during breaks.
 
-5.  The competitors called first place themselves to the right of the referee behind the on guard
+5.  The fencers called first place themselves to the right of the Referee behind the on-guard
     line.
 
 6.  Bout durations, hit limits and tie-break procedures are set out in the
@@ -31,8 +31,8 @@
     stop the bout.
 
 7.  Before the beginning of each bout, the two fencers called on the arena salute to their opponent,
-    and the referee. Competitors come on guard when the referee gives the order ‘On guard!’, after
-    which the referee asks, ‘Are you ready?’. On the affirmative, or in the absence of a negative
+    and the Referee. Fencers come on guard when the Referee gives the order ‘On guard!’, after
+    which the Referee asks, ‘Are you ready?’. On the affirmative, or in the absence of a negative
     reply, the command is given for fencing to commence with the word ‘Fence!’.
 
 ### Stopping the exchange
@@ -65,7 +65,7 @@
 
 ### Arena boundaries
 
-13. When a competitor crosses one of the boundaries of the arena with both feet completely off the
+13. When a fencer crosses one of the boundaries of the arena with both feet completely off the
     arena, the Referee must immediately stop the exchange.
 
 14. If the fencer goes off the arena with both feet, the Referee must annul everything that has
@@ -81,22 +81,22 @@
     2. on each subsequent occasion within the bout, a point is scored against the fencer (as if
        they had been hit).
 
-17. A competitor who involuntarily crosses one of the boundaries of the arena as the result of any
+17. A fencer who involuntarily crosses one of the boundaries of the arena as the result of any
     accidental cause (such as jostling/being pushed out by the opponent) incurs no penalty.
 
 ### Restarting, video review and end of the bout
 
 18. After each valid hit and in case the exchange is stopped for other reasons (confused fencing,
     malfunction, unsuccessful grappling, etc.) the bout continues from the 'On guard' position, at
-    the starting line.
+    the on-guard line.
 
 19. When available, fencers have the right to appeal for video review once during bout. If the video
-    review alters the referee's verdict in their favour, they retain the right to appeal for video
+    review alters the Referee's verdict in their favour, they retain the right to appeal for video
     review during that bout.
 
 20. In case the points of the fencers are equal at the time limit, an additional minute of time is
     given, during which the first valid hit wins the bout. Additionally, before overtime starts, the
-    referee draws lots and randomly assigns one of the two fencers with priority. If the sudden
+    Referee draws lots and randomly assigns one of the two fencers with priority. If the sudden
     death overtime runs out with neither fencer scoring, the fencer with priority wins the bout.
     This randomly assigned priority has no effect on the judgment of actions during the overtime.
 
@@ -105,18 +105,18 @@
     observe this rule by one or both of the opponents belongs to the fourth group of offences).
 
 22. After the pool round and each direct elimination bout, the fencers must check and sign the
-    result sheet filled in by the referee during the bout, before leaving the arena.
+    result sheet filled in by the Referee during the bout, before leaving the arena.
 
 ### Equipment failure and injury breaks
 
-23. For an equipment failure which occurs in the course of a bout, the referee may allow a break in
-    the fight lasting up to 3 minutes (measured from the point when the failure has been
-    acknowledged by the referee). This time interval can be used to mend or replace, and check the
+23. For an equipment failure which occurs in the course of a bout, the Referee may allow a break in
+    the bout lasting up to 3 minutes (measured from the point when the failure has been
+    acknowledged by the Referee). This time interval can be used to mend or replace, and check the
     equipment in question. If a fencer is not able to continue fencing before or at the end of the
-    break, the referee has the authority to disqualify the fencer from that bout.
+    break, the Referee has the authority to disqualify the fencer from that bout.
 
-24. For an injury or cramp which occurs in the course of a bout the referee may allow a break in the
-    fight lasting up to 10 minutes (measured from the point when the qualified staff give their
+24. For an injury or cramp which occurs in the course of a bout the Referee may allow a break in the
+    bout lasting up to 10 minutes (measured from the point when the qualified staff give their
     opinion). This time interval is reserved for the treatment of the injury or cramp which brought
     it about. No further interruption can be allowed in the same bout for the same injury. If the
     professional attendant deems the fencer unsafe/incapable to fence before or at the end of the
@@ -126,9 +126,9 @@
 ### Forfeits and withdrawal
 
 25. In case the fencer forfeits one bout due to an equipment malfunction or injury, during the pool
-    phase, the other contestant is declared as winning, but the score is not annulled (it is
+    phase, the other fencer is declared as winning, but the score is not annulled (it is
     possible to win a bout while having less points than the opponent, in this case). In the direct
-    elimination phase, the other contestant is declared as winning, and the fencer does not lose
+    elimination phase, the other fencer is declared as winning, and the fencer does not lose
     their place in the overall classification of the competition.
 
 26. Only one bout can be forfeited in the pool, should the fencer be unable to fence through a bout
@@ -150,8 +150,7 @@
 
 ## The methods of scoring hits
 
-1. Fencing time is the time required to perform one simple fencing action. In judging hits, referees
-   count immediate actions that start up to the moment of the first hit, as relevant actions.
+1. *Fencing time* (see [Glossary](appendices/01-glossary.md)) is counted as follows: in judging hits, Referees count immediate actions that start up to the moment of the first hit as relevant actions.
 
 2. When only one of the fencers receives a hit within one period of fencing time, the fencer who was
    hit is called one point against.
@@ -217,7 +216,7 @@
 4.  It is forbidden to hit with the cross-guard, where applicable, or with the
     basket or bell guard (see penalty 1.5).
 
-5.  Turning the head or covering a valid target with a non-valid one belongs to
+5.  Turning the head or covering a valid target with an off-target part belongs to
     the first group of offences.
 
 6.  Hitting the arena floor with any weapon due to bad measure in an action is
@@ -233,19 +232,19 @@ Close quarter combat and grappling are allowed only where the weapon-specific ru
 1. The Referee may call 'Halt!' after an unsuccessful period of grappling.
 2. Grappling on the opponent's blade is allowed, if the blade is controlled. Seizing of the blade
    needs to be momentary, and followed by an immediate 'clean' hit to score a point. If the
-   competitor can not achieve a hit consequently to seizing the blade, the Referee calls 'Halt!'
+   fencer can not achieve a hit consequently to seizing the blade, the Referee calls 'Halt!'
    and awards no points. Failing to control the blade is counted as a point against the
-   competitor who attempted to enter grappling.
+   fencer who attempted to enter grappling.
 3. Grappling actions that score a point are:
    1. take-downs and throws followed/accompanied by a simple and immediate hit with the weapon
       (within a period of fencing time)
    2. controlling the opponent via grappling with or without the weapon, until the Referee calls
       'Halt!'
 4. Ground action is not allowed, the Referee must call 'Halt!' when one of the fencers falls to the
-   ground, or whenever the referee is unable to judge the action any more, or when a reasonable time
+   ground, or whenever the Referee is unable to judge the action any more, or when a reasonable time
    has passed for dominance to apply.
 5. Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
-   referee calls 'Halt!') controls the opponent's weapon and enters grappling.
+   Referee calls 'Halt!') controls the opponent's weapon and enters grappling.
 
 6. If a fencer accidentally drops the weapon, or falls without the opponent's interaction, the
    Referee must call 'Halt!'. A hit that started before the fencer obviously lost the weapon should

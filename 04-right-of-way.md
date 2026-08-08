@@ -2,7 +2,7 @@
 
 ## General Principles
 
-1. The Referee alone decides as to the validity or the priority (*Vor*/right of way) of the hit by applying the following basic rules which are the conventions applicable to priority-based weapons (longsword and sabre).
+1. The Referee alone decides as to the validity or the priority (right of way, historically *Vor*) of the hit by applying the following basic rules which are the conventions applicable to priority-based weapons (longsword and sabre).
 
 2. Any attack properly executed must be parried, or completely avoided, and the phrase must be continuous.
 
@@ -39,7 +39,7 @@ Priority assignment for specific actions:
 
 3. **Attack completion**: If the attack is commenced when the opponent's blade is not in line, the attack may be completed either direct, or by a disengagement or by a cutover, or else be preceded by feints which oblige the opponent to parry.
 
-4. **Stop hits in compound attacks**: In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the stop hit must precede the last movement of the attack by one period of fencing time, i.e. the stop hit must arrive before the attacker has started the last movement of the attack itself.
+4. **Stop-hits in compound attacks**: In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the stop-hit must precede the last movement of the attack by one period of fencing time, i.e. the stop-hit must arrive before the attacker has started the last movement of the attack itself.
 
 ## Parry and Riposte
 
@@ -60,7 +60,7 @@ Priority assignment for specific actions:
 1. if they make a counter-attack against the opponent's simple attack
 2. if, instead of parrying, they attempt to avoid the hit and do not succeed in doing so
 3. if, after making a successful parry, they make a momentary pause (delayed riposte) which gives the opponent the right to renew the attack (redoublement, or remise, or reprise)
-4. if, during a compound attack, they make a stop hit without being in time
+4. if, during a compound attack, they make a stop-hit without being in time
 5. if, having their point 'in line' and being subjected to a beat or a taking of the blade which deflects their blade, they attack or place their point in line again instead of parrying a direct hit made by the opponent
 
 ### The fencer who attacks is alone counted as hit:
@@ -68,7 +68,7 @@ Priority assignment for specific actions:
 1. If they initiated their attack when the opponent's point was 'in line', without deflecting the opponent's weapon. Referees must ensure that a mere contact of the blades is not considered as sufficient to deflect the opponent's blade.
 2. If they attempt to find the blade, do not succeed (due to the opponent's avoiding reaction) and continue the attack.
 3. If, during a compound attack, they allow the opponent to find the blade, and continue the attack while the opponent ripostes immediately.
-4. If, during a compound attack, they bend their arm or make a momentary pause, during which time the opponent makes a stop hit or an attack while the attacker continues their own attack.
+4. If, during a compound attack, they bend their arm or make a momentary pause, during which time the opponent makes a stop-hit or an attack while the attacker continues their own attack.
 5. If, during a compound attack, they are stop-hit one period of fencing time before they make the final movement of the attack.
 6. If they make a hit by a renewed attack following a parry by the opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
 

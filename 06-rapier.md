@@ -13,7 +13,7 @@
 
 ## Judging of hits
 
-Rapier and side weapons do not use priority (Right of Way) rules. Scoring follows combat rules:
+Rapier and side weapons do not use priority (right of way) rules. Scoring follows combat rules:
 only the first valid hit scores. In the case of hits arriving within one period of fencing time,
 the rules below apply.
 
@@ -35,7 +35,7 @@ the rules below apply.
 6. All hits made with the point, and the edges of the blade, are valid. The action must be
    performed in such a way that it would have caused a wound to an unarmoured opponent, had the
    weapon been sharp. Hits performed with the flat may be counted, if they are aimed at the head,
-   and bear the characteristics of a coordinated and potent technique. It is up to the referee’s
+   and bear the characteristics of a coordinated and potent technique. It is up to the Referee’s
    discretion to judge the validity of hits, in accordance with the Rulebook’s regulations.
 
 7. The target includes the whole of the fencer’s body, clothing, and safety equipment, except for

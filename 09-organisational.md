@@ -2,17 +2,17 @@
 
 ## Eligibility
 
-1. The competition is open to athletes of 18 years and older.
+1. The competition is open to fencers of 18 years and older.
 
 2. It is prohibited to enter a competition under the influence of alcohol or performance-altering
    drugs (including recreational drugs and those prescribed by physicians).
 
 ## Fencer readiness and presence
 
-1. All fencers must be present at their assigned fencing area 10 minutes before the start of
+1. All fencers must be present at their assigned arena 10 minutes before the start of
    bouts. This applies to both the pool round and the direct elimination stage.
 
-2. The staff of the given fencing area call the fencers 10 minutes before the start of
+2. The staff of the given arena call the fencers 10 minutes before the start of
    bouts. If a fencer is not present when called, the call is repeated two additional times,
    each after 1 minute. After the third unanswered call, the fencer is disqualified from the
    competition (they may still participate in other competitions/weapons of the tournament; see
@@ -32,8 +32,8 @@
 
 ### Main Referee
 
-1.  The Referee works with an Assistant (side Referee) and manages the time and protocol (when
-    necessary, supported by an administrative crew).
+1.  The Referee works with an Assistant Referee (observing from a different angle) and manages the
+    time and protocol (when necessary, supported by an administrative crew).
 
 2.  The Referee gives the signals to start, stop, assigns points and describes what happened during
     the entire bout or at least the last exchange.
@@ -56,19 +56,19 @@
 
 6.  The Referee must be able to conduct and manage bouts in English.
 
-### Side Referee (Assistant Referee)
+### Assistant Referee
 
 1. An Assistant Referee helps the main Referee in scoring and hit evaluation. Their task is to
-   observe a match from a different angle than the main Referee.
+   observe a bout from a different angle than the main Referee.
 
 2. The Assistant may signal hits made by the fencers to the Referee by raising their arm, even if
    the Referee does not halt the exchange immediately.
 
-3. An Assistant Referee is not responsible for point assignment nor for the overall match score.
+3. An Assistant Referee is not responsible for point assignment nor for the overall bout score.
 
 ## Organisation of the competitions and classification
 
-The values stated below (pool sizes, hit limits, bout durations, and the share of fencers
+The values stated below (pool sizes, point limits, bout durations, and the share of fencers
 eliminated after the pools) are the standard defaults. The Organising Team may announce different
 values before the start of the competition; unless announced otherwise, the defaults apply.
 
@@ -79,16 +79,16 @@ values before the start of the competition; unless announced otherwise, the defa
     6 fencers.
 
 2.  In the pools a bout ends when:
-    1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet
-       is the final score of the bout (V5 – Dn, where n = the number of hits scored by the losing
+    1. One of the fencers has scored 5 points. In this case the score registered on the score- sheet
+       is the final score of the bout (V5 – Dn, where n = the number of points scored by the losing
        fencer).
     2. Two minutes of effective fencing time have passed. (There is no warning for the last
        minute.)
 
 3.  If when the time limit expires there is a difference of at least one point between the scores of
-    the two fencers, the fencer who has scored the greater number of hits is declared winner. The
+    the two fencers, the fencer who has scored the greater number of points is declared winner. The
     score registered on the score-sheet is the actual score achieved in the bout (VN – Dn, where N =
-    the number of hits scored by the winning fencer and n = the number of hits scored by the losing
+    the number of points scored by the winning fencer and n = the number of points scored by the losing
     fencer).
 
 4.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
@@ -112,7 +112,7 @@ values before the start of the competition; unless announced otherwise, the defa
 
 7.  After the pools, a single general ranking is established of all the fencers who have taken
     part in the pools, taking account, successively, of the indices V/M, HS – HR, HS. (V =
-    victories; M = bouts; HS = hits scored; HR = hits received.)
+    victories; M = bouts; HS = points scored; HR = points received.)
 
 8.  A summary classification table is then made in the following way:
     1. The results written up on the summary table are added up to ascertain the two indices
@@ -122,8 +122,8 @@ values before the start of the competition; unless announced otherwise, the defa
     3. The fencer with the highest index (maximum 1) is seeded first.
     4. In cases of equality in this first index, and to separate fencers with equal first indices, a
        second index is established, using the formula HS – HR, the difference between the total
-       number of hits scored and hits received.
-    5. In cases of equality of the two indices V/M and HS – HR, the fencer who has scored most hits
+       number of points scored and points received.
+    5. In cases of equality of the two indices V/M and HS – HR, the fencer who has scored most points
        is seeded highest.
     6. In cases of absolute equality between two or more fencers, their seeding order is
        decided by drawing lots.
@@ -145,22 +145,22 @@ values before the start of the competition; unless announced otherwise, the defa
 1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
     account of the classification table and the special rules for each competition (See Figure 2.)
 
-2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of two minutes, with a one-minute rest
+2.  The Organising Team publishes the direct elimination bout plan. The direct elimination
+    bouts are for 7 points or end when the two periods of two minutes, with a one-minute rest
     between the two periods, have passed.
 
 3.  For the gold-medal bout (1st place) and the bronze-medal bout (3rd place), the Organising Team may 
-    raise the hit limit above the standard seven (e.g. 10 or 15). The chosen limit (and any 
+    raise the point limit above the standard seven (e.g. 10 or 15). The chosen limit (and any 
     corresponding time structure) must be published in the official schedule before the start of 
     the competition day.
 
 4.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
 
 5.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
+    1. One of the fencers has scored 7 points; or
     2. 2 × 2 minutes of effective fencing time have passed.
 
-6.  The fencer who has scored the greater number of hits is declared the winner.
+6.  The fencer who has scored the greater number of points is declared the winner.
 
 7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
@@ -183,7 +183,7 @@ values before the start of the competition; unless announced otherwise, the defa
    1. First: the winner of the bout for the first place
    2. Second: the loser of the bout for the first place
    3. A bout for third and fourth places is fought between the two losers of the semi-final
-      matches.
+      bouts.
    4. The remainder are placed, within each round of the direct elimination, in accordance with
       their classification for the composition of the direct elimination table.
 
@@ -197,7 +197,7 @@ values before the start of the competition; unless announced otherwise, the defa
     during and after the event.
 
 3.  The head of the Refereeing Team oversees the allocation and performance of the Referees and
-    Assistants. The Refereeing committee can be approached directly by the participants or their
+    Assistants. The Head of the Refereeing Team can be approached directly by the participants or their
     representatives, if questions regarding the performance of any of the Referees are raised.
 
 4.  The head of Equipment Inspection performs pre-tournament checks of safety equipment and weapons,

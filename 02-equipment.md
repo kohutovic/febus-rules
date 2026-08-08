@@ -2,7 +2,7 @@
 
 ## Fencing Arena
 
-1. A fencing arena must provide similar conditions to both contestants. This applies mainly to
+1. A fencing arena must provide similar conditions to both fencers. This applies mainly to
    angles of the light and the ground slipperiness.
 
 2. The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of
@@ -12,31 +12,31 @@
 
 3. The center point of a fencing arena may be marked.
 
-4. The starting position of the fencers must be marked in such a way that start-line is at least 2m
+4. The starting position of the fencers must be marked in such a way that the on-guard line is at least 2m
    away from the center of the arena in opposite directions, setting up at least 4m distance between
    the fencers at the start of each exchange.
 
 ## Equipment standards
 
-1. Every contestant is responsible for their equipment, and must use each element of the mandatory
+1. Every fencer is responsible for their equipment, and must use each element of the mandatory
    equipment, when entering a tournament. If a piece of equipment is declared unsuitable or unfit
-   and the contestant is unable to get a suitable substitute they are prohibited from entering
+   and the fencer is unable to get a suitable substitute they are prohibited from entering
    the tournament.
 
 2. The designated tournament staff inspect the mandatory equipment before the competition; the
-   referee of each fencing arena performs an additional check. A referee may require a contestant to
+   Referee of each fencing arena performs an additional check. A Referee may require a fencer to
    change or adjust a part of their equipment. Nonconforming clothing or equipment is penalised
-   according to the first group of offences (see penalty 1.6), and the contestant is not allowed to
+   according to the first group of offences (see penalty 1.6), and the fencer is not allowed to
    start or continue competing until the item(s) have been approved or replaced with approved ones.
    For an equipment failure occurring in the course of a bout, a break of up to 3 minutes may be
    allowed (see the General Rules).
 
 3. In case of an accident caused by unfit or inadequate equipment approved negligently by the
-   equipment check staff or the referee, the responsibility lies with the staff or referee, who
-   approved the contestant’s entry. The staff or the referee is subjected to disciplinary
+   equipment check staff or the Referee, the responsibility lies with the staff or Referee, who
+   approved the fencer’s entry. The staff or the Referee is subjected to disciplinary
    proceedings and their license may be revoked.
 
-4. A referee has the right to forbid a piece or a set of equipment which does not comply with the
+4. A Referee has the right to forbid a piece or a set of equipment which does not comply with the
    prescribed norm.
 
 ### Protection Gear
@@ -73,9 +73,9 @@
 5. The torso of the body must be protected with an undamaged fencing jacket or gambeson with at
    least 350N FIE certification, made of special hardened or thick material which prevents blade
    penetration and eases the blade impact. The jacket is subjected to control by the tournament
-   staff and the arena referee. A fencing jacket must cover the armpits as well.
+   staff and the arena Referee. A fencing jacket must cover the armpits as well.
 
-6. Every female contestant must wear solid breast/chest protection.
+6. Every female fencer must wear solid breast/chest protection.
 
 7. Additional protection of the arms or elbows is required if the jacket does not provide
    sufficient protection itself.
@@ -89,7 +89,7 @@
 
 #### Legs
 
-1. A groin protector is mandatory for every male contestant in all weapon categories.
+1. A groin protector is mandatory for every male fencer in all weapon categories.
 
 2. The knees and shins must be protected at the front and the sides as well.
 
@@ -205,7 +205,7 @@ blade reaches full bend.
 
 7. The point of the primary weapon must be blunt and rounded. If the tip is not rounded, it must be
    additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
-   protection is judged by the main referee or tournament organizer.
+   protection is judged by the main Referee or the Organising Team.
 
 8. The point of the primary and side weapon must be covered by contrasting high-visibility tape
    for better visibility.
@@ -215,7 +215,7 @@ blade reaches full bend.
 #### Side weapon - dagger
 
 1. In the rapier category, it is possible to use a side weapon, which serves defensive purposes. The
-   organizer states the usage of the side weapon.
+   Organising Team states the usage of the side weapon.
 
 2. The dagger blade must be straight; daggers with more blades or with a special *ricasso* meant for
    intercepting a weapon or curved daggers are not allowed in the tournament.
@@ -255,5 +255,5 @@ blade reaches full bend.
 6. The minimum point surface area is 50mm². The blade must have a safe tip: rolled, thickened or
    spatulated. The tip must be further built up at the event with contrasting high-visibility tape.
 
-7. The organizers reserve the right to disallow weapons they feel are unsafe or against the spirit
+7. The Organising Team reserves the right to disallow weapons they feel are unsafe or against the spirit
    of the rules.
