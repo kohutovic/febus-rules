@@ -14,7 +14,7 @@
 
 4. The starting position of the fencers must be marked in such a way that start-line is at least 2m
    away from the center of the arena in opposite directions, setting up at least 4m distance between
-   the fencers at the start of each assault.
+   the fencers at the start of each exchange.
 
 ## Equipment standards
 
@@ -25,10 +25,11 @@
 
 2. The mandatory equipment is controlled by the designated tournament staff before the competition
    and an additional check must be done by the referee of each fencing arena. A referee may require
-   a contestant to change or adjust a part of his equipment in a time frame which won’t be longer
-   than 5 minutes. If it is not possible for the contestant to comply within the set time frame, the
-   contestant will be awarded a black card and won’t be able to continue in the respective
-   tournament.
+   a contestant to change or adjust a part of their equipment. Nonconforming clothing or equipment
+   is penalised according to the first group of offences (see penalty 1.6), and the contestant will
+   not be allowed to start or continue competing until the item(s) have been approved or replaced
+   with approved ones. For an equipment failure occurring in the course of a bout, a break of up to
+   3 minutes may be allowed (see the General Rules).
 
 3. In case of an accident caused by unfit or inadequate equipment approved negligently by the
    equipment check staff or the referee, the responsibility lies with the staff or referee, who
@@ -59,9 +60,9 @@
    sporting-historical fencing are allowed. It is forbidden to use pieces of metal on any place of
    the gloves.
 
-2. Rapier: Fencer with bell guard rapier or sufficiently closed hilt does not need to wear a
-   massive glove with the primary weapon. However, additional hand protection is needed for the
-   protection of the wrist and forearm.
+2. Rapier and Sabre: A fencer with a bell guard, basket, or sufficiently closed hilt does not need
+   to wear a massive glove with the primary weapon. However, additional hand protection is needed
+   for the protection of the wrist and forearm.
 
 3. Rapier: If a fencer uses a side weapon, this hand needs to be protected with a glove with
    additional hand protection (e.g. padding...)
@@ -69,10 +70,10 @@
 4. Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but
    the palm must be covered at least by a simple glove or textile.
 
-5. The torso of the body must be protected with an undamaged fencing jacket or gambeson which is
-   made of special hardened or thick material which prevents blade penetration and eases the blade
-   impact. The jacket is subjected to control by the tournament staff and the arena referee. A
-   fencing jacket must cover the armpits as well.
+5. The torso of the body must be protected with an undamaged fencing jacket or gambeson with at
+   least 350N FIE certification, made of special hardened or thick material which prevents blade
+   penetration and eases the blade impact. The jacket is subjected to control by the tournament
+   staff and the arena referee. A fencing jacket must cover the armpits as well.
 
 6. Every female contestant must wear solid breast/chest protection.
 
@@ -81,6 +82,10 @@
 
 8. Every part of the body must be covered. No open space must be left between the gloves and the
    jacket.
+
+9. An 800N FIE-certified under-plastron is mandatory in the Rapier category.
+
+10. A rigid wrist guard is mandatory in the Longsword, Sabre, and Sword & Buckler categories.
 
 #### Legs
 
@@ -124,7 +129,8 @@
 
 9. The point of balance of the sword cannot be more than 9cm away from the cross-guard.
 
-10. The point of the sword must be covered by a red/white/orange tape for better visibility.
+10. The point of the sword must be covered by contrasting high-visibility tape for better
+    visibility.
 
 11. The overall length of the sword must be within 120-140cm.
 
@@ -151,7 +157,8 @@
 
 7. The point of balance of the sword cannot be more than 9cm away from the cross-guard.
 
-8. The point of the sword must be covered by a red/white tape for better visibility.
+8. The point of the sword must be covered by contrasting high-visibility tape for better
+   visibility.
 
 9. The overall length of the sword must be within 70-100cm.
 
@@ -201,8 +208,8 @@
    additionally secured by protection such as properly fitted plastic or cork end. Adequacy of
    protection will be judged by the main referee or tournament organizer.
 
-8. The point of the primary and side weapon must be covered by reflexive tape for better
-   visibility.
+8. The point of the primary and side weapon must be covered by contrasting high-visibility tape
+   for better visibility.
 
 9. The minimum point surface area is 50mm².
 
@@ -218,7 +225,7 @@
 
 4. The point of dagger must be blunt and rounded. If the tip is not rounded, it must be additionally
    secured by protection such as properly fitted plastic or cork end. The point of side weapon must
-   be covered by reflexive tape.
+   be covered by contrasting high-visibility tape.
 
 #### Cloak
 
@@ -249,7 +256,7 @@
 5. The flexibility of the blade is measured by applying pressure on the blade point against
    scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
    maximum number (in kg) displayed on the scales before the blade reaches full bend. For
-   longsword blades, the acceptable range is 10kg.
+   sabre blades, the acceptable flexibility is 10kg or less.
 
 6. The minimum point surface area is 50mm². The blade will have a safe tip, this being defined as
    rolled, thickened or spatulated. The tip will be further built up at the event with contrasting

@@ -1,9 +1,33 @@
 # Organisational Rules
 
+## Eligibility
+
 1. The competition is open to athletes of 18 years and older.
 
 2. It is prohibited to enter a competition under the influence of alcohol or performance-altering
    drugs (including recreational drugs and those prescribed by physicians).
+
+## Fencer readiness and presence
+
+1. All fencers must be present at their assigned fencing area 10 minutes before the start of
+   bouts. This applies to both the pool round and the direct elimination stage.
+
+2. Fencers will be called by the staff of the given fencing area 10 minutes before the start of
+   bouts. If a fencer is not present when called, the call will be repeated two additional times,
+   each after 1 minute. After the third unanswered call, the fencer is disqualified from the
+   competition (they may still participate in other competitions/weapons of the tournament; see
+   penalty 0.1).
+
+3. During a competition, if a fencer does not present themselves on the arena ready to fence
+   when ordered to do so by the Referee, the procedure described in the disciplinary rules
+   applies (Yellow → Red → elimination, with 1-minute intervals between calls; see penalty 0.2
+   and the Fencing etiquette section).
+
+4. The Refereeing Team will check the readiness of fencers (completeness of safety gear and
+   weapons) before the indicated start of bouts. The Referee may repeat this check at any time.
+   Fencers who appear in the fencing area with unapproved or incomplete equipment will be
+   penalised, and will not be allowed to start or continue competing without having the item(s)
+   approved or replaced (see Equipment Standards).
 
 ## The Refereeing system
 
@@ -13,19 +37,20 @@
     necessary, supported by an administrative crew).
 
 2.  The Referee gives the signals to start, stop, assigns points and describes what happened during
-    the entire assault or at least the last exchange.
+    the entire bout or at least the last exchange.
 
-3.  After stopping the bout, the Referee consults with the Assistant and proposes a result. If the
+3.  After stopping an exchange, the Referee consults with the Assistant and proposes a result. If the
     fencers accept the decision (they say nothing), the fight continues with the proposed score. If
     they don’t agree with the Referee, but they agree with each other, the Referee may make a
     decision according to their wishes. If any of the fencers protests and the fencers disagree with
     each other, the Referee will decide whether to assign a point (being completely sure) or repeat
-    the assault.
+    the exchange.
 
 4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
-    exchange but will explain and apologise.
+    exchange but will explain and apologise. When an exchange is repeated, the time measured for
+    the bout is set back by 10 seconds.
 
-5.  The Referee's decisions can not be contested after the bout.
+5.  The Referee's decisions can not be contested after the start of the following bout.
 
 6.  Main referee must be able conduct and manage bouts in English.
 
@@ -35,11 +60,15 @@
    observe a match from a different angle than the main Referee.
 
 2. The Assistant may signal hits made by the fencers to the Referee by raising their arm, even if
-   the Referee does not halt the assault immediately.
+   the Referee does not halt the exchange immediately.
 
 3. An Assistant Referee is not responsible for point assignment nor for the overall match score.
 
 ## Organisation of the competitions and classification
+
+The values stated below (pool sizes, hit limits, bout durations, and the share of fencers
+eliminated after the pools) are the standard defaults. The Organising Team may announce different
+values before the start of the competition; unless announced otherwise, the defaults apply.
 
 ### The round of pools
 

@@ -4,7 +4,8 @@
 
 1. Targets are restricted from the hips up, including arms and head, but with legs being a non-scoring target.
 
-2. Strikes to a non-scoring target will not score.
+2. Strikes to a non-scoring target do not score, do not stop the exchange, and do not assign any
+   points.
 
 3. Repeated, deliberate strikes to an off-target will be judged as strikes to an illegal target and dealt with accordingly.
 
@@ -20,7 +21,8 @@
 
 ## Forbidden actions
 
-1. Grappling or close quarter combat is forbidden.
+1. Grappling or close quarter combat is forbidden; it belongs to the first group of offences (see
+   penalty 1.5).
 
 2. Engaging in grappling, close quarters combat, or corps-a-corps will immediately be stopped by the referee.
 

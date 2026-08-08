@@ -39,11 +39,11 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>0.1
       </td>
-      <td>Non presentation when called by the referee ten minutes before the time indicated for start of pool/bouts of direct elimination
+      <td>Non presentation when called by the staff of the fencing area ten minutes before the time indicated for start of pool/bouts of direct elimination
       </td>
       <td>
       </td>
-      <td colspan="3" bgcolor="#787878">Elimination from the tournament
+      <td colspan="3" bgcolor="#787878">Elimination from the competition
       </td>
     </tr>
     <tr>
@@ -58,6 +58,44 @@ concerned, which should be consulted in any case of doubt.
       <td bgcolor="#E36159">2nd call
       </td>
       <td bgcolor="#787878">Elim.
+      </td>
+    </tr>
+   </tbody>
+</table>
+
+<table>
+  <colgroup>
+    <col width="8%">
+    <col width="*">
+    <col width="10%">
+    <col width="12%">
+    <col width="12%">
+    <col width="12%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <h3>Boundary crossing</h3>
+      </td>
+     <td>
+     </td>
+     <td colspan="3" >
+     </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.3
+      </td>
+      <td>Leaving the arena with both feet without the opponent’s interaction and without having scored a valid hit (see the General Rules)
+      </td>
+      <td>
+      </td>
+      <td>Verbal warning
+      </td>
+      <td colspan="2" bgcolor="#E36159">Hit against (each subsequent case)
       </td>
     </tr>
    </tbody>
@@ -95,11 +133,11 @@ concerned, which should be consulted in any case of doubt.
       </td>
       <td>
       </td>
-      <td rowspan="15" bgcolor="#E3D059">YELLOW
+      <td rowspan="14" bgcolor="#E3D059">YELLOW
       </td>
-      <td rowspan="15" bgcolor="#E36159">RED
+      <td rowspan="14" bgcolor="#E36159">RED
       </td>
-      <td rowspan="15" bgcolor="#E36159">RED
+      <td rowspan="14" bgcolor="#E36159">RED
       </td>
     </tr>
     <tr>
@@ -129,7 +167,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.5
       </td>
-      <td>Attacking forbidden targets (back of the head, spine, foot, back of the knee). Hit with crossguard. Attack with the dagger in rapier. Wrestling in rapier.
+      <td>Attacking forbidden targets (back of the head, spine, groin, foot, back of the knee). Hit with crossguard. Attack with the dagger in rapier. Strike with the buckler. Wrestling or grappling in rapier, sword &amp; buckler, or sabre.
       </td>
       <td>
       </td>
@@ -177,7 +215,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.11
       </td>
-      <td>Leaving the arena with both feet without the opponent’s interaction
+      <td>Unjustified appeal
       </td>
       <td>
       </td>
@@ -185,7 +223,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.12
       </td>
-      <td>Unjustified appeal
+      <td>Hitting with the fists and kicking *
       </td>
       <td>
       </td>
@@ -193,21 +231,13 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.13
       </td>
-      <td>Hitting with the fists and kicking *
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1.14
-      </td>
       <td>Removing the opponent‘s mask or any other protective equipment. *
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td>1.15
+      <td>1.14
       </td>
       <td>Losing or dropping the cloak during a rapier bout
       </td>
@@ -275,7 +305,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>2.4
       </td>
-      <td>Dangerous, violent or vindictive action. * Attack with the dagger in rapier bouts. *
+      <td>Dangerous, violent or vindictive action. * Attack with the dagger in rapier bouts. * Strike with the buckler. *
       </td>
       <td>
       </td>
@@ -340,7 +370,7 @@ concerned, which should be consulted in any case of doubt.
       </td>
     </tr>
     <tr>
-      <td>
+      <td>3.4
       </td>
       <td>Offence against sportsmanship * - In the most serious cases the Referee may award a black card immediately.
       </td>
@@ -394,7 +424,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>4.3
       </td>
-      <td>Offence against sportsmanship
+      <td>Offence against sportsmanship (e.g. refusal to salute or shake hands after the bout)
       </td>
       <td>
       </td>
