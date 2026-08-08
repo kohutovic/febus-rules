@@ -600,6 +600,11 @@ class MarkdownToPDFConverter:
                 font-size: 10pt;
             }
             
+            tr {
+                page-break-inside: avoid;
+                break-inside: avoid;
+            }
+
             th, td {
                 border: none;
                 border-top: 1px solid #ddd;
