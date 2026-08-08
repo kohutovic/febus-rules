@@ -23,13 +23,13 @@
    and the contestant is unable to get a suitable substitute they are prohibited from entering
    the tournament.
 
-2. The mandatory equipment is controlled by the designated tournament staff before the competition
-   and an additional check must be done by the referee of each fencing arena. A referee may require
-   a contestant to change or adjust a part of their equipment. Nonconforming clothing or equipment
-   is penalised according to the first group of offences (see penalty 1.6), and the contestant is
-   not allowed to start or continue competing until the item(s) have been approved or replaced
-   with approved ones. For an equipment failure occurring in the course of a bout, a break of up to
-   3 minutes may be allowed (see the General Rules).
+2. The designated tournament staff inspect the mandatory equipment before the competition; the
+   referee of each fencing arena performs an additional check. A referee may require a contestant to
+   change or adjust a part of their equipment. Nonconforming clothing or equipment is penalised
+   according to the first group of offences (see penalty 1.6), and the contestant is not allowed to
+   start or continue competing until the item(s) have been approved or replaced with approved ones.
+   For an equipment failure occurring in the course of a bout, a break of up to 3 minutes may be
+   allowed (see the General Rules).
 
 3. In case of an accident caused by unfit or inadequate equipment approved negligently by the
    equipment check staff or the referee, the responsibility lies with the staff or referee, who

@@ -132,7 +132,7 @@ values before the start of the competition; unless announced otherwise, the defa
     fencers with equal indicators all qualify, even if they are in excess of the number decided
     on.
 
-10. A fencer who withdraws, or who is excluded, is scratched from the pool, His/her results are
+10. A fencer who withdraws, or who is excluded, is scratched from the pool. Their results are
     recorded as if all of their opponents had won against the fencer, but no score is
     registered (V0-D0). The fencer who is withdrawn or excluded during the pool, is not
     included in the calculation of the ranking for the direct elimination table.
