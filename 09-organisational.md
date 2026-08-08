@@ -12,8 +12,8 @@
 1. All fencers must be present at their assigned fencing area 10 minutes before the start of
    bouts. This applies to both the pool round and the direct elimination stage.
 
-2. Fencers will be called by the staff of the given fencing area 10 minutes before the start of
-   bouts. If a fencer is not present when called, the call will be repeated two additional times,
+2. The staff of the given fencing area call the fencers 10 minutes before the start of
+   bouts. If a fencer is not present when called, the call is repeated two additional times,
    each after 1 minute. After the third unanswered call, the fencer is disqualified from the
    competition (they may still participate in other competitions/weapons of the tournament; see
    penalty 0.1).
@@ -49,7 +49,7 @@
        the exchange.
 
 4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
-    exchange but will explain and apologise. When an exchange is repeated, the time measured for
+    exchange but must explain and apologise. When an exchange is repeated, the time measured for
     the bout is set back by 10 seconds.
 
 5.  The Referee's decisions can not be contested after the start of the following bout.
@@ -74,8 +74,8 @@ values before the start of the competition; unless announced otherwise, the defa
 
 ### The round of pools
 
-1.  In all competitions for which the formula includes a round of pools, these pools will consist of
-    7 fencers if the number of participants is divisible by 7. Otherwise the pools will be of 7 and
+1.  In all competitions for which the formula includes a round of pools, the pools consist of
+    7 fencers if the number of participants is divisible by 7. Otherwise the pools are of 7 and
     6 fencers.
 
 2.  In the pools a bout ends when:
@@ -93,7 +93,7 @@ values before the start of the competition; unless announced otherwise, the defa
 
 4.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute, as
+    to decide who is the winner if scores are still equal at the end of the extra minute, as
     described in the [General Rules](03-general.md).
 
 5.  In this case the score registered on the score-sheet is always the actual score achieved in the
@@ -107,34 +107,34 @@ values before the start of the competition; unless announced otherwise, the defa
     4. V0-D0 in case a fencer is withdrawn or removed from the competition, marking the opponent as
        the winner, but not registering any scores, for all of the fencer’s bouts in the pool..
 
-6.  Before the competition starts, the Organising Team will decide on and announce the number of
-    fencers who will be eliminated based on the ranking established by the pools (0-40%).
+6.  Before the competition starts, the Organising Team decides on and announces the number of
+    fencers to be eliminated based on the ranking established by the pools (0-40%).
 
-7.  After the pools, a single general ranking will be established of all the fencers who have taken
+7.  After the pools, a single general ranking is established of all the fencers who have taken
     part in the pools, taking account, successively, of the indices V/M, HS – HR, HS. (V =
     victories; M = bouts; HS = hits scored; HR = hits received.)
 
-8.  A summary classification table shall then be made in the following way:
-    1. The results written up on the summary table will be added up to ascertain the two indices
+8.  A summary classification table is then made in the following way:
+    1. The results written up on the summary table are added up to ascertain the two indices
        required.
-    2. The first index, for the initial classification, shall be obtained by dividing the number of
+    2. The first index, for the initial classification, is obtained by dividing the number of
        victories by the number of bouts fought, using the formula V/M.
-    3. The fencer with the highest index (maximum 1) will be seeded first.
+    3. The fencer with the highest index (maximum 1) is seeded first.
     4. In cases of equality in this first index, and to separate fencers with equal first indices, a
-       second index will be established, using the formula HS – HR, the difference between the total
+       second index is established, using the formula HS – HR, the difference between the total
        number of hits scored and hits received.
     5. In cases of equality of the two indices V/M and HS – HR, the fencer who has scored most hits
-       will be seeded highest.
-    6. In cases of absolute equality between two or more fencers, their seeding order will be
+       is seeded highest.
+    6. In cases of absolute equality between two or more fencers, their seeding order is
        decided by drawing lots.
 
-9.  Should there be absolute equality among the last to qualify there will not be a barrage, and the
-    fencers with equal indicators will all qualify, even if they are in excess of the number decided
+9.  Should there be absolute equality among the last to qualify there is no barrage, and the
+    fencers with equal indicators all qualify, even if they are in excess of the number decided
     on.
 
 10. A fencer who withdraws, or who is excluded, is scratched from the pool, His/her results are
-    recorded as if all of their opponents had won against the fencer, but no score will be
-    registered (V0-D0). The fencer who is withdrawn or excluded during the pool, will not be
+    recorded as if all of their opponents had won against the fencer, but no score is
+    registered (V0-D0). The fencer who is withdrawn or excluded during the pool, is not
     included in the calculation of the ranking for the direct elimination table.
 
 11. When a fencer withdraws from one pool bout only, they are declared as having lost the bout, but
@@ -158,13 +158,13 @@ values before the start of the competition; unless announced otherwise, the defa
 
 5.  The bout ends when:
     1. One of the fencers has scored 7 hits; or
-    2. 2 * 2 minutes of effective fencing time have passed.
+    2. 2 × 2 minutes of effective fencing time have passed.
 
 6.  The fencer who has scored the greater number of hits is declared the winner.
 
 7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute, as
+    to decide who is the winner if scores are still equal at the end of the extra minute, as
     described in the [General Rules](03-general.md). In this case the score recorded on the
     score-sheet is the real score achieved in the bout.
 
@@ -182,14 +182,14 @@ values before the start of the competition; unless announced otherwise, the defa
 1. The general classification is obtained as follows:
    1. First: the winner of the bout for the first place
    2. Second: the loser of the bout for the first place
-   3. A bout for third and fourth places will be fought between the two losers of the semi-final
+   3. A bout for third and fourth places is fought between the two losers of the semi-final
       matches.
    4. The remainder are placed, within each round of the direct elimination, in accordance with
       their classification for the composition of the direct elimination table.
 
 ## Tournament Staff
 
-1.  Medical/paramedic staff will assess possible injury/illness of the participants during/after
+1.  Medical/paramedic staff assess possible injury/illness of the participants during/after
     bouts and advise on immediate management.
 
 2.  The head of the Organising Team is responsible for the overall smooth running of the tournament.
