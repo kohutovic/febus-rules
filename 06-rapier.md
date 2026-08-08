@@ -17,7 +17,7 @@ Rapier and side weapons do not use priority (Right of Way) rules. Scoring follow
 only the first valid hit scores. In the case of hits arriving within one period of fencing time,
 the rules below apply.
 
-1. A double hit occurs when two valid hits that land within one period of fencing time.
+1. A double hit occurs when two valid hits land within one period of fencing time.
 
 2. When a double hit consists of a thrust by one fencer and a cut or slice by the other, the thrust
    scores one point and the cut scores no point.

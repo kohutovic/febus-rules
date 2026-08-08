@@ -37,9 +37,9 @@ Longsword uses the standard right-of-way system. See [Right of Way and Priority 
     simultaneous action or a double hit:
     1. The simultaneous action is due to simultaneous conception and execution of an attack by both
        fencers; in this case no points are awarded.
-    2. The double hit on the other hand, is the result of a clearly faulty action on the part of one
-       of the fencers, according to the rules. Therefore, when there is not an interval of fencing
-       time between the hits.
+    2. A double hit, on the other hand, occurs when there is no interval of fencing time between the
+       hits and it is the result of a clearly faulty action on the part of one of the fencers, as
+       defined by these rules.
 
 2.  When there is a double hit, and if the Referee is unable clearly to judge from which side the
     fault has come, the referee must not assign any points.

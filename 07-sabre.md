@@ -13,7 +13,7 @@
 
 1. **Simultaneous hits** - When both fencers hit simultaneously, the score does not change.
 
-2. **Hits through blade contact** - Hits landed with blade contact (through a parry or over the cross/guard) are only valid if the strength of the hit is not meaningfully decreased.
+2. **Hits through blade contact** - Hits landed with blade contact (through a parry or over the cross-guard) are valid only if the hit retains meaningful force.
 
 3. **Point-in-line exception** - If the defender holds their point outstretched and the opponent runs into the point, the distance traversed ceases to play a role in judging validity.
 
