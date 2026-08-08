@@ -13,12 +13,18 @@
 
 ## Judging of hits
 
+Rapier and side weapons do not use priority (Right of Way) rules. Scoring follows combat rules:
+only the first valid hit scores. In the case of hits arriving within one period of fencing time,
+the rules below apply.
+
 1. A double hit occurs when two valid hits that land within one period of fencing time.
 
 2. When a double hit consists of a thrust by one fencer and a cut or slice by the other, the thrust
    scores one point and the cut scores no point.
 
-3. In all other double hits, each fencer scores one point.
+3. In all other double hits, each fencer scores one point. Simultaneous hits (similar conception
+   and execution of both fencers at the same time) are treated the same way: each fencer scores one
+   point.
 
 4. A hit that begins at or after the moment a fencer receives a valid hit (after-action) is not
    counted.
@@ -33,7 +39,7 @@
    discretion to judge the validity of hits, in accordance with the Rulebook’s regulations.
 
 7. The target includes the whole of the fencer’s body, clothing, and safety equipment, except for
-   the back of the head, spine, the feet, the back of the knees, and if used, the cloak.
+   the back of the head, spine, groin, the feet, the back of the knees, and if used, the cloak.
 
 8. It is allowed to parry using the unarmed hand, as long as the weapon is controlled (thrusts or
    static blade positions, where the parrying hand does not get a direct hit).

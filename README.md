@@ -20,6 +20,7 @@
 - [Longsword specific rules](04-longsword.md)
 - [Rapier and side weapons specific rules (rapier, dagger, cloak)](05-rapier.md)
 - [Sabre specific rules](08-sabre.md)
+- [Sword and Buckler specific rules](10-sword-and-buckler.md)
 
 ## Appendix
 
