@@ -37,7 +37,7 @@ class MarkdownToPDFConverter:
 
         # Hlavné súbory v root adresári
         for file in Path('.').glob('*.md'):
-            if file.name not in ['README.md', 'CLAUDE.md']:
+            if file.name != 'README.md':
                 root_files.append((file.name, file))
 
         # Súbory v appendices
