@@ -100,6 +100,11 @@
 
 ### Weapons
 
+The flexibility of a blade is measured by applying pressure on the blade point
+against scales, with one hand firmly placed on the pommel. The blade's
+flexibility is the maximum value (in kg) displayed on the scales before the
+blade reaches full bend.
+
 #### Longsword
 
 1. Only straight-bladed, European-type simulators are allowed in the tournament. A longsword must
@@ -118,10 +123,7 @@
 
 5. The pommel must be smooth and have no studs.
 
-6. The flexibility of the blade is measured by applying pressure on the blade point against
-   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
-   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
-   longsword blades, the acceptable range is 9-16kg.
+6. The acceptable flexibility range for longsword blades is 9–16 kg.
 
 7. The minimum point surface area is 70mm².
 
@@ -194,10 +196,7 @@
 
 4. The maximum length of the blade including *ricasso* is 110cm. The blade must be flexible,
    especially from the middle of the rapier to the point in order not to pose a risk in thrust
-   attacks. The flexibility of the blade is measured by applying pressure on the blade point against
-   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
-   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
-   rapier blades, the acceptable flexibility is 10kg or less.
+   attacks. For rapier blades, the acceptable flexibility is 10 kg or less.
 
 5. The weight of the sword must be between 900 to 1300g.
 
@@ -253,10 +252,7 @@
 
 4. The blade must not have any significant bends or signs of damage.
 
-5. The flexibility of the blade is measured by applying pressure on the blade point against
-   scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
-   maximum number (in kg) displayed on the scales before the blade reaches full bend. For
-   sabre blades, the acceptable flexibility is 10kg or less.
+5. For sabre blades, the acceptable flexibility is 10 kg or less.
 
 6. The minimum point surface area is 50mm². The blade will have a safe tip, this being defined as
    rolled, thickened or spatulated. The tip will be further built up at the event with contrasting
