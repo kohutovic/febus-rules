@@ -8,6 +8,7 @@ Spojí všetky MD súbory do jedného PDF dokumentu so zachovaním pôvodného t
 
 import os
 import re
+import html
 import base64
 import subprocess
 from pathlib import Path
@@ -38,7 +39,7 @@ class MarkdownToPDFConverter:
         
         # Hlavné súbory v root adresári
         for file in Path('.').glob('*.md'):
-            if file.name not in ['README.md', 'CLAUDE.md'] \
+            if file.name not in ['README.md', 'CLAUDE.md', 'CHANGELOG.md'] \
                     and not file.name.startswith('FEBUS_smernica'):
                 root_files.append((file.name, file))
         
@@ -196,7 +197,14 @@ class MarkdownToPDFConverter:
         def add_header_numbering(match):
             level = int(match.group(1))
             text = match.group(2)
-            header_id = re.sub(r'[^\w\s-]', '', text.lower())
+            # `text` comes from already-converted HTML, so smart quotes from the
+            # 'smarty' extension are still literal entities (e.g. &lsquo;) at this
+            # point. Unescape them before stripping punctuation, otherwise their
+            # letters (lsquo/rsquo/amp/...) survive into the id and it no longer
+            # matches the anchor extract_headers_for_toc computed from the raw
+            # markdown text — breaking the TOC link and page-number lookup for
+            # any heading containing a quote/apostrophe (e.g. "Halt!").
+            header_id = re.sub(r'[^\w\s-]', '', html.unescape(text).lower())
             header_id = re.sub(r'[-\s]+', '-', header_id)
             
             # Generovať číslovanie
@@ -310,9 +318,23 @@ class MarkdownToPDFConverter:
             return url
         except:
             return "https://github.com/FEBUS/rulebook"
-    
+
+    def get_version(self) -> str:
+        """Získa verziu rulebooku zo súboru VERSION"""
+        p = Path('VERSION')
+        return p.read_text(encoding='utf-8').strip() if p.exists() else ''
+
     def generate_changelog(self) -> str:
-        """Vygeneruje changelog z git histórie"""
+        """Vygeneruje changelog: preferuje CHANGELOG.md, fallback git história."""
+        changelog_md = Path('CHANGELOG.md')
+        if changelog_md.exists():
+            md = markdown.Markdown(extensions=['extra', 'sane_lists'])
+            body = md.convert(changelog_md.read_text(encoding='utf-8'))
+            return f'<div class="changelog">{body}</div>'
+        return self._generate_changelog_from_git()
+
+    def _generate_changelog_from_git(self) -> str:
+        """Vygeneruje changelog z git histórie (fallback, ak chýba CHANGELOG.md)"""
         try:
             result = subprocess.run(
                 ['git', 'log', '--pretty=format:%h | %ad | %s', '--date=short', '-20'],
@@ -344,55 +366,89 @@ class MarkdownToPDFConverter:
             return '<div class="changelog"><h1>Change Log</h1><p>No git history available.</p></div>'
     
     def extract_page_numbers_from_pdf(self, pdf_path: str) -> Dict[str, int]:
-        """Extrahuje čísla strán pre kotvy z PDF"""
+        """Extrahuje čísla strán pre kotvy z PDF.
+
+        Primárne cez named destinations, ktoré vytvorí WeasyPrint pre každý
+        `<a href="#anchor">` odkaz (TOC odkazuje na každú kotvu z
+        self.toc_entries) — kotva sa tak namapuje priamo na skutočnú stranu
+        podľa PDF štruktúry, bez závislosti na texte nadpisu. Toto opravuje
+        prípady, keď sa rovnaký text nadpisu (napr. "Arena boundaries")
+        opakuje vo viacerých kapitolách/prílohách a staršie zhodovanie podľa
+        titulku vracalo stranu prvého výskytu textu, nie skutočnú stranu danej
+        kotvy.
+
+        Ak sa pre niektorú kotvu named destination nenájde, spadne sa na
+        pôvodné zhodovanie podľa titulku nadpisu ako záložné riešenie.
+        """
         page_numbers = {}
         try:
             with open(pdf_path, 'rb') as pdf_file:
                 pdf_reader = PyPDF2.PdfReader(pdf_file)
-                
-                # Create mapping of expected titles to anchors
-                title_to_anchor = {}
+
+                named_destinations = {}
+                try:
+                    named_destinations = pdf_reader.named_destinations
+                except Exception as e:
+                    print(f"Varovanie: Nepodarilo sa načítať named destinations: {e}")
+
+                unresolved = []
                 for level, title, anchor in self.toc_entries:
-                    # Get just the title without numbering
-                    clean_title = title.split('. ', 1)[-1] if '. ' in title else title
-                    title_to_anchor[clean_title] = anchor
-                    # Also try with just first few words for better matching
-                    short_title = ' '.join(clean_title.split()[:3])
-                    if short_title not in title_to_anchor:
-                        title_to_anchor[short_title] = anchor
-                
-                # TOC starts on page 2 (after title page), actual content starts on page 3
-                # So we need to account for this offset
-                toc_pages = 2  # Title page + TOC page
-                
-                # For each page, extract text and look for titles
-                for page_num, page in enumerate(pdf_reader.pages, start=1):
-                    text = page.extract_text()
-                    if not text:
+                    dest = named_destinations.get(anchor)
+                    if dest is None:
+                        unresolved.append((level, title, anchor))
                         continue
-                    
-                    # Clean up text for better matching
-                    text = ' '.join(text.split())  # Normalize whitespace
-                    
-                    # Check each title
-                    for title, anchor in title_to_anchor.items():
-                        if anchor not in page_numbers:
-                            # Look for title at the beginning of a line or after numbering
-                            if title in text:
-                                # Additional check - ensure it's not in the middle of text
-                                idx = text.find(title)
-                                if idx != -1:
-                                    # Check if it's preceded by a number (chapter number) or at start
-                                    before = text[max(0, idx-10):idx]
-                                    if idx == 0 or any(c.isdigit() or c == '.' for c in before[-3:]):
-                                        page_numbers[anchor] = page_num
-                                        break
-                            
+                    try:
+                        page_numbers[anchor] = pdf_reader.get_destination_page_number(dest) + 1
+                    except Exception:
+                        unresolved.append((level, title, anchor))
+
+                if unresolved:
+                    page_numbers.update(self._extract_page_numbers_by_title(pdf_reader, unresolved))
+
         except Exception as e:
             print(f"Varovanie: Nepodarilo sa extrahovať čísla strán: {e}")
-        
+
         return page_numbers
-    
+
+    def _extract_page_numbers_by_title(self, pdf_reader, entries) -> Dict[str, int]:
+        """Záložné zhodovanie kotvy podľa textu titulku (ak chýba named destination).
+
+        Na rozdiel od pôvodnej implementácie sa strany prehľadávajú v poradí,
+        v akom sa nadpisy nachádzajú v dokumente (self.toc_entries), a
+        vyhľadávanie pre každý ďalší nadpis začína až od strany, na ktorej sa
+        našiel predchádzajúci — nie od strany 1. Pri opakujúcom sa texte
+        titulku (napr. rovnaký názov v dvoch kapitolách) sa tak každá kotva
+        naviaže na svoj skutočný výskyt, nie na prvý výskyt textu v dokumente.
+        """
+        page_numbers = {}
+        page_texts = []
+        for page in pdf_reader.pages:
+            text = page.extract_text() or ''
+            page_texts.append(' '.join(text.split()))
+
+        search_from = 0
+        for level, title, anchor in entries:
+            clean_title = title.split('. ', 1)[-1] if '. ' in title else title
+            short_title = ' '.join(clean_title.split()[:3])
+            found_page = None
+            for page_idx in range(search_from, len(page_texts)):
+                text = page_texts[page_idx]
+                for candidate in (clean_title, short_title):
+                    idx = text.find(candidate)
+                    if idx == -1:
+                        continue
+                    before = text[max(0, idx - 10):idx]
+                    if idx == 0 or any(c.isdigit() or c == '.' for c in before[-3:]):
+                        found_page = page_idx + 1
+                        break
+                if found_page:
+                    break
+            if found_page:
+                page_numbers[anchor] = found_page
+                search_from = found_page - 1
+
+        return page_numbers
+
     def generate_pdf(self, output_filename: str = 'febus_rulebook.pdf'):
         """Vygeneruje PDF dokument"""
         print("Generujem PDF...")
@@ -410,7 +466,9 @@ class MarkdownToPDFConverter:
         last_commit_date = self.get_last_commit_date()
         commit_hash = self.get_commit_hash()
         repo_url = self.get_repository_url()
-        
+        version = self.get_version()
+        edition = f'Official Edition — Version {version}' if version else 'Official Edition'
+
         # Titulná strana
         html_parts.append(f'''
             <div class="title-page">
@@ -428,7 +486,7 @@ class MarkdownToPDFConverter:
                     <div class="divider">❦</div>
                 </div>
                 <div class="title-bottom">
-                    <div class="edition">Official Edition</div>
+                    <div class="edition">{edition}</div>
                     <div class="version-date">{last_commit_date}</div>
                     <div class="publisher">Federácia Európskych Bojových Umení Slovenska</div>
                 </div>

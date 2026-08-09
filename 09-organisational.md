@@ -106,7 +106,7 @@ values before the start of the competition; unless announced otherwise, the defa
 **O.19** If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots
     to decide who is the winner if scores are still equal at the end of the extra minute, as
-    described in the [General Rules](03-general.md).
+    described in [G.20](03-general.md).
 
 **O.20** In this case the score registered on the score-sheet is always the actual score achieved in the
     bout:
@@ -180,7 +180,7 @@ values before the start of the competition; unless announced otherwise, the defa
 **O.33** If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
     to decide who is the winner if scores are still equal at the end of the extra minute, as
-    described in the [General Rules](03-general.md). In this case the score recorded on the
+    described in [G.20](03-general.md). In this case the score recorded on the
     score-sheet is the real score achieved in the bout.
 
 **O.34** Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,

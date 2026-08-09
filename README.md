@@ -1,5 +1,8 @@
 # FEBUS Tournament Rulebook
 
+**Version 2.0.0-draft** — under review, not yet in force. See the
+[Changelog](CHANGELOG.md).
+
 ## Introduction
 
 - [Introduction](01-intro.md)
