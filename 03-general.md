@@ -24,7 +24,7 @@
     line.
 
 **G.6** Bout durations, point limits and tie-break procedures are set out in the
-    [Organisational Rules](09-organisational.md), O.16–O.34. Unless the Organising Team
+    [Organisational Rules](09-organisational.md), O.17–O.20 and O.31–O.33. Unless the Organising Team
     announces otherwise, the defaults are: pool bouts 2 minutes or 5 points;
     direct elimination bouts 2 × 2 minutes (with a one-minute rest) or 7
     points. The Timekeeper announces the end of time. Only the Referee may
@@ -144,7 +144,7 @@
 
 **G.28** If the fencer withdraws from the competition during the last pool bout, the score is
     recorded as if they had forfeited only one pool bout (see previous paragraph), but they are not
-    included in the calculation if ranking for the direct elimination table.
+    included in the calculation of ranking for the direct elimination table.
 
 **G.29** If the fencer withdraws during the direct elimination phase, the opponent is declared as
     winning, and the fencer does not lose their place in the overall classification of the
