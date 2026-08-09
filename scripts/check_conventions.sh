@@ -5,7 +5,8 @@ set -u
 FILES="01-intro.md 02-equipment.md 03-general.md 04-right-of-way.md \
 05-longsword.md 06-rapier.md 07-sabre.md 08-sword-and-buckler.md \
 09-organisational.md 10-disciplinary.md README.md appendices/01-glossary.md \
-appendices/02-penalties.md"
+appendices/02-penalties.md appendices/03-weapon-overview.md \
+appendices/04-referee-quick-reference.md"
 fail=0
 check_zero() {  # $1 = popis, $2 = pattern
   hits=$(grep -nE "$2" $FILES 2>/dev/null)
