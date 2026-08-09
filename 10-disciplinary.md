@@ -81,7 +81,7 @@
 
 **D.15** Punishable actions are acted on by verbal warnings, warnings (yellow card), point awarded to the
    opponent (red card) or disqualification and expulsion from the venue (black card), according to
-   severity and repetition of offense, as detailed in the rulebook (see the
+   severity and repetition of offence, as detailed in the rulebook (see the
    [Table of Offences and Penalties](appendices/02-penalties.md)).
 
 **D.16** Spectators are obliged not to interfere with the good order of a competition, to do nothing which
@@ -211,8 +211,8 @@
 - a) a warning, indicated by a YELLOW CARD with which the Referee identifies the fencer at fault.
        The fencer then knows that any further offence on their part results in a penalty point.
 - b) a penalty point, indicated by a RED CARD with which the Referee identifies the fencer at fault.
-       A hit is added to the score of the opponent and may, if the last hit is at stake, lead to the
-       loss of the bout. Furthermore, a RED CARD can only be followed by another RED CARD or by a
+       A point is added to the score of the opponent and may, if the last point is at stake, lead to
+       the loss of the bout. Furthermore, a RED CARD can only be followed by another RED CARD or by a
        BLACK CARD, depending on the nature of the second offence.
 - c) Exclusion from the competition, suspension from the remainder of the tournament, indicated by
        a BLACK CARD with which the Referee identifies the person at fault.
@@ -264,6 +264,6 @@
 **D.43** The first infringement in the Fourth Group, is penalised by a BLACK CARD (exclusion from the
    competition).
 
-**D.44** The penalized fencer keeps the position in the ranking obtained up to the moment of the
+**D.44** The penalised fencer keeps the position in the ranking obtained up to the moment of the
    disqualification (unless the ranking has not yet been established via the pools).
 

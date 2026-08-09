@@ -9,7 +9,7 @@
    offences.
 
 **R.3** Body contact (including accidental jostling) in itself is not considered as wrestling and
-   therefore are allowed.
+   is therefore allowed.
 
 ## Judging of hits
 
