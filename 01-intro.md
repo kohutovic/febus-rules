@@ -13,20 +13,14 @@ ruleset should be efficient in providing equal opportunities for every tournamen
 
 ## Use of Language
 
-1. This Rulebook uses the following verb conventions:
-   - **must** / **must not** — a binding requirement or prohibition;
-   - **may** — a permission;
-   - **should** — a recommendation: not binding, but expected as good practice;
-   - **can** — a statement of ability or possibility, not a norm.
+In this Rulebook, **must** and **must not** state binding requirements,
+**may** grants a permission, and **should** gives a non-binding
+recommendation. Terms in *italics* are defined in the
+[Glossary](appendices/01-glossary.md); blocks marked **Note:** or
+**Example:** only illustrate the rules and contain no requirements.
 
-2. Terms in *italics* are technical terms defined in the
-   [Glossary](appendices/01-glossary.md).
-
-3. Blocks introduced with **Note:** or **Example:** are informative only; they
-   illustrate the rules but contain no requirements.
-
-4. Rules are numbered with a chapter prefix: E = Equipment, G = General rules,
-   RoW = Right of Way, LS = Longsword, R = Rapier, S = Sabre, SB = Sword &
-   Buckler, O = Organisational, D = Disciplinary. Cite rules by these
-   identifiers (e.g. "G.16", "RoW.12(a)"). Identifiers are stable: new rules
-   receive new numbers and existing numbers are not reused.
+Rules are numbered with a chapter prefix (E = Equipment, G = General,
+RoW = Right of Way, LS = Longsword, R = Rapier, S = Sabre, SB = Sword &
+Buckler, O = Organisational, D = Disciplinary) and are cited by these
+identifiers, e.g. "G.16" or "RoW.12(a)". Once assigned, an identifier
+never changes.
