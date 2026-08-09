@@ -25,6 +25,8 @@ equipment failure · injury · a fencer requests a break (raised arm) (see G.8)
 Pools: 2 min or 5 points (O.17). Direct elimination: 2 × 2 min (1 min rest) or 7
 points (O.28, O.31). Tie → 1 min sudden death; before it starts, the Referee
 draws lots for priority in case nobody scores (G.20; see also O.19, O.33).
+Medal bouts: the Organising Team may raise the point limit (e.g. 10 or 15) and
+adjust the time structure (O.29).
 
 ## Breaks
 
