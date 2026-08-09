@@ -15,3 +15,42 @@ chapters prevail in case of doubt.
 
 Forbidden targets in all categories: back of the head, spine, groin, feet,
 back of the knees (see [Forbidden actions](../03-general.md)).
+
+## Weapon parameters
+
+| Parameter | Longsword | One-handed sword | Rapier | Dagger | Sabre |
+|---|---|---|---|---|---|
+| Overall length | 120–140 cm | 70–100 cm | ≤ 130 cm | ≤ 60 cm | ≤ 105 cm |
+| Blade length | — | — | ≤ 110 cm (incl. *ricasso*) | ≤ 45 cm | ≤ 90 cm |
+| Weight | 1400–1700 g (men), 1250–1600 g (women) | 900–1200 g | 900–1300 g | not specified | 650–800 g |
+| Flexibility | 9–16 kg | not specified | ≤ 10 kg | not specified | ≤ 10 kg |
+| Minimum point area | 70 mm² | 50 mm² | 50 mm² | blunt + rounded/secured | 50 mm² |
+| Point of balance | ≤ 9 cm from cross-guard | ≤ 9 cm from cross-guard | — | — | — |
+
+> **Note:** Summary only — the articles of the
+> [Technical & Equipment Standards](../02-equipment.md) prevail in case of
+> doubt. Buckler: circular, diameter ≤ 40 cm, wooden or metallic, no studs or
+> sharp edges.
+
+## Equipment checklist by weapon category
+
+| Equipment | Longsword | Rapier | Sabre | Sword & Buckler |
+|---|---|---|---|---|
+| FIE mask (CE level 2, 1600 N), undamaged | required | required | required | required |
+| Back-of-head + cervical spine protection | required | required | required | required |
+| Throat/larynx protector | required | required | required | required |
+| HEMA fencing gloves | required | not required with a sufficiently closed hilt (E.15) | not required with a sufficiently closed hilt (E.15) | required |
+| Additional wrist/forearm protection | — | required when fencing without a massive glove | required when fencing without a massive glove | — |
+| Rigid wrist guard | required | — | required | required |
+| Fencing jacket/gambeson ≥ 350 N, covering armpits | required | required | required | required |
+| Under-plastron 800 N (FIE) | — | required | — | — |
+| Breast/chest protection (women) | required | required | required | required |
+| Groin protector (men) | required | required | required | required |
+| Knee + shin protection (front and sides) | required | required | required | required |
+| Thigh protection ≥ 350 N (CE level 1) | required | required | required | required |
+| Hip protection (jacket or padded trousers) | required | required | required | required |
+| Side-weapon hand: glove with additional protection | — | required if a side weapon is used | — | — |
+
+> **Note:** Summary only — the articles of the
+> [Technical & Equipment Standards](../02-equipment.md) prevail. `required`
+> means mandatory for entering the category.

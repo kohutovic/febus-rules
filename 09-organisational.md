@@ -73,15 +73,8 @@ The values stated below (pool sizes, point limits, bout durations, and the share
 eliminated after the pools) are the standard defaults. The Organising Team may announce different
 values before the start of the competition; unless announced otherwise, the defaults apply.
 
-| Phase | Fencing time | Point limit | Rest | If tied at end of time |
-|-------|--------------|-------------|------|------------------------|
-| Pool bout | 2 min | 5 | — | 1 min sudden death; lot decides if still tied |
-| Direct elimination | 2 × 2 min | 7 | 1 min between periods | 1 min sudden death; lot decides if still tied |
-| Medal bouts (gold, bronze) | per schedule | may be raised (e.g. 10 or 15) | per schedule | as direct elimination |
-
-> **Note:** These are the default values; the Organising Team may announce
-> different values before the start of the competition (see the articles
-> below).
+> **Note:** A one-page summary of the bout parameters is provided in the
+> [Referee Quick Reference](appendices/04-referee-quick-reference.md).
 
 ### The round of pools
 
