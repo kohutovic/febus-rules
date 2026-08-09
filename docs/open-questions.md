@@ -27,3 +27,9 @@
    nie falšovanie alebo prenos kontrolných značiek. Návrh: doplniť do E
    kapitoly (alebo O.40) explicitný zákaz imitovania/prenosu kontrolných
    značiek.
+9. **Priority assignment for specific actions** (04-right-of-way.md, riadky
+   ~28–33) — blok noriem (požiadavka na blade commitment, counterattacks
+   nemôžu získať prioritu, podmienka pre remise) nemá čísla článkov (RoW.x),
+   preto nie je citovateľný. Návrh: federácia/maintainer rozhodne, či blok
+   očíslovať ako nové RoW články, alebo obsah zapracovať do existujúcich RoW
+   článkov. Do rozhodnutia blok samotný nemeniť.

@@ -138,8 +138,15 @@ class MarkdownToPDFConverter:
         
         return '\n'.join(toc_html)
     
-    def convert_md_links_to_anchors(self, content: str) -> str:
-        """Konvertuje odkazy na .md súbory na interné HTML kotvy"""
+    def convert_md_links_to_anchors(self, content: str, file_name: str) -> str:
+        """Konvertuje odkazy na .md súbory na interné HTML kotvy
+
+        Cesty v odkazoch sú relatívne k súboru, v ktorom sa nachádzajú (napr.
+        appendices/01-glossary.md odkazuje na ../04-right-of-way.md), takže sa
+        musia rozlíšiť voči adresáru zdrojového súboru (`file_name`) — nie voči
+        surovej ceste z odkazu — inak vznikne kotva, ktorá v dokumente
+        neexistuje (napr. '#..-04-right-of-way' namiesto '#04-right-of-way').
+        """
         # Pattern pre markdown odkazy: [text](path/file.md) alebo [text](path/file.md#anchor)
         def replace_link(match):
             link_text = match.group(1)
@@ -152,13 +159,17 @@ class MarkdownToPDFConverter:
             # Rozdeliť cestu a kotvu ak existuje
             if '#' in link_path:
                 file_part, anchor_part = link_path.split('#', 1)
-                # Odstráň .md a nahraď / za -
-                chapter_id = file_part.replace('.md', '').replace('/', '-')
-                # Vytvoriť internú kotvu
+            else:
+                file_part, anchor_part = link_path, None
+
+            # Rozlíšiť cestu voči adresáru zdrojového súboru
+            resolved = os.path.normpath(os.path.join(os.path.dirname(file_name), file_part))
+            chapter_id = resolved.replace('.md', '').replace(os.sep, '-').replace('/', '-')
+
+            if anchor_part is not None:
                 internal_anchor = f"#{chapter_id}-{anchor_part}"
             else:
                 # Len súbor bez kotvy - odkazuj na začiatok kapitoly
-                chapter_id = link_path.replace('.md', '').replace('/', '-')
                 internal_anchor = f"#{chapter_id}"
 
             return f"[{link_text}]({internal_anchor})"
@@ -170,7 +181,7 @@ class MarkdownToPDFConverter:
     def convert_markdown_to_html(self, content: str, file_name: str, chapter_num: int) -> str:
         """Konvertuje markdown na HTML s pridaním ID a číslovania pre navigáciu"""
         # Najprv konvertuj .md odkazy na interné kotvy
-        content = self.convert_md_links_to_anchors(content)
+        content = self.convert_md_links_to_anchors(content, file_name)
 
         # Inicializovať markdown konvertor
         md = markdown.Markdown(extensions=[
@@ -623,7 +634,7 @@ class MarkdownToPDFConverter:
                 border-collapse: collapse;
                 width: 100%;
                 margin: 2em 0;
-                page-break-inside: avoid;
+                page-break-inside: auto;
                 font-size: 10pt;
             }
             

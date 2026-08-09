@@ -6,14 +6,14 @@
    angles of the light and the ground slipperiness.
 
 **E.2** The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of
-   5x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
+   5x9 metres and a maximum of 8x12 metres. The borders of a fencing arena must be marked by a full
    line attached or drawn on the ground. The closest obstacle must be at least 1 meter away from the
    marking line.
 
-**E.3** The center point of a fencing arena may be marked.
+**E.3** The centre point of a fencing arena may be marked.
 
 **E.4** The starting position of the fencers must be marked in such a way that the on-guard line is at least 2m
-   away from the center of the arena in opposite directions, setting up at least 4m distance between
+   away from the centre of the arena in opposite directions, setting up at least 4m distance between
    the fencers at the start of each exchange.
 
 ## Equipment standards
