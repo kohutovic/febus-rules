@@ -36,21 +36,25 @@ back of the knees (see [Forbidden actions](../03-general.md)).
 
 | Equipment | Longsword | Rapier | Sabre | Sword & Buckler |
 |---|---|---|---|---|
-| FIE mask (CE level 2, 1600 N), undamaged | required | required | required | required |
-| Back-of-head + cervical spine protection | required | required | required | required |
-| Throat/larynx protector | required | required | required | required |
-| HEMA fencing gloves | required | not required with a sufficiently closed hilt (E.15) | not required with a sufficiently closed hilt (E.15) | required |
-| Additional wrist/forearm protection | — | required when fencing without a massive glove | required when fencing without a massive glove | — |
-| Rigid wrist guard | required | — | required | required |
-| Fencing jacket/gambeson ≥ 350 N, covering armpits | required | required | required | required |
-| Under-plastron 800 N (FIE) | — | required | — | — |
-| Breast/chest protection (women) | required | required | required | required |
-| Groin protector (men) | required | required | required | required |
-| Knee + shin protection (front and sides) | required | required | required | required |
-| Thigh protection ≥ 350 N (CE level 1) | required | required | required | required |
-| Hip protection (jacket or padded trousers) | required | required | required | required |
-| Side-weapon hand: glove with additional protection | — | required if a side weapon is used | — | — |
+| FIE mask (CE level 2, 1600 N), undamaged | ✓ | ✓ | ✓ | ✓ |
+| Back-of-head + cervical spine protection | ✓ | ✓ | ✓ | ✓ |
+| Throat/larynx protector | ✓ | ✓ | ✓ | ✓ |
+| HEMA fencing gloves | ✓ | ✓ ¹ | ✓ ¹ | ✓ |
+| Additional wrist/forearm protection | — | ✓ ² | ✓ ² | — |
+| Rigid wrist guard | ✓ | — | ✓ | ✓ |
+| Fencing jacket/gambeson ≥ 350 N, covering armpits | ✓ | ✓ | ✓ | ✓ |
+| Under-plastron 800 N (FIE) | — | ✓ | — | — |
+| Breast/chest protection (women) | ✓ | ✓ | ✓ | ✓ |
+| Groin protector (men) | ✓ | ✓ | ✓ | ✓ |
+| Knee + shin protection (front and sides) | ✓ | ✓ | ✓ | ✓ |
+| Thigh protection ≥ 350 N (CE level 1) | ✓ | ✓ | ✓ | ✓ |
+| Hip protection (jacket or padded trousers) | ✓ | ✓ | ✓ | ✓ |
+| Side-weapon hand: glove with additional protection | — | ✓ ³ | — | — |
+
+✓ = required for entering the category · — = not required ·
+¹ not required with a sufficiently closed hilt (E.15) ·
+² required when fencing without a massive glove (E.15) ·
+³ required if a side weapon is used (E.16)
 
 > **Note:** Summary only — the articles of the
-> [Technical & Equipment Standards](../02-equipment.md) prevail. `required`
-> means mandatory for entering the category.
+> [Technical & Equipment Standards](../02-equipment.md) prevail.
