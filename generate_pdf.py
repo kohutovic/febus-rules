@@ -366,19 +366,25 @@ class MarkdownToPDFConverter:
             return '<div class="changelog"><h1>Change Log</h1><p>No git history available.</p></div>'
     
     def extract_page_numbers_from_pdf(self, pdf_path: str) -> Dict[str, int]:
-        """Extrahuje čísla strán pre kotvy z PDF.
+        """Extrahuje čísla strán pre kotvy z PDF cez named destinations.
 
-        Primárne cez named destinations, ktoré vytvorí WeasyPrint pre každý
-        `<a href="#anchor">` odkaz (TOC odkazuje na každú kotvu z
-        self.toc_entries) — kotva sa tak namapuje priamo na skutočnú stranu
-        podľa PDF štruktúry, bez závislosti na texte nadpisu. Toto opravuje
-        prípady, keď sa rovnaký text nadpisu (napr. "Arena boundaries")
-        opakuje vo viacerých kapitolách/prílohách a staršie zhodovanie podľa
-        titulku vracalo stranu prvého výskytu textu, nie skutočnú stranu danej
-        kotvy.
+        WeasyPrint vytvorí named destination pre každý `<a href="#anchor">`
+        odkaz, ktorý má v dokumente zodpovedajúci `id`; TOC odkazuje na každú
+        kotvu z self.toc_entries, takže za normálnych okolností sa každá
+        kotva namapuje priamo na skutočnú stranu podľa PDF štruktúry, bez
+        závislosti na texte nadpisu. Toto opravuje prípady, keď sa rovnaký
+        text nadpisu (napr. "Arena boundaries", "Judging of hits") opakuje vo
+        viacerých kapitolách/prílohách — staršie zhodovanie podľa titulku
+        vracalo stranu prvého výskytu textu v CELOM dokumente (vrátane
+        bežného textu, nie len nadpisov), nie skutočnú stranu danej kotvy.
 
-        Ak sa pre niektorú kotvu named destination nenájde, spadne sa na
-        pôvodné zhodovanie podľa titulku nadpisu ako záložné riešenie.
+        Predchádzajúca verzia mala pre nevyriešené kotvy záložné zhodovanie
+        podľa titulku; to sa v praxi ukázalo nefunkčné (chybná posuvná
+        oblasť hľadania a zhoda na hocijaký výskyt textu, nielen nadpis) a
+        keďže named destinations pokrývajú všetky kotvy z TOC, bolo
+        odstránené. Ak sa napriek tomu pre niektorú kotvu destination
+        nenájde, hlasno sa to nahlási a číslo strany zostane v TOC prázdne
+        (rovnaké degradované správanie, aké malo pôvodné zlyhanie extrakcie).
         """
         page_numbers = {}
         try:
@@ -395,57 +401,20 @@ class MarkdownToPDFConverter:
                 for level, title, anchor in self.toc_entries:
                     dest = named_destinations.get(anchor)
                     if dest is None:
-                        unresolved.append((level, title, anchor))
+                        unresolved.append((title, anchor))
                         continue
                     try:
                         page_numbers[anchor] = pdf_reader.get_destination_page_number(dest) + 1
                     except Exception:
-                        unresolved.append((level, title, anchor))
+                        unresolved.append((title, anchor))
 
                 if unresolved:
-                    page_numbers.update(self._extract_page_numbers_by_title(pdf_reader, unresolved))
+                    print(f"VAROVANIE: {len(unresolved)} položiek obsahu nemá named "
+                          f"destination — ich číslo strany v TOC ostane prázdne: "
+                          f"{[title for title, _ in unresolved]}")
 
         except Exception as e:
             print(f"Varovanie: Nepodarilo sa extrahovať čísla strán: {e}")
-
-        return page_numbers
-
-    def _extract_page_numbers_by_title(self, pdf_reader, entries) -> Dict[str, int]:
-        """Záložné zhodovanie kotvy podľa textu titulku (ak chýba named destination).
-
-        Na rozdiel od pôvodnej implementácie sa strany prehľadávajú v poradí,
-        v akom sa nadpisy nachádzajú v dokumente (self.toc_entries), a
-        vyhľadávanie pre každý ďalší nadpis začína až od strany, na ktorej sa
-        našiel predchádzajúci — nie od strany 1. Pri opakujúcom sa texte
-        titulku (napr. rovnaký názov v dvoch kapitolách) sa tak každá kotva
-        naviaže na svoj skutočný výskyt, nie na prvý výskyt textu v dokumente.
-        """
-        page_numbers = {}
-        page_texts = []
-        for page in pdf_reader.pages:
-            text = page.extract_text() or ''
-            page_texts.append(' '.join(text.split()))
-
-        search_from = 0
-        for level, title, anchor in entries:
-            clean_title = title.split('. ', 1)[-1] if '. ' in title else title
-            short_title = ' '.join(clean_title.split()[:3])
-            found_page = None
-            for page_idx in range(search_from, len(page_texts)):
-                text = page_texts[page_idx]
-                for candidate in (clean_title, short_title):
-                    idx = text.find(candidate)
-                    if idx == -1:
-                        continue
-                    before = text[max(0, idx - 10):idx]
-                    if idx == 0 or any(c.isdigit() or c == '.' for c in before[-3:]):
-                        found_page = page_idx + 1
-                        break
-                if found_page:
-                    break
-            if found_page:
-                page_numbers[anchor] = found_page
-                search_from = found_page - 1
 
         return page_numbers
 
