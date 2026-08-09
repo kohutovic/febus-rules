@@ -26,3 +26,5 @@
 
 - [Glossary](appendices/01-glossary.md)
 - [Table of Offences and Penalties](appendices/02-penalties.md)
+- [Weapon Overview](appendices/03-weapon-overview.md)
+- [Referee Quick Reference](appendices/04-referee-quick-reference.md)
