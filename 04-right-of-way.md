@@ -51,6 +51,10 @@ Priority assignment for specific actions:
 - a) The parry is properly carried out when, before the completion of the attack, it prevents the arrival of that attack by closing the line in which that attack is to finish.
 - b) When a parry is properly executed, the attack by the opponent must be declared parried, and judged as such by the Referee, even if, as a result of its flexibility, the tip of the opponent's weapon makes contact with the target.
 
+> **Example:** A attacks; B parries successfully but pauses before riposting.
+> A immediately renews the attack and hits while B's delayed riposte also
+> lands. → A scores: the delayed riposte lost priority.
+
 ## Priority Assignment in Double Hits
 
 **RoW.14** Priority rules are only used in assessing double hits. If there is a delay of a fencing time or more between hits, the fencer who landed first is assessed to have scored.
@@ -69,6 +73,15 @@ Priority assignment for specific actions:
 
 **RoW.20** if, having their point 'in line' and being subjected to a beat or a taking of the blade which deflects their blade, they attack or place their point in line again instead of parrying a direct hit made by the opponent
 
+> **Example:** A attacks with a straight thrust, the arm extending before the
+> lunge. B counterattacks to the arm without parrying; both hits land within
+> one fencing time. → A alone scores: a counterattack into a simple attack
+> loses.
+
+> **Example:** A makes a compound attack (feint, then disengage). B stop-hits,
+> but the stop-hit lands only as A starts the final movement. → The stop-hit
+> is not in time; A alone scores.
+
 ### The fencer who attacks is alone counted as hit:
 
 **RoW.21** If they initiated their attack when the opponent's point was 'in line', without deflecting the opponent's weapon. Referees must ensure that a mere contact of the blades is not considered as sufficient to deflect the opponent's blade.
@@ -82,6 +95,14 @@ Priority assignment for specific actions:
 **RoW.25** If, during a compound attack, they are stop-hit one period of fencing time before they make the final movement of the attack.
 
 **RoW.26** If they make a hit by a renewed attack following a parry by the opponent which has been followed by a riposte which is immediate, simple and executed in one period of fencing time without withdrawing the arm.
+
+> **Example:** B stands with the point in line before A starts attacking. A
+> attacks without deflecting B's blade and both fencers are hit. → B alone
+> scores: A had to take the blade first.
+
+> **Example:** A attacks; B parries and ripostes immediately with a simple
+> direct riposte. A renews the attack (remise) and both hits land. → B alone
+> scores: a remise against an immediate simple riposte loses.
 
 ### Both fencers are at fault (no points awarded)
 

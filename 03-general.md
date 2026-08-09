@@ -173,6 +173,21 @@
       (or the finishing move of a compound action) at or after the moment of receiving a hit.
       After-actions do not score, and do not nullify the hit received.
 
+> **Example (simultaneous hit):** Both fencers decide to attack at the same
+> moment and both cuts land together; neither action began meaningfully
+> earlier. → Simultaneous hit, scored according to the weapon-specific rules
+> (no score change in Longsword and Sabre; both fencers score in Rapier and
+> Sword & Buckler).
+
+> **Example (double hit):** Fencer A launches a correct attack. Fencer B,
+> instead of parrying, counterattacks; both hits arrive within one period of
+> fencing time. → Double hit, evaluated by the weapon-specific rules (in
+> priority weapons the point goes to A).
+
+> **Example (after-action):** Fencer A lands a clean valid hit. Only after
+> being hit does Fencer B start a counter-cut, which also lands. → B's hit is
+> an after-action: it does not score and does not annul A's point.
+
 **G.33** Hits can be made using the weapon in the following ways:
 
 - a) Cut - carried out with the edge of the blade on any valid target. A cut must be performed

@@ -39,10 +39,10 @@
 
 ## Fencing actions
 
-1. This section of the rules defines basic fencing actions in terms which are easy to understand for
-   every fencer even though they might practice different schools of fencing and thus use
-   various terminologies. It is stressed that this section in no way replaces a treatise on fencing
-   and is only included in order to help the reader understand the rules.
+> **Note:** This section of the rules defines basic fencing actions in terms which are easy to
+> understand for every fencer even though they might practise different schools of fencing and
+> thus use various terminologies. It is stressed that this section in no way replaces a treatise
+> on fencing and is only included in order to help the reader understand the rules.
 
 ### Offensive actions
 
