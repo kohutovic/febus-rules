@@ -1,0 +1,64 @@
+# Longsword competitions
+
+## Rules of hit validity and fencing actions
+
+**LS.1** All hits made with the true edge, the false edge, and the tip of the blade are valid if they are
+   performed in such a way that it would have caused a wound to an unarmoured opponent, had the
+   weapon been sharp. Hits performed with the flat may be counted, if they bear the characteristics
+   of a coordinated and potent technique. A strike with the pommel against the front mesh of the
+   opponent's mask is also a valid hit (see [G.33](03-general.md) — pommel strike). It is
+   up to the Referee’s discretion to judge the validity of hits.
+
+**LS.2** Hits through the blade, that is to say those which bend over the opponent’s blade or cross-guard,
+   are not considered to be valid. However, the Referee may count a hit as valid, if the opponent’s
+   blade has not closed the line of the attack, and it touches at the same time the valid target and
+   the weapon of the opponent, whenever they arrive clearly on the target.
+
+**LS.3** The target includes the whole of the fencer’s body, including the handle of the weapon, clothing,
+   and safety equipment, except for the back of the head, spine, groin, the feet, and the back of
+   the knees.
+
+
+## Priority
+
+Longsword uses the standard priority (right of way, historically *Vor*) system. See [Right of Way and Priority Rules](04-right-of-way.md) for detailed priority conventions and examples.
+
+## Close quarter combat
+
+**LS.4** Priority ceases to exist when the weapons of the opponents come together at *Stercke* on
+   *Stercke* (including the cross-guard), and/or in case of grappling actions. In case the weapons
+   touch *Stercke* on *Stercke*, and a double hit follows immediately, no points are awarded.
+   Otherwise, they may disengage and continue fencing (with priority rules), or enter
+   grappling (with grappling rules).
+
+## Judging of hits
+
+**LS.5** When during a phrase both fencers are hit within a period of fencing time there is either a
+    simultaneous action or a double hit:
+
+- a) The simultaneous action is due to simultaneous conception and execution of an attack by both
+       fencers; in this case no points are awarded.
+- b) A double hit, on the other hand, occurs when there is no interval of fencing time between the
+       hits and it is the result of a clearly faulty action on the part of one of the fencers, as
+       defined by these rules.
+
+**LS.6** When there is a double hit, and if the Referee is unable clearly to judge from which side the
+    fault has come, the Referee must not assign any points.
+
+**LS.7** In cases when a stop-hit is made and there is doubt as to whether it was made sufficiently in
+    time in relation to the final movement of a compound attack, the double hit often occurs through
+    the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case,
+    the Referee should assign no points.
+
+> **Note:** The fault of the attacker typically consists of indecision, slow execution, or
+> insufficiently effective feints; the fault of the defender lies in a delayed or slow stop-hit.
+
+**LS.8** Any actions executed while holding the weapon with one hand only, can only score if the fencer
+    does not receive any attack or counterattack with a weapon held with two hands, within one
+    period of fencing time.
+
+**LS.9** However if the opponent reacts to the attack with a weapon held in one hand with an attempt to
+    parry, an unsuccessful parry returns the priority to the one-handed hit.
+
+**LS.10** In cases when both fencers get hit with a weapon held in one hand within time, the judgment of
+    the action follows the regular priority rules.

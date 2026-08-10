@@ -1,0 +1,4 @@
+markdown>=3.4.0
+weasyprint>=60.0
+Pygments>=2.15.0
+PyPDF2>=3.0.0
