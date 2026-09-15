@@ -35,7 +35,7 @@ offence of this group.
 | 1.7 | Hitting the arena floor with an uncontrolled action | G.43 |
 | 1.8 | Refusal to obey the Referee (including actions before 'Fence!' or after 'Halt!') | G.10 |
 | 1.9 | Disorderly fencing \*; taking off the mask before the Referee calls 'Halt!'; dressing or undressing in the arena | D.11, D.13 |
-| 1.10 | Irregular movements in the arena \*; throwing the opponent by lifting both of their feet off the ground \* | D.13, G.50 |
+| 1.10 | Irregular movements in the arena \*; attacking by jumping or diving without landing on both feet \*; throwing the opponent by lifting both of their feet off the ground \* | D.13, G.44, G.51 |
 | 1.11 | Unjustified appeal | D.19 |
 | 1.12 | Hitting with the fists, kicking \* | G.38 |
 | 1.13 | Removing the opponent's mask or any other protective equipment \* | — |
@@ -67,7 +67,7 @@ Penalty: **BLACK** for the first offence.
 
 | No. | Offence | Art. |
 |-----|---------|------|
-| 4.1 | Deliberate brutality; throwing the opponent onto their head \*; neck-wrenching and small-joint manipulation \*; failing to stop dangerous submission holds before full application (both fencers may be penalised, the victim as well if they did not submit) \*; throwing the dagger at the opponent in Rapier bouts \* | G.50, R.16 |
+| 4.1 | Deliberate brutality; throwing the opponent onto their head \*; neck-wrenching and small-joint manipulation \*; failing to stop dangerous submission holds before full application (both fencers may be penalised, the victim as well if they did not submit) \*; throwing the dagger at the opponent in Rapier bouts \* | G.51, R.16 |
 | 4.2 | Causing injury or threat of injury with equipment non-conforming to the Rules, or with imitated/transferred weapon control marks | E.5 |
 | 4.3 | Offence against sportsmanship (e.g. refusal to salute or shake hands after the bout) | G.21, D.14 |
 | 4.4 | Refusal of a fencer to fence another fencer properly entered | D.6 |
