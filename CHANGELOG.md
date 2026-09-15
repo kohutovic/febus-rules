@@ -17,6 +17,10 @@ Rule changes:
   buckler had no article covering a fencer going to the ground. This completes
   the promotion of universal rules begun in this release; articles G.45–G.51
   are renumbered accordingly.
+- The identifier stability clause in the introduction now binds from the first
+  published version. The renumbering above is therefore the last time article
+  identifiers may move: from 2.0.0 onward an identifier, once published, never
+  changes.
 
 Readability refactor — no intended changes to the meaning of the rules:
 
