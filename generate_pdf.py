@@ -39,7 +39,7 @@ class MarkdownToPDFConverter:
         
         # Hlavné súbory v root adresári
         for file in Path('.').glob('*.md'):
-            if file.name not in ['README.md', 'CLAUDE.md', 'CHANGELOG.md'] \
+            if file.name not in ['README.md', 'CHANGELOG.md'] \
                     and not file.name.startswith('FEBUS_smernica'):
                 root_files.append((file.name, file))
         
