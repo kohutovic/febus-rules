@@ -12,6 +12,10 @@ a valid hit lands · an invalid hit complicates further evaluation · a fencer
 leaves the arena with both feet · end of time · dangerous or confused fencing ·
 equipment failure · injury · a fencer requests a break (raised arm) (see G.8)
 
+Also, in every weapon category: a fencer goes to the ground · a fencer falls or
+drops the weapon without the opponent's interaction · an attack by jumping or
+diving that does not end with the fencer on both feet (see G.44–G.46).
+
 ## Arena boundaries
 
 - Both feet out → stop immediately; annul everything after the crossing (G.13–G.14).

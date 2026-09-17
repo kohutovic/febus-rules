@@ -244,40 +244,49 @@
     the opponent's interactions, accidental touches, and touching the floor
     after having hit the opponent, may be disregarded by the Referee).
 
+**G.44** A fencer must not attack by jumping, diving, or otherwise throwing the
+    body in a manner that does not end with the fencer on both feet and in
+    control. The Referee must call 'Halt!' and annul any hit scored by the
+    fencer at fault (see penalty 1.10). Where such an action endangers the
+    opponent, it is penalised as a dangerous action instead (see penalty 2.4).
+    An involuntary loss of balance is not an offence under this article.
+
+## Falls and ground action (all weapons)
+
+**G.45** Ground action is not allowed, the Referee must call 'Halt!' when one of the fencers falls to
+    the ground, or whenever the Referee is unable to judge the action any more, or when a reasonable
+    time has passed for dominance to apply.
+
+**G.46** If a fencer accidentally drops the weapon, or falls without the opponent's interaction, the
+    Referee must call 'Halt!'. A hit that started before the fencer obviously lost the weapon should
+    be counted as valid even if it arrives afterwards, but in the spirit of sportsmanship, no
+    intentional new attack should be initiated if the opponent has fallen or lost the weapon.
+
 ## Close quarter combat
 
 Close quarter combat and grappling are allowed only where the weapon-specific rules permit them
 (currently only in the Longsword category), with the following regulations:
 
-**G.44** The Referee may call 'Halt!' after an unsuccessful period of grappling.
+**G.47** The Referee may call 'Halt!' after an unsuccessful period of grappling.
 
-**G.45** Grappling on the opponent's blade is allowed, if the blade is controlled. Seizing of the blade
+**G.48** Grappling on the opponent's blade is allowed, if the blade is controlled. Seizing of the blade
    needs to be momentary, and followed by an immediate 'clean' hit to score a point. If the
    fencer can not achieve a hit consequently to seizing the blade, the Referee calls 'Halt!'
    and awards no points. Failing to control the blade is counted as a point against the
    fencer who attempted to enter grappling.
 
-**G.46** Grappling actions that score a point are:
+**G.49** Grappling actions that score a point are:
 
 - a) take-downs and throws followed/accompanied by a simple and immediate hit with the weapon
       (within a period of fencing time)
 - b) controlling the opponent via grappling with or without the weapon, until the Referee calls
       'Halt!'
 
-**G.47** Ground action is not allowed, the Referee must call 'Halt!' when one of the fencers falls to the
-   ground, or whenever the Referee is unable to judge the action any more, or when a reasonable time
-   has passed for dominance to apply.
-
-**G.48** Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
+**G.50** Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
    Referee calls 'Halt!') controls the opponent's weapon and enters grappling.
-
-**G.49** If a fencer accidentally drops the weapon, or falls without the opponent's interaction, the
-   Referee must call 'Halt!'. A hit that started before the fencer obviously lost the weapon should
-   be counted as valid even if it arrives afterwards, but in the spirit of sportsmanship, no
-   intentional new attack should be initiated if the opponent has fallen or lost the weapon.
 
 ### Forbidden actions in close quarter combat
 
-**G.50** Neck-wrenching, lifting the opponent off the ground, full application of
+**G.51** Neck-wrenching, lifting the opponent off the ground, full application of
     joint locks, small-joint manipulation, or other potentially dangerous
     wrestling techniques are strictly forbidden.

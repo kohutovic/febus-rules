@@ -2,6 +2,26 @@
 
 ## 2.0.0-draft (2026)
 
+Rule changes:
+
+- New article G.44: a fencer must not attack by jumping, diving or otherwise
+  throwing the body in a manner that does not end with the fencer on both feet
+  and in control. Applies to every weapon category; added to penalty 1.10
+  (first group, hit annulled). Where such an action endangers the opponent it
+  is penalised as a dangerous action (penalty 2.4). An involuntary loss of
+  balance is not an offence under this article.
+- The ground-action rule and the rule on falls and dropped weapons (previously
+  G.47 and G.49) were moved out of the longsword-only close-quarter section
+  into a new "Falls and ground action (all weapons)" section. They now apply to
+  every weapon category, which closes a gap where sabre, rapier and sword &
+  buckler had no article covering a fencer going to the ground. This completes
+  the promotion of universal rules begun in this release; articles G.45–G.51
+  are renumbered accordingly.
+- The identifier stability clause in the introduction now binds from the first
+  published version. The renumbering above is therefore the last time article
+  identifiers may move: from 2.0.0 onward an identifier, once published, never
+  changes.
+
 Readability refactor — no intended changes to the meaning of the rules:
 
 - Chapters renamed to the canonical reading order; README, PDF and file

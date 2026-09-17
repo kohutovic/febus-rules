@@ -22,5 +22,5 @@ recommendation. Terms in *italics* are defined in the
 Rules are numbered with a chapter prefix (E = Equipment, G = General,
 RoW = Right of Way, LS = Longsword, R = Rapier, S = Sabre, SB = Sword &
 Buckler, O = Organisational, D = Disciplinary) and are cited by these
-identifiers, e.g. "G.16" or "RoW.12(a)". Once assigned, an identifier
-never changes.
+identifiers, e.g. "G.16" or "RoW.12(a)". Once assigned in a published
+version, an identifier never changes.
