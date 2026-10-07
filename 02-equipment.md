@@ -6,7 +6,7 @@
    angles of the light and the ground slipperiness.
 
 2. The fencing arena is a square or rectangular shape, its dimensions must be between a minimum of
-   5x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
+   4x9 meters and a maximum of 8x12 meters. The borders of a fencing arena must be marked by a full
    line attached or drawn on the ground. The closest obstacle must be at least 1 meter away from the
    marking line.
 
@@ -35,8 +35,9 @@
    approved the contestant’s entry. The staff or the referee will be subjected to disciplinary
    proceedings and their license may be revoked.
 
-4. A referee has the right to forbid a piece or a set of equipment which does not comply with the
-   prescribed norm.
+4. A referee may forbid equipment that does not meet these rules. The organisers may also disallow
+   any weapon or equipment they consider unsafe or contrary to the spirit of the rules, even if it
+   meets the stated requirements.
 
 ### Protection Gear
 
@@ -86,7 +87,8 @@
 
 1. A groin protector is mandatory for every male contestant in all weapon categories.
 
-2. The knees and shins must be protected at the front and the sides as well.
+2. Where the legs are a valid target, the knees and shins must be protected at the front and the
+   sides. Where the legs are not a valid target (currently Sabre), this protection is optional.
 
 3. The hips must be protected either by a fencing jacket or by padded pants.
 
@@ -249,11 +251,8 @@
 5. The flexibility of the blade is measured by applying pressure on the blade point against
    scales, with one hand firmly placed on the pommel. The blade's flexibility is defined as the
    maximum number (in kg) displayed on the scales before the blade reaches full bend. For
-   longsword blades, the acceptable range is 10kg.
+   sabre blades, the acceptable range is 10kg.
 
 6. The minimum point surface area is 50mm². The blade will have a safe tip, this being defined as
    rolled, thickened or spatulated. The tip will be further built up at the event with contrasting
    high-visibility tape.
-
-7. The organizers reserve the right to disallow weapons they feel are unsafe or against the spirit
-   of the rules.

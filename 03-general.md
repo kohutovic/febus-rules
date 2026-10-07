@@ -1,4 +1,4 @@
-### General rules
+# General rules
 
 ## The Process of the Bouts
 
@@ -138,6 +138,17 @@
     winning, and the fencer does not lose their place in the overall classification of the
     competition.
 
+30. A fencer must not attack by deliberately diving, falling, or sliding onto the floor. Brief,
+    controlled contact of a knee or unarmed hand with the floor is not a fall. The Referee must call
+    'Halt!', annul any hit by the fencer at fault, and apply penalty 1.10, or penalty 2.4 if the
+    action endangers the opponent. An accidental fall is not an offence under this rule.
+
+31. Fencing on the ground is not allowed. The Referee must call 'Halt!' when a fencer falls.
+
+32. If a fencer accidentally drops their weapon, the Referee must call 'Halt!'. A hit started before
+    the weapon was lost may still score if it lands before 'Halt!'. A fencer should not start a new
+    attack against an opponent who has fallen or lost their weapon.
+
 ## The methods of scoring hits
 
 1. Fencing time is the time required to perform one simple fencing action. In judging hits, referees
@@ -196,16 +207,8 @@ Close quarter combat and grappling are allowed with the following regulations:
       (within a period of fencing time)
    2. controlling the opponent via grappling with or without the weapon, until the Referee calls
       'Halt!'
-4. Ground action is not allowed, the Referee shall call “Halt!” when one of the fencers falls to the
-   ground, or whenever the referee is unable to judge the action any more, or when a reasonable time
-   has passed for dominance to apply.
-5. Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
+4. Disarming is allowed and scores a point, unless the disarmed fencer immediately (before the
    referee calls 'Halt!') controls the opponent's weapon and enters grappling.
-
-6. If a fencer accidentally drops the weapon, or falls without the opponent's interaction, the
-   Referee shall call 'Halt!'. A hit that started before the fencer obviously lost the weapon should
-   be counted as valid even if it arrives afterwards, but in the spirit of sportsmanship, no
-   intentional new attack should be initiated if the opponent has fallen or lost the weapon.
 
 ### Forbidden actions
 
