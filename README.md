@@ -1,5 +1,11 @@
 # FEBUS Tournament Rulebook
 
+[Download the complete rulebook (PDF)](febus_rulebook.pdf).
+
+To rebuild the PDF after editing the rules, install the Python dependencies with
+`python3 -m pip install -r requirements.txt`, then run `python3 generate_pdf.py`
+from the repository root.
+
 ## Introduction
 
 - [Introduction](01-intro.md)
@@ -25,4 +31,3 @@
 
 - [Glossary](appendices/01-glossary.md)
 - [Tables of offence and penalties](appendices/02-penalties.md)
-

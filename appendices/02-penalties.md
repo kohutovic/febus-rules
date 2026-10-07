@@ -169,7 +169,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.10
       </td>
-      <td>Irregular moves in the arena *; throwing the opponent by lifting their both of their feet off the ground *
+      <td>Irregular moves in the arena *; attacking by deliberately diving, falling, or sliding onto the floor *; throwing the opponent by lifting their both of their feet off the ground *
       </td>
       <td>
       </td>
