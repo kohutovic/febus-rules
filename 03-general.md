@@ -52,9 +52,11 @@
     reason that proves to be valid (e.g. equipment failure, injury). However, the exchange stops only
     when the Referee gives the command to stop.
 
-10. No actions that have started before the command to start or after the command to stop may be
-    counted as valid. Starting any action before the command to start and initiating an action after
-    the command to stop belong to the first group of offences.
+10. Only actions started after the command to start and before the command to stop may be counted
+    as valid. A hit from an action that started before 'Halt!' is valid even if it lands after the
+    command; any new action initiated after 'Halt!' is invalid. Starting any action before the
+    command to start and initiating an action after the command to stop belong to the first group
+    of offences.
 
 11. Invalid hits may be disregarded at the Referee's discretion as if never happened, when the
     Referee is able to clearly follow the exchange.
@@ -149,8 +151,8 @@
 31. Fencing on the ground is not allowed. The Referee must call 'Halt!' when a fencer falls.
 
 32. If a fencer accidentally drops their weapon, the Referee must call 'Halt!'. A hit started before
-    the weapon was lost may still score if it lands before 'Halt!'. A fencer should not start a new
-    attack against an opponent who has fallen or lost their weapon.
+    the weapon was lost and before 'Halt!' may still score (see rule 10). A fencer should not start
+    a new attack against an opponent who has fallen or lost their weapon.
 
 ## The methods of scoring hits
 

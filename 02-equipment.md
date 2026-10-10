@@ -71,10 +71,10 @@
 4. Gloves used in a tournament don’t need to have a thickened layer on the inside of the palm but
    the palm must be covered at least by a simple glove or textile.
 
-5. The torso of the body must be protected with an undamaged fencing jacket or gambeson with at
-   least 350N FIE certification, made of special hardened or thick material which prevents blade
-   penetration and eases the blade impact. The jacket is subjected to control by the tournament
-   staff and the arena referee. A fencing jacket must cover the armpits as well.
+5. The torso of the body must be protected with an undamaged fencing jacket or gambeson certified
+   to at least 350N (CE Level 1, EN 13567), made of special hardened or thick material which
+   prevents blade penetration and eases the blade impact. The jacket is subjected to control by
+   the tournament staff and the arena referee. A fencing jacket must cover the armpits as well.
 
 6. Every female contestant must wear solid breast/chest protection.
 
@@ -84,16 +84,22 @@
 8. Every part of the body must be covered. No open space must be left between the gloves and the
    jacket.
 
-9. An 800N FIE-certified under-plastron is mandatory in the Rapier category.
+9. An 800N under-plastron (CE Level 2, EN 13567, or FIE-homologated) is mandatory in the Rapier
+   category. In all other categories, an 800N under-plastron (underarm protector) on the side of
+   the weapon arm is recommended.
 
 10. A rigid wrist guard is mandatory in the Longsword, Sabre, and Sword & Buckler categories.
+
+11. Gloves with 800N puncture resistance are recommended in all categories (e.g. an FIE-homologated
+    glove worn under the HEMA glove).
 
 #### Legs
 
 1. A groin protector is mandatory for every male contestant in all weapon categories.
 
 2. Where the legs are a valid target, the knees and shins must be protected at the front and the
-   sides. Where the legs are not a valid target (currently Sabre), this protection is optional.
+   sides. Where the legs are not a valid target (currently Sabre), this protection is not mandatory
+   but is strongly recommended.
 
 3. The hips must be protected either by a fencing jacket or by padded pants.
 
